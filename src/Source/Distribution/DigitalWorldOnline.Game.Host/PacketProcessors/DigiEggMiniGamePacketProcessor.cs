@@ -157,9 +157,8 @@ namespace DigitalWorldOnline.Game.PacketProcessors
 
             // Prepare next bar
             ushort nextBarIndex = (ushort)(barIndex + 1);
-            // ✅ FIXED: Explicit cast to int to avoid ambiguity
-            ushort nextBarTime = session.BarTimings[(int)Math.Min((int)nextBarIndex, 6)];
 
+            // ✅ Check if this is the last bar BEFORE calculating nextBarTime
             if (barIndex >= 6) // Last bar (index 6 is the 7th bar)
             {
                 // Game complete after last click
@@ -167,6 +166,9 @@ namespace DigitalWorldOnline.Game.PacketProcessors
                 await HandleGameEnd(client, session.SuccessCount);
                 return;
             }
+
+            // ✅ FIXED: Explicit cast to int to avoid ambiguity
+            ushort nextBarTime = session.BarTimings[(int)Math.Min((int)nextBarIndex, 6)];
 
             // Send click result with next bar info
             client.Send(new HatchMiniGameClickResultPacket(result, nextBarIndex, nextBarTime).Serialize());
@@ -276,14 +278,27 @@ namespace DigitalWorldOnline.Game.PacketProcessors
         {
             try
             {
-                // ✅ FIXED: Added stage parameter (default 0 for normal difficulty)
+                // ✅ FIXED: Null check for session
+                if (session == null)
+                {
+                    _logger.Error($"SendGameStart: Session is null for player {client.Tamer.Name}");
+                    return;
+                }
+
+                // ✅ FIXED: Validate bar timings exist
+                if (session.BarTimings == null || session.BarTimings.Count == 0)
+                {
+                    _logger.Error($"SendGameStart: BarTimings is empty for player {client.Tamer.Name}");
+                    return;
+                }
+
                 client.Send(new HatchMiniGameStartPacket(session.BarTimings[0], stage).Serialize());
 
-                _logger.Information($"Sent HatchMiniGameStart packet to player {client.Tamer.Name} with stage {stage}");
+                _logger.Information($"Sent HatchMiniGameStart packet to player {client.Tamer.Name} with stage {stage}, first bar time: {session.BarTimings[0]}ms");
             }
             catch (Exception ex)
             {
-                _logger.Error($"Error sending game start packet: {ex.Message}");
+                _logger.Error($"Error sending game start packet to {client.Tamer.Name}: {ex.Message}");
             }
         }
 

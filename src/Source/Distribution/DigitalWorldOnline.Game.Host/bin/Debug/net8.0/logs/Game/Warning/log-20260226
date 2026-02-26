@@ -14,3 +14,6 @@
 2026-02-26 14:24:59.634 +00:00 [Warning] [DigiEggGameStart] ✗ Player hggv UI failed to initialize (status: 58)
 2026-02-26 14:25:15.318 +00:00 [Warning] [DigiEggGameStart] ✗ Player hggv UI failed to initialize (status: 58)
 2026-02-26 14:25:30.979 +00:00 [Warning] [DigiEggGameStart] ✗ Player hggv UI failed to initialize (status: 58)
+2026-02-26 14:51:46.692 +00:00 [Warning] Waiting map 2 CH 0 initialization.
+2026-02-26 14:53:03.089 +00:00 [Warning] [DigiEggGameStart] ✗ Player hggv UI failed to initialize (status: 58)
+2026-02-26 14:53:09.664 +00:00 [Warning] [DigiEggGameInput] Invalid button index 256 from player hggv

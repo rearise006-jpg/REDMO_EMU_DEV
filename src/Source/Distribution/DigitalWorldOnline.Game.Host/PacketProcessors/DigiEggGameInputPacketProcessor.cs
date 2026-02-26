@@ -39,8 +39,8 @@ namespace DigitalWorldOnline.Game.PacketProcessors
             {
                 var packet = new GamePacketReader(packetData);
 
-                // Read button index (1-indexed from client)
-                int rawButtonIndex = packet.ReadInt();
+                // ✅ FIXED: Client sends ushort (2 bytes), not int!
+                ushort rawButtonIndex = packet.ReadUShort();  // Changed from ReadInt() to ReadUShort()
 
                 // Convert to 0-indexed for string comparison
                 int buttonIndex = rawButtonIndex - 1;
@@ -51,29 +51,17 @@ namespace DigitalWorldOnline.Game.PacketProcessors
                 if (buttonIndex < 0 || buttonIndex >= TARGET_SEQUENCE.Length)
                 {
                     _logger.Warning($"[DigiEggGameInput] Invalid button index {buttonIndex} from player {client.Tamer.Name}");
-                    SendClickResponse(client, 0); // Wrong
-                    await Task.CompletedTask;
+                    SendClickResponse(client, 0);
                     return;
                 }
 
-                // Initialize tracker if not exists
-                if (!_sequenceTrackers.ContainsKey(client.TamerId))
+                // Get or create tracker for this player
+                if (!_sequenceTrackers.TryGetValue(client.TamerId, out var tracker))
                 {
-                    _sequenceTrackers[client.TamerId] = new GameSequenceTracker
-                    {
-                        TamerId = client.TamerId,
-                        CurrentPosition = 0,
-                        StartTime = DateTime.UtcNow,
-                        ClickCount = 0,
-                        CorrectClicks = 0,
-                        WrongClicks = 0
-                    };
+                    tracker = new GameSequenceTracker();
+                    _sequenceTrackers[client.TamerId] = tracker;
                 }
 
-                var tracker = _sequenceTrackers[client.TamerId];
-                tracker.ClickCount++;
-
-                // Check if clicked button matches expected position in sequence
                 if (buttonIndex == tracker.CurrentPosition)
                 {
                     // ✅ CORRECT CLICK
@@ -82,7 +70,7 @@ namespace DigitalWorldOnline.Game.PacketProcessors
                     tracker.CorrectClicks++;
                     tracker.CurrentPosition++;
 
-                    // Send success acknowledgement using new packet
+                    // Send success acknowledgement
                     SendClickResponse(client, 1);
 
                     // Check if sequence is complete
@@ -109,18 +97,16 @@ namespace DigitalWorldOnline.Game.PacketProcessors
                     // Reset to beginning
                     tracker.CurrentPosition = 0;
 
-                    // Send fail acknowledgement using new packet
+                    // Send fail acknowledgement
                     SendClickResponse(client, 0);
-
-                    client.Send(new SystemMessagePacket("❌ Wrong button! Sequence reset. Try again!"));
                 }
 
                 await Task.CompletedTask;
             }
             catch (Exception ex)
             {
-                _logger.Error($"[DigiEggGameInput] Error processing packet from player {client?.Tamer?.Name}: {ex.Message}");
-                client?.Send(new SystemMessagePacket("Error processing button click. Please try again."));
+                _logger.Error($"[DigiEggGameInput] Error processing button click for player {client?.Tamer?.Name}: {ex.Message}");
+                client?.Send(new SystemMessagePacket("An error occurred. Please try again."));
             }
         }
 

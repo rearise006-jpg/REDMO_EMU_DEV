@@ -17,3 +17,11 @@
 2026-02-26 14:20:27.211 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59511.
 2026-02-26 14:20:34.880 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59511.
 2026-02-26 14:20:35.057 +00:00 [Debug] Source disconnected: 127.0.0.1:59511. Account: 6.
+2026-02-26 14:50:54.479 +00:00 [Debug] Sending handshake for request source 127.0.0.1:49418.
+2026-02-26 14:50:54.836 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:49418.
+2026-02-26 14:50:54.868 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:49418.
+2026-02-26 14:51:08.210 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:49418.
+2026-02-26 14:51:10.470 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:49418.
+2026-02-26 14:51:13.188 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:49418.
+2026-02-26 14:51:20.267 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:49418.
+2026-02-26 14:51:20.392 +00:00 [Debug] Source disconnected: 127.0.0.1:49418. Account: 6.

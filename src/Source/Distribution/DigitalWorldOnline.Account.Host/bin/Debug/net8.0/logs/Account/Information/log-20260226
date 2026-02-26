@@ -10,3 +10,8 @@
 2026-02-26 14:18:41.700 +00:00 [Information] Migrations executed !!
 2026-02-26 14:20:12.716 +00:00 [Information] Accepted connection event from 127.0.*********.
 2026-02-26 14:20:35.042 +00:00 [Information] Received disconnection event for 127.0.*********.
+2026-02-26 14:48:48.658 +00:00 [Information] Services Loaded !!
+2026-02-26 14:48:48.697 +00:00 [Information] Executing Migrations ...
+2026-02-26 14:48:50.600 +00:00 [Information] Migrations executed !!
+2026-02-26 14:50:54.444 +00:00 [Information] Accepted connection event from 127.0.*********.
+2026-02-26 14:51:20.389 +00:00 [Information] Received disconnection event for 127.0.*********.

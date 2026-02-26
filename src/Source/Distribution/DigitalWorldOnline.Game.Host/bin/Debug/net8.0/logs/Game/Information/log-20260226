@@ -44,3 +44,25 @@
 2026-02-26 14:26:35.126 +00:00 [Information] Received disconnection event for hggv 327 127.0.*********.
 2026-02-26 14:26:35.128 +00:00 [Information] Removing the tamer hggv 327. 127.0.*********.
 2026-02-26 14:26:35.152 +00:00 [Information] Updating character hggv 327 state upon disconnect...
+2026-02-26 14:49:17.732 +00:00 [Information] Services Loaded !!
+2026-02-26 14:49:18.192 +00:00 [Information] Loading database assets !!
+2026-02-26 14:49:19.477 +00:00 [Information] Loaded 18388 items from XML
+2026-02-26 14:49:22.082 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-26 14:49:24.341 +00:00 [Information] Loading additional information !!
+2026-02-26 14:49:26.014 +00:00 [Information] Loading XML assets !!
+2026-02-26 14:49:26.053 +00:00 [Information] MapObject XML loaded !!
+2026-02-26 14:49:26.079 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-26 14:51:44.178 +00:00 [Information] Adding Tamer 327:hggv to map 2 Ch 0... (Default Map)
+2026-02-26 14:51:44.228 +00:00 [Information] [AddClient] Saved last open map
+2026-02-26 14:51:45.660 +00:00 [Information] [LazyLoad] :: MapId: 2, Name: D-terminal, Ch: 0
+2026-02-26 14:51:45.664 +00:00 [Information] [LazyLoad] :: MapId: 2, Name: D-terminal, Ch: 1
+2026-02-26 14:51:45.668 +00:00 [Information] [LazyLoad] :: MapId: 2, Name: D-terminal, Ch: 2
+2026-02-26 14:51:47.739 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 2, Channel: 0
+2026-02-26 14:52:56.003 +00:00 [Information] Sent HatchMiniGameStart packet to player hggv with stage 0, first bar time: 3500ms
+2026-02-26 14:52:56.007 +00:00 [Information] Mini-game started for player hggv, egg ID: 8633
+2026-02-26 14:53:09.583 +00:00 [Information] [DigiEggGameInput] Player hggv clicked button: 257 (index: 256)
+2026-02-26 14:53:36.197 +00:00 [Information] [DigiEggGameComplete] Player hggv submitted minigame results. Score: 26, Time: 68825856s, Status: Cancelled
+2026-02-26 14:53:36.199 +00:00 [Information] [DigiEggGameComplete] Player hggv cancelled minigame - no bonus applied
+2026-02-26 14:54:09.130 +00:00 [Information] Received disconnection event for hggv 327 127.0.*********.
+2026-02-26 14:54:09.132 +00:00 [Information] Removing the tamer hggv 327. 127.0.*********.
+2026-02-26 14:54:09.157 +00:00 [Information] Updating character hggv 327 state upon disconnect...
