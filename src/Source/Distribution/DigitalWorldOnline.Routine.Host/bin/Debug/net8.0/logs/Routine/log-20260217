@@ -1,0 +1,47 @@
+2026-02-17 09:09:10.091 +00:00 [Information] Services Loaded !!
+2026-02-17 09:09:10.609 +00:00 [Information] Loading database assets !!
+2026-02-17 09:09:11.969 +00:00 [Information] Loaded 18388 items from XML
+2026-02-17 09:09:15.779 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-17 09:09:18.559 +00:00 [Information] Loading additional information !!
+2026-02-17 09:09:21.376 +00:00 [Information] Loading XML assets !!
+2026-02-17 09:09:21.407 +00:00 [Information] MapObject XML loaded !!
+2026-02-17 09:09:21.424 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-17 09:09:21.671 +00:00 [Information] Executing routine [Daily Quests] ...
+2026-02-17 09:09:21.808 +00:00 [Information] Routine executed !! Updating Daily Quests execution time on database ...
+2026-02-17 09:09:31.846 +00:00 [Information] Executing routine [Daily Reward Reset] ...
+2026-02-17 09:09:31.904 +00:00 [Information] Routine executed !! Updating Daily Reward Reset execution time on database ...
+2026-02-17 09:09:41.915 +00:00 [Information] Executing routine [Weekly Coliseum] ...
+2026-02-17 09:09:41.941 +00:00 [Information] Weekly Rank ended, creating new Weekly Rank !!
+2026-02-17 09:09:41.982 +00:00 [Information] Verifying Weekly Rank to send reward !!
+2026-02-17 09:09:41.985 +00:00 [Information] No competitors found in weekly ranking. No rewards to distribute.
+2026-02-17 09:09:41.986 +00:00 [Information] Routine executed !! Updating Weekly Coliseum execution time on database ...
+2026-02-17 09:09:51.987 +00:00 [Information] Executing routine [Monthly Coliseum] ...
+2026-02-17 09:09:51.991 +00:00 [Information] Month Rank not ended yet. Current: 2026-02-17 09:09:51, Ends: 2026-02-28 23:59:59
+2026-02-17 09:09:51.992 +00:00 [Information] Routine executed !! Updating Monthly Coliseum execution time on database ...
+2026-02-17 09:10:02.011 +00:00 [Information] Executing routine [Seasonal Coliseum] ...
+2026-02-17 09:10:02.017 +00:00 [Information] Seasonal Rank not ended yet. Current: 2026-02-17 09:10:02, Ends: 2026-03-31 23:59:59
+2026-02-17 09:10:02.018 +00:00 [Information] Routine executed !! Updating Seasonal Coliseum execution time on database ...
+2026-02-17 09:11:28.496 +00:00 [Information] Services Loaded !!
+2026-02-17 09:11:28.945 +00:00 [Information] Loading database assets !!
+2026-02-17 09:11:30.192 +00:00 [Information] Loaded 18388 items from XML
+2026-02-17 09:11:33.281 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-17 09:11:35.110 +00:00 [Information] Loading additional information !!
+2026-02-17 09:11:37.374 +00:00 [Information] Loading XML assets !!
+2026-02-17 09:11:37.406 +00:00 [Information] MapObject XML loaded !!
+2026-02-17 09:11:37.421 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-17 09:58:46.574 +00:00 [Information] Services Loaded !!
+2026-02-17 09:58:47.053 +00:00 [Information] Loading database assets !!
+2026-02-17 09:58:48.303 +00:00 [Information] Loaded 18388 items from XML
+2026-02-17 09:58:51.453 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-17 09:58:53.438 +00:00 [Information] Loading additional information !!
+2026-02-17 09:58:55.688 +00:00 [Information] Loading XML assets !!
+2026-02-17 09:58:55.726 +00:00 [Information] MapObject XML loaded !!
+2026-02-17 09:58:55.742 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-17 10:10:36.166 +00:00 [Information] Services Loaded !!
+2026-02-17 10:10:36.739 +00:00 [Information] Loading database assets !!
+2026-02-17 10:10:38.159 +00:00 [Information] Loaded 18388 items from XML
+2026-02-17 10:10:41.461 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-17 10:10:43.450 +00:00 [Information] Loading additional information !!
+2026-02-17 10:10:45.589 +00:00 [Information] Loading XML assets !!
+2026-02-17 10:10:45.628 +00:00 [Information] MapObject XML loaded !!
+2026-02-17 10:10:45.644 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!

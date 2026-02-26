@@ -1,0 +1,39 @@
+2026-02-24 00:02:17.712 +00:00 [Information] Trade Completed: Pain exchanged the following items with Emos:
+[Player 1: Pain] Itens: Random Mid ClassTranscendence ConvertChip Box (ID: 79062) x210 | Bits: 0
+[Player 2: Emos] Itens:  | Bits: 0
+2026-02-24 00:02:25.030 +00:00 [Information] Received disconnection event for Pain 328 26.65.***********.
+2026-02-24 00:02:25.031 +00:00 [Information] Removing the tamer Pain 328. 26.65.***********.
+2026-02-24 00:02:27.726 +00:00 [Information] Adding Tamer 328:Pain to map 1305 Ch 0... (Default Map)
+2026-02-24 00:02:27.735 +00:00 [Information] [AddClient] Saved last open map
+2026-02-24 00:02:28.236 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1305, Channel: 0
+2026-02-24 00:02:29.135 +00:00 [Information] Received disconnection event for Emos 329 26.121**************.
+2026-02-24 00:02:29.136 +00:00 [Information] Removing the tamer Emos 329. 26.121**************.
+2026-02-24 00:02:35.559 +00:00 [Information] Adding Tamer 329:Emos to map 1305 Ch 0... (Default Map)
+2026-02-24 00:02:35.568 +00:00 [Information] [AddClient] Saved last open map
+2026-02-24 00:02:37.077 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1305, Channel: 0
+2026-02-24 00:28:46.570 +00:00 [Information] Received disconnection event for Emos 329 26.121**************.
+2026-02-24 00:28:46.571 +00:00 [Information] Removing the tamer Emos 329. 26.121**************.
+2026-02-24 00:28:46.574 +00:00 [Information] Updating character Emos 329 state upon disconnect...
+2026-02-24 00:31:54.147 +00:00 [Information] Services Loaded !!
+2026-02-24 00:31:54.553 +00:00 [Information] Loading database assets !!
+2026-02-24 00:31:55.833 +00:00 [Information] Loaded 18388 items from XML
+2026-02-24 00:31:58.072 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-24 00:32:00.459 +00:00 [Information] Loading additional information !!
+2026-02-24 00:32:02.259 +00:00 [Information] Loading XML assets !!
+2026-02-24 00:32:02.302 +00:00 [Information] MapObject XML loaded !!
+2026-02-24 00:32:02.318 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-24 00:32:47.840 +00:00 [Information] Adding Tamer 329:Emos to map 1305 Ch 1... (Default Map)
+2026-02-24 00:32:47.881 +00:00 [Information] [AddClient] Saved last open map
+2026-02-24 00:32:49.225 +00:00 [Information] [LazyLoad] :: MapId: 1305, Name: File Island Waterfront, Ch: 0
+2026-02-24 00:32:49.227 +00:00 [Information] [LazyLoad] :: MapId: 1305, Name: File Island Waterfront, Ch: 1
+2026-02-24 00:32:51.417 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1305, Channel: 1
+2026-02-24 00:33:08.046 +00:00 [Information] DigiEgg mini-game started for player Emos with egg ID 113892
+2026-02-24 00:33:08.047 +00:00 [Information] Sent 5005 game start packet to player Emos
+2026-02-24 00:33:08.048 +00:00 [Information] [DigiEggMiniGame] Sent 5007 init request to Emos
+2026-02-24 00:33:12.791 +00:00 [Information] [DigiEggGameInput] Raw: 1, After offset: 0
+2026-02-24 00:33:12.793 +00:00 [Information] [DigiEggGameInput] Player Emos clicked button 0. Expected: 0
+2026-02-24 00:33:12.794 +00:00 [Information] [DigiEggGameInput] ✓ CORRECT! 'D' - 1/7
+2026-02-24 00:33:28.623 +00:00 [Information] [DigiEggGameComplete] Player Emos cancelled mini-game
+2026-02-24 00:33:46.656 +00:00 [Information] Received disconnection event for Emos 329 26.121**************.
+2026-02-24 00:33:46.658 +00:00 [Information] Removing the tamer Emos 329. 26.121**************.
+2026-02-24 00:33:46.673 +00:00 [Information] Updating character Emos 329 state upon disconnect...

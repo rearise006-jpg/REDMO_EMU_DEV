@@ -1,0 +1,1012 @@
+2026-02-21 00:34:07.602 +03:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 00:34:07.604 +03:00 [Verbose] ExpRate: 399930 | NextDayExpRate: 440011108 | ExpTarget: 70516746
+
+2026-02-21 00:34:07.604 +03:00 [Verbose] ---------------------------------
+2026-02-21 00:39:07.592 +03:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 00:39:07.592 +03:00 [Verbose] ExpRate: 399930 | NextDayExpRate: 440011108 | ExpTarget: 70516746
+
+2026-02-21 00:39:07.592 +03:00 [Verbose] ---------------------------------
+2026-02-21 00:39:16.429 +03:00 [Verbose] Character 328 delivered quest 4020.
+2026-02-21 00:39:16.432 +03:00 [Verbose] Character 328 received quest 4020 item 10281 x1 reward.
+2026-02-21 00:39:16.432 +03:00 [Verbose] Character 328 received quest 4020 item 10286 x1 reward.
+2026-02-21 00:39:22.306 +03:00 [Verbose] Character 328 updated quest 4023 goal 0.
+2026-02-21 00:39:24.279 +03:00 [Verbose] Character 328 delivered quest 4023.
+2026-02-21 00:39:24.280 +03:00 [Verbose] Character 328 received quest 4023 item 40011 x1 reward.
+2026-02-21 00:39:24.280 +03:00 [Verbose] Character 328 received quest 4023 item 9337 x999 reward.
+2026-02-21 00:39:24.280 +03:00 [Verbose] Character 328 received quest 4023 item 10117 x1 reward.
+2026-02-21 00:39:24.280 +03:00 [Verbose] Character 328 received quest 4023 item 9007 x20 reward.
+2026-02-21 00:39:24.280 +03:00 [Verbose] Character 328 received quest 4023 item 9008 x8 reward.
+2026-02-21 00:39:24.280 +03:00 [Verbose] Character 328 received quest 4023 item 70051 x1 reward.
+2026-02-21 00:39:28.946 +03:00 [Verbose] Character 328 updated quest 4024 goal 0.
+2026-02-21 00:39:30.038 +03:00 [Verbose] Character 328 delivered quest 4024.
+2026-02-21 00:39:30.052 +03:00 [Verbose] Character 328 received quest 4024 exp reward.
+2026-02-21 00:39:30.057 +03:00 [Verbose] Tamer 328:Pain received TamerExp: 283 and PartnerExp: 567 from quest 4024.
+2026-02-21 00:39:30.058 +03:00 [Verbose] Character 328 received quest 4024 item 47021 x999 reward.
+2026-02-21 00:39:30.058 +03:00 [Verbose] Character 328 received quest 4024 item 126 x1 reward.
+2026-02-21 00:39:30.058 +03:00 [Verbose] Character 328 received quest 4024 item 70102 x1 reward.
+2026-02-21 00:39:46.755 +03:00 [Verbose] Character 328 dropped 80900 x1 at map 105 X34589 Y29404.
+2026-02-21 00:39:46.756 +03:00 [Verbose] Character 328 dropped 100 bits at map 105 X34489 Y29397.
+2026-02-21 00:39:57.029 +03:00 [Verbose] Character 328 dropped 80900 x1 at map 105 X34020 Y29015.
+2026-02-21 00:39:57.029 +03:00 [Verbose] Character 328 dropped 100 bits at map 105 X34012 Y29007.
+2026-02-21 00:40:01.904 +03:00 [Verbose] Character 328 looted item 80900 x1.
+2026-02-21 00:40:02.103 +03:00 [Verbose] Character 328 dropped 80900 x1 at map 105 X34913 Y28656.
+2026-02-21 00:40:02.103 +03:00 [Verbose] Character 328 dropped 100 bits at map 105 X34886 Y28638.
+2026-02-21 00:40:06.586 +03:00 [Verbose] Character 328 looted item 80900 x1.
+2026-02-21 00:40:08.577 +03:00 [Verbose] Character 328 looted item 80900 x1.
+2026-02-21 00:40:11.226 +03:00 [Verbose] Character 328 dropped 80900 x1 at map 105 X34357 Y28911.
+2026-02-21 00:40:11.226 +03:00 [Verbose] Character 328 dropped 100 bits at map 105 X34529 Y28931.
+2026-02-21 00:40:13.478 +03:00 [Verbose] Character 328 looted item 80900 x1.
+2026-02-21 00:40:16.299 +03:00 [Verbose] Character 328 dropped 80900 x1 at map 105 X34852 Y28669.
+2026-02-21 00:40:16.299 +03:00 [Verbose] Character 328 dropped 100 bits at map 105 X34797 Y28665.
+2026-02-21 00:40:18.627 +03:00 [Verbose] Character 328 looted item 80900 x1.
+2026-02-21 00:40:26.730 +03:00 [Verbose] Character 328 delivered quest 4025.
+2026-02-21 00:40:26.730 +03:00 [Verbose] Character 328 delivered quest 4025 goal item 80900 x5.
+2026-02-21 00:40:26.731 +03:00 [Verbose] Character 328 received quest 4025 exp reward.
+2026-02-21 00:40:26.732 +03:00 [Verbose] Tamer 328:Pain received TamerExp: 413 and PartnerExp: 826 from quest 4025.
+2026-02-21 00:40:41.170 +03:00 [Verbose] Character 328 opened box 70102 and obtained 40018 x1,128547 x150,41028 x1,16 x1,41179 x1
+2026-02-21 00:41:17.984 +03:00 [Verbose] Character 328 opened box 10281 and obtained 17102 x1
+2026-02-21 00:42:07.809 +03:00 [Verbose] Character 328 dropped 100 bits at map 105 X34548 Y29420.
+2026-02-21 00:42:16.936 +03:00 [Verbose] Character 328 dropped 100 bits at map 105 X35084 Y28840.
+2026-02-21 00:43:11.709 +03:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 00:43:11.709 +03:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 65551 | ExpTarget: 6706
+
+2026-02-21 00:43:11.710 +03:00 [Verbose] ---------------------------------
+2026-02-21 00:43:22.300 +03:00 [Verbose] Character 328 delivered quest 4026.
+2026-02-21 00:43:22.300 +03:00 [Verbose] Character 328 received quest 4026 exp reward.
+2026-02-21 00:43:22.301 +03:00 [Verbose] Tamer 328:Pain received TamerExp: 568 and PartnerExp: 1137 from quest 4026.
+2026-02-21 00:43:26.012 +03:00 [Verbose] Character 328 updated quest 4027 goal 0.
+2026-02-21 00:43:27.400 +03:00 [Verbose] Character 328 delivered quest 4027.
+2026-02-21 00:43:27.400 +03:00 [Verbose] Character 328 received quest 4027 exp reward.
+2026-02-21 00:43:27.401 +03:00 [Verbose] Tamer 328:Pain received TamerExp: 1713 and PartnerExp: 3427 from quest 4027.
+2026-02-21 00:43:27.401 +03:00 [Verbose] Character 328 received quest 4027 item 129094 x10 reward.
+2026-02-21 00:43:27.401 +03:00 [Verbose] Character 328 received quest 4027 item 129096 x10 reward.
+2026-02-21 00:43:34.624 +03:00 [Verbose] Character 328 updated quest 4028 goal 0.
+2026-02-21 00:43:35.785 +03:00 [Verbose] Character 328 delivered quest 4028.
+2026-02-21 00:43:35.785 +03:00 [Verbose] Character 328 received quest 4028 exp reward.
+2026-02-21 00:43:35.785 +03:00 [Verbose] Tamer 328:Pain received TamerExp: 1201 and PartnerExp: 2403 from quest 4028.
+2026-02-21 00:43:37.072 +03:00 [Verbose] Character 328 received quest 4029 supply item 80907 x10.
+2026-02-21 00:43:45.023 +03:00 [Verbose] Character 328 updated quest 4029 goal 1.
+2026-02-21 00:43:50.259 +03:00 [Verbose] Character 328 purchased 80901 x10 for 500 bits from NPC 91208 at Map 105 X25328 Y35772, Channel 0.
+2026-02-21 00:43:56.778 +03:00 [Verbose] Character 328 delivered quest 4029.
+2026-02-21 00:43:56.778 +03:00 [Verbose] Character 328 delivered quest 4029 goal item 80901 x10.
+2026-02-21 00:43:56.778 +03:00 [Verbose] Character 328 delivered quest 4029 supply item 80907 x10.
+2026-02-21 00:43:56.778 +03:00 [Verbose] Character 328 received quest 4029 exp reward.
+2026-02-21 00:43:56.778 +03:00 [Verbose] Tamer 328:Pain received TamerExp: 1470 and PartnerExp: 2940 from quest 4029.
+2026-02-21 00:44:06.009 +03:00 [Verbose] Character 328 updated quest 4030 goal 0.
+2026-02-21 00:44:07.575 +03:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 00:44:07.575 +03:00 [Verbose] ExpRate: 399930 | NextDayExpRate: 440011108 | ExpTarget: 70516746
+
+2026-02-21 00:44:07.575 +03:00 [Verbose] ---------------------------------
+2026-02-21 00:44:26.748 +03:00 [Verbose] Character 328 delivered quest 4030.
+2026-02-21 00:44:26.748 +03:00 [Verbose] Character 328 received quest 4030 exp reward.
+2026-02-21 00:44:26.748 +03:00 [Verbose] Tamer 328:Pain received TamerExp: 1769 and PartnerExp: 3538 from quest 4030.
+2026-02-21 00:46:27.107 +03:00 [Verbose] Character 328 delivered quest 4031.
+2026-02-21 00:46:27.107 +03:00 [Verbose] Character 328 delivered quest 4031 goal item 80902 x5.
+2026-02-21 00:46:27.107 +03:00 [Verbose] Character 328 received quest 4031 exp reward.
+2026-02-21 00:46:27.107 +03:00 [Verbose] Tamer 328:Pain received TamerExp: 2098 and PartnerExp: 4197 from quest 4031.
+2026-02-21 00:46:28.352 +03:00 [Verbose] Character 328 received quest 4032 supply item 80903 x2.
+2026-02-21 00:46:35.485 +03:00 [Verbose] Character 328 delivered quest 4032.
+2026-02-21 00:46:35.485 +03:00 [Verbose] Character 328 delivered quest 4032 goal item 80903 x2.
+2026-02-21 00:46:35.485 +03:00 [Verbose] Character 328 delivered quest 4032 supply item 80903 x2.
+2026-02-21 00:46:35.485 +03:00 [Verbose] Character 328 received quest 4032 exp reward.
+2026-02-21 00:46:35.485 +03:00 [Verbose] Tamer 328:Pain received TamerExp: 2460 and PartnerExp: 4921 from quest 4032.
+2026-02-21 00:46:35.535 +03:00 [Verbose] Tamer Pain evolved partner (4642:BarbA) from 33071:Tsukaimon to 45170
+2026-02-21 00:46:36.723 +03:00 [Verbose] Character 328 received quest 4033 supply item 80904 x2.
+2026-02-21 00:46:41.445 +03:00 [Verbose] Character 328 updated quest 4033 goal 0.
+2026-02-21 00:46:44.684 +03:00 [Verbose] Character 328 updated quest 4033 goal 1.
+2026-02-21 00:46:54.116 +03:00 [Verbose] Character 328 delivered quest 4033.
+2026-02-21 00:46:54.116 +03:00 [Verbose] Character 328 delivered quest 4033 supply item 80904 x2.
+2026-02-21 00:46:54.116 +03:00 [Verbose] Character 328 received quest 4033 exp reward.
+2026-02-21 00:46:54.117 +03:00 [Verbose] Tamer 328:Pain received TamerExp: 6138 and PartnerExp: 12276 from quest 4033.
+2026-02-21 00:46:54.117 +03:00 [Verbose] Character 328 received quest 4033 item 129094 x10 reward.
+2026-02-21 00:46:54.117 +03:00 [Verbose] Character 328 received quest 4033 item 129096 x10 reward.
+2026-02-21 00:48:11.729 +03:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 00:48:11.729 +03:00 [Verbose] ExpRate: 334394 | NextDayExpRate: 16386 | ExpTarget: 32873
+
+2026-02-21 00:48:11.729 +03:00 [Verbose] ---------------------------------
+2026-02-21 00:48:50.884 +03:00 [Verbose] Character 328 delivered quest 4034.
+2026-02-21 00:48:50.884 +03:00 [Verbose] Character 328 received quest 4034 exp reward.
+2026-02-21 00:48:50.884 +03:00 [Verbose] Tamer 328:Pain received TamerExp: 3745 and PartnerExp: 7490 from quest 4034.
+2026-02-21 00:49:07.576 +03:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 00:49:07.576 +03:00 [Verbose] ExpRate: 399930 | NextDayExpRate: 440011108 | ExpTarget: 70516746
+
+2026-02-21 00:49:07.576 +03:00 [Verbose] ---------------------------------
+2026-02-21 00:49:41.472 +03:00 [Verbose] Character 328 delivered quest 4035.
+2026-02-21 00:49:41.472 +03:00 [Verbose] Character 328 received quest 4035 exp reward.
+2026-02-21 00:49:41.473 +03:00 [Verbose] Tamer 328:Pain received TamerExp: 4242 and PartnerExp: 8485 from quest 4035.
+2026-02-21 00:49:47.214 +03:00 [Verbose] Character 328 updated quest 4036 goal 0.
+2026-02-21 00:49:48.460 +03:00 [Verbose] Character 328 delivered quest 4036.
+2026-02-21 00:49:48.460 +03:00 [Verbose] Character 328 received quest 4036 exp reward.
+2026-02-21 00:49:48.461 +03:00 [Verbose] Tamer 328:Pain received TamerExp: 10458 and PartnerExp: 20916 from quest 4036.
+2026-02-21 00:49:48.461 +03:00 [Verbose] Character 328 received quest 4036 item 129094 x10 reward.
+2026-02-21 00:49:48.461 +03:00 [Verbose] Character 328 received quest 4036 item 129096 x10 reward.
+2026-02-21 00:51:30.996 +03:00 [Verbose] Character 328 delivered quest 4037.
+2026-02-21 00:51:30.996 +03:00 [Verbose] Character 328 received quest 4037 exp reward.
+2026-02-21 00:51:30.997 +03:00 [Verbose] Tamer 328:Pain received TamerExp: 6608 and PartnerExp: 13216 from quest 4037.
+2026-02-21 00:53:11.745 +03:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 00:53:11.745 +03:00 [Verbose] ExpRate: 4201018 | NextDayExpRate: 16799232 | ExpTarget: 1716992
+
+2026-02-21 00:53:11.745 +03:00 [Verbose] ---------------------------------
+2026-02-21 00:53:42.901 +03:00 [Verbose] Character 328 delivered quest 4038.
+2026-02-21 00:53:42.901 +03:00 [Verbose] Character 328 received quest 4038 exp reward.
+2026-02-21 00:53:42.901 +03:00 [Verbose] Tamer 328:Pain received TamerExp: 7318 and PartnerExp: 14636 from quest 4038.
+2026-02-21 00:53:46.210 +03:00 [Verbose] Character 328 updated quest 4039 goal 0.
+2026-02-21 00:53:47.581 +03:00 [Verbose] Character 328 delivered quest 4039.
+2026-02-21 00:53:47.581 +03:00 [Verbose] Character 328 received quest 4039 exp reward.
+2026-02-21 00:53:47.581 +03:00 [Verbose] Tamer 328:Pain received TamerExp: 16934 and PartnerExp: 33868 from quest 4039.
+2026-02-21 00:53:47.582 +03:00 [Verbose] Character 328 received quest 4039 item 129094 x10 reward.
+2026-02-21 00:53:47.582 +03:00 [Verbose] Character 328 received quest 4039 item 129096 x10 reward.
+2026-02-21 00:54:07.594 +03:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 00:54:07.594 +03:00 [Verbose] ExpRate: 399930 | NextDayExpRate: 440011108 | ExpTarget: 70516746
+
+2026-02-21 00:54:07.594 +03:00 [Verbose] ---------------------------------
+2026-02-21 00:55:24.365 +03:00 [Verbose] Character 328 delivered quest 4040.
+2026-02-21 00:55:24.365 +03:00 [Verbose] Character 328 received quest 4040 exp reward.
+2026-02-21 00:55:24.365 +03:00 [Verbose] Tamer 328:Pain received TamerExp: 9703 and PartnerExp: 19406 from quest 4040.
+2026-02-21 00:56:14.597 +03:00 [Verbose] Character 328 delivered quest 4041.
+2026-02-21 00:56:14.597 +03:00 [Verbose] Character 328 received quest 4041 exp reward.
+2026-02-21 00:56:14.597 +03:00 [Verbose] Tamer 328:Pain received TamerExp: 10586 and PartnerExp: 21172 from quest 4041.
+2026-02-21 00:56:18.627 +03:00 [Verbose] Character 328 updated quest 4042 goal 0.
+2026-02-21 00:56:19.959 +03:00 [Verbose] Character 328 delivered quest 4042.
+2026-02-21 00:56:19.959 +03:00 [Verbose] Character 328 received quest 4042 exp reward.
+2026-02-21 00:56:19.960 +03:00 [Verbose] Tamer 328:Pain received TamerExp: 24003 and PartnerExp: 48007 from quest 4042.
+2026-02-21 00:56:19.961 +03:00 [Verbose] Character 328 received quest 4042 item 129094 x10 reward.
+2026-02-21 00:56:19.961 +03:00 [Verbose] Character 328 received quest 4042 item 129096 x10 reward.
+2026-02-21 00:56:21.757 +03:00 [Verbose] Character 328 received quest 4043 supply item 80905 x1.
+2026-02-21 00:56:27.604 +03:00 [Verbose] Character 328 updated quest 4043 goal 0.
+2026-02-21 00:56:31.048 +03:00 [Verbose] Character 328 delivered quest 4043.
+2026-02-21 00:56:31.048 +03:00 [Verbose] Character 328 delivered quest 4043 supply item 80905 x1.
+2026-02-21 00:56:31.048 +03:00 [Verbose] Character 328 received quest 4043 exp reward.
+2026-02-21 00:56:31.048 +03:00 [Verbose] Tamer 328:Pain received TamerExp: 13510 and PartnerExp: 27021 from quest 4043.
+2026-02-21 00:58:11.756 +03:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 00:58:11.756 +03:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 65631 | ExpTarget: 1710642
+
+2026-02-21 00:58:11.756 +03:00 [Verbose] ---------------------------------
+2026-02-21 00:59:07.596 +03:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 00:59:07.634 +03:00 [Verbose] ExpRate: 399930 | NextDayExpRate: 440011108 | ExpTarget: 70516746
+
+2026-02-21 00:59:07.634 +03:00 [Verbose] ---------------------------------
+2026-02-21 00:59:36.751 +03:00 [Verbose] Character 328 delivered quest 4044.
+2026-02-21 00:59:36.751 +03:00 [Verbose] Character 328 received quest 4044 exp reward.
+2026-02-21 00:59:36.751 +03:00 [Verbose] Tamer 328:Pain received TamerExp: 21870 and PartnerExp: 43740 from quest 4044.
+2026-02-21 00:59:41.162 +03:00 [Verbose] Character 328 updated quest 4045 goal 0.
+2026-02-21 00:59:43.027 +03:00 [Verbose] Character 328 delivered quest 4045.
+2026-02-21 00:59:43.027 +03:00 [Verbose] Character 328 received quest 4045 exp reward.
+2026-02-21 00:59:43.027 +03:00 [Verbose] Tamer 328:Pain received TamerExp: 64484 and PartnerExp: 128968 from quest 4045.
+2026-02-21 00:59:43.028 +03:00 [Verbose] Character 328 received quest 4045 item 129094 x10 reward.
+2026-02-21 00:59:43.028 +03:00 [Verbose] Character 328 received quest 4045 item 129096 x10 reward.
+2026-02-21 00:59:43.028 +03:00 [Verbose] Character 328 received quest 4045 item 8494 x1 reward.
+2026-02-21 00:59:43.028 +03:00 [Verbose] Character 328 received quest 4045 item 97021 x150 reward.
+2026-02-21 00:59:43.028 +03:00 [Verbose] Character 328 received quest 4045 item 42032 x1 reward.
+2026-02-21 00:59:43.028 +03:00 [Verbose] Character 328 received quest 4045 item 5001 x70 reward.
+2026-02-21 00:59:49.952 +03:00 [Verbose] Character 328 updated quest 4046 goal 0.
+2026-02-21 00:59:51.037 +03:00 [Verbose] Character 328 delivered quest 4046.
+2026-02-21 00:59:51.037 +03:00 [Verbose] Character 328 received quest 4046 exp reward.
+2026-02-21 00:59:51.038 +03:00 [Verbose] Tamer 328:Pain received TamerExp: 44104 and PartnerExp: 88209 from quest 4046.
+2026-02-21 00:59:54.858 +03:00 [Verbose] Character 328 delivered quest 4047.
+2026-02-21 00:59:54.858 +03:00 [Verbose] Character 328 received quest 4047 exp reward.
+2026-02-21 00:59:54.858 +03:00 [Verbose] Tamer 328:Pain received TamerExp: 54621 and PartnerExp: 109242 from quest 4047.
+2026-02-21 01:01:02.039 +03:00 [Verbose] Character 328 unlocked evolution 52152 for 4642 (33071) with item section 15001 x4.
+2026-02-21 01:01:06.387 +03:00 [Verbose] Character 328 unlocked evolution 63005 for 4642 (33071) with item section 15001 x8.
+2026-02-21 01:01:26.697 +03:00 [Verbose] Tamer Pain evolved partner (4642:BarbA) from 45170:Witchmon to 52152
+2026-02-21 01:04:07.613 +03:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 01:04:07.613 +03:00 [Verbose] ExpRate: 399930 | NextDayExpRate: 440011108 | ExpTarget: 70516746
+
+2026-02-21 01:04:07.613 +03:00 [Verbose] ---------------------------------
+2026-02-21 01:09:07.597 +03:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 01:09:07.597 +03:00 [Verbose] ExpRate: 137786 | NextDayExpRate: 16385 | ExpTarget: 22776
+
+2026-02-21 01:09:07.597 +03:00 [Verbose] ---------------------------------
+2026-02-21 01:14:07.617 +03:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 01:14:07.617 +03:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 16385 | ExpTarget: 31602
+
+2026-02-21 01:14:07.617 +03:00 [Verbose] ---------------------------------
+2026-02-21 01:19:07.600 +03:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 01:19:07.600 +03:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 32769 | ExpTarget: 19784
+
+2026-02-21 01:19:07.600 +03:00 [Verbose] ---------------------------------
+2026-02-21 13:26:47.283 +00:00 [Verbose] Character 329 delivered quest 4020.
+2026-02-21 13:26:47.287 +00:00 [Verbose] Character 329 received quest 4020 item 10281 x1 reward.
+2026-02-21 13:26:47.287 +00:00 [Verbose] Character 329 received quest 4020 item 10286 x1 reward.
+2026-02-21 13:26:53.249 +00:00 [Verbose] Character 329 updated quest 4023 goal 0.
+2026-02-21 13:26:56.326 +00:00 [Verbose] Character 329 delivered quest 4023.
+2026-02-21 13:26:56.327 +00:00 [Verbose] Character 329 received quest 4023 item 40011 x1 reward.
+2026-02-21 13:26:56.327 +00:00 [Verbose] Character 329 received quest 4023 item 9337 x999 reward.
+2026-02-21 13:26:56.327 +00:00 [Verbose] Character 329 received quest 4023 item 10117 x1 reward.
+2026-02-21 13:26:56.327 +00:00 [Verbose] Character 329 received quest 4023 item 9007 x20 reward.
+2026-02-21 13:26:56.327 +00:00 [Verbose] Character 329 received quest 4023 item 9008 x8 reward.
+2026-02-21 13:26:56.327 +00:00 [Verbose] Character 329 received quest 4023 item 70051 x1 reward.
+2026-02-21 13:27:02.896 +00:00 [Verbose] Character 329 updated quest 4024 goal 0.
+2026-02-21 13:27:05.014 +00:00 [Verbose] Character 329 delivered quest 4024.
+2026-02-21 13:27:05.028 +00:00 [Verbose] Character 329 received quest 4024 exp reward.
+2026-02-21 13:27:05.033 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 283 and PartnerExp: 567 from quest 4024.
+2026-02-21 13:27:05.034 +00:00 [Verbose] Character 329 received quest 4024 item 47021 x999 reward.
+2026-02-21 13:27:05.034 +00:00 [Verbose] Character 329 received quest 4024 item 126 x1 reward.
+2026-02-21 13:27:05.034 +00:00 [Verbose] Character 329 received quest 4024 item 70102 x1 reward.
+2026-02-21 13:27:13.289 +00:00 [Verbose] Character 329 opened box 70102 and obtained 16 x1,40018 x1,41179 x1,41028 x1,128547 x150
+2026-02-21 13:27:55.074 +00:00 [Verbose] Character 329 opened box 10117 and obtained 10116 x1,10113 x1,10114 x1,10112 x1,10115 x1
+2026-02-21 13:27:56.431 +00:00 [Verbose] Character 329 opened box 10115 and obtained 10110 x1
+2026-02-21 13:28:04.248 +00:00 [Verbose] Character 329 opened box 10116 and obtained 10111 x1
+2026-02-21 13:28:12.574 +00:00 [Verbose] Character 329 opened box 10113 and obtained 10108 x1
+2026-02-21 13:28:19.207 +00:00 [Verbose] Character 329 opened box 10114 and obtained 10109 x1
+2026-02-21 13:28:22.408 +00:00 [Verbose] Character 329 opened box 10112 and obtained 10107 x1
+2026-02-21 13:28:28.123 +00:00 [Verbose] Character 329 opened box 10281 and obtained 17102 x1
+2026-02-21 13:29:27.940 +00:00 [Verbose] Character 329 delivered quest 4025.
+2026-02-21 13:29:27.940 +00:00 [Verbose] Character 329 delivered quest 4025 goal item 80900 x5.
+2026-02-21 13:29:27.940 +00:00 [Verbose] Character 329 received quest 4025 exp reward.
+2026-02-21 13:29:27.940 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 413 and PartnerExp: 826 from quest 4025.
+2026-02-21 13:30:33.917 +00:00 [Verbose] Character 329 delivered quest 4026.
+2026-02-21 13:30:33.918 +00:00 [Verbose] Character 329 received quest 4026 exp reward.
+2026-02-21 13:30:33.918 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 568 and PartnerExp: 1137 from quest 4026.
+2026-02-21 13:30:37.903 +00:00 [Verbose] Character 329 updated quest 4027 goal 0.
+2026-02-21 13:30:39.385 +00:00 [Verbose] Character 329 delivered quest 4027.
+2026-02-21 13:30:39.385 +00:00 [Verbose] Character 329 received quest 4027 exp reward.
+2026-02-21 13:30:39.386 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 1713 and PartnerExp: 3427 from quest 4027.
+2026-02-21 13:30:39.386 +00:00 [Verbose] Character 329 received quest 4027 item 129094 x10 reward.
+2026-02-21 13:30:39.386 +00:00 [Verbose] Character 329 received quest 4027 item 129096 x10 reward.
+2026-02-21 13:30:53.619 +00:00 [Verbose] Character 329 updated quest 4028 goal 0.
+2026-02-21 13:30:54.827 +00:00 [Verbose] Character 329 delivered quest 4028.
+2026-02-21 13:30:54.827 +00:00 [Verbose] Character 329 received quest 4028 exp reward.
+2026-02-21 13:30:54.828 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 1201 and PartnerExp: 2403 from quest 4028.
+2026-02-21 13:30:56.361 +00:00 [Verbose] Character 329 received quest 4029 supply item 80907 x10.
+2026-02-21 13:31:02.141 +00:00 [Verbose] Character 329 updated quest 4029 goal 1.
+2026-02-21 13:31:02.274 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 13:31:02.274 +00:00 [Verbose] ExpRate: 16849466 | NextDayExpRate: 6710 | ExpTarget: 25271
+
+2026-02-21 13:31:02.274 +00:00 [Verbose] ---------------------------------
+2026-02-21 13:31:11.724 +00:00 [Verbose] Character 329 purchased 80901 x10 for 500 bits from NPC 91208 at Map 105 X25311 Y35787, Channel 0.
+2026-02-21 13:31:19.439 +00:00 [Verbose] Character 329 delivered quest 4029.
+2026-02-21 13:31:19.440 +00:00 [Verbose] Character 329 delivered quest 4029 goal item 80901 x10.
+2026-02-21 13:31:19.440 +00:00 [Verbose] Character 329 delivered quest 4029 supply item 80907 x10.
+2026-02-21 13:31:19.440 +00:00 [Verbose] Character 329 received quest 4029 exp reward.
+2026-02-21 13:31:19.440 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 1470 and PartnerExp: 2940 from quest 4029.
+2026-02-21 13:31:26.135 +00:00 [Verbose] Character 329 updated quest 4030 goal 0.
+2026-02-21 13:31:27.599 +00:00 [Verbose] Character 329 delivered quest 4030.
+2026-02-21 13:31:27.599 +00:00 [Verbose] Character 329 received quest 4030 exp reward.
+2026-02-21 13:31:27.599 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 1769 and PartnerExp: 3538 from quest 4030.
+2026-02-21 13:32:51.479 +00:00 [Verbose] Character 329 delivered quest 4031.
+2026-02-21 13:32:51.479 +00:00 [Verbose] Character 329 delivered quest 4031 goal item 80902 x5.
+2026-02-21 13:32:51.479 +00:00 [Verbose] Character 329 received quest 4031 exp reward.
+2026-02-21 13:32:51.479 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 2098 and PartnerExp: 4197 from quest 4031.
+2026-02-21 13:32:52.853 +00:00 [Verbose] Character 329 received quest 4032 supply item 80903 x2.
+2026-02-21 13:33:01.293 +00:00 [Verbose] Character 329 delivered quest 4032.
+2026-02-21 13:33:01.293 +00:00 [Verbose] Character 329 delivered quest 4032 goal item 80903 x2.
+2026-02-21 13:33:01.293 +00:00 [Verbose] Character 329 delivered quest 4032 supply item 80903 x2.
+2026-02-21 13:33:01.293 +00:00 [Verbose] Character 329 received quest 4032 exp reward.
+2026-02-21 13:33:01.294 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 2460 and PartnerExp: 4921 from quest 4032.
+2026-02-21 13:33:01.343 +00:00 [Verbose] Tamer Emos evolved partner (4643:Vm0) from 31008:V-mon to 41173
+2026-02-21 13:33:02.575 +00:00 [Verbose] Character 329 received quest 4033 supply item 80904 x2.
+2026-02-21 13:33:08.602 +00:00 [Verbose] Character 329 updated quest 4033 goal 0.
+2026-02-21 13:33:12.019 +00:00 [Verbose] Character 329 updated quest 4033 goal 1.
+2026-02-21 13:33:20.827 +00:00 [Verbose] Character 329 delivered quest 4033.
+2026-02-21 13:33:20.827 +00:00 [Verbose] Character 329 delivered quest 4033 supply item 80904 x2.
+2026-02-21 13:33:20.827 +00:00 [Verbose] Character 329 received quest 4033 exp reward.
+2026-02-21 13:33:20.827 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 6138 and PartnerExp: 12276 from quest 4033.
+2026-02-21 13:33:20.828 +00:00 [Verbose] Character 329 received quest 4033 item 129094 x10 reward.
+2026-02-21 13:33:20.828 +00:00 [Verbose] Character 329 received quest 4033 item 129096 x10 reward.
+2026-02-21 13:36:02.248 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 13:36:02.248 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 439353344 | ExpTarget: 32288
+
+2026-02-21 13:36:02.248 +00:00 [Verbose] ---------------------------------
+2026-02-21 13:41:02.268 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 13:41:02.268 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 439353344 | ExpTarget: 32288
+
+2026-02-21 13:41:02.268 +00:00 [Verbose] ---------------------------------
+2026-02-21 13:46:02.251 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 13:46:02.251 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 65570 | ExpTarget: 1710642
+
+2026-02-21 13:46:02.251 +00:00 [Verbose] ---------------------------------
+2026-02-21 13:46:47.842 +00:00 [Verbose] Character 329 delivered quest 4034.
+2026-02-21 13:46:47.843 +00:00 [Verbose] Character 329 received quest 4034 exp reward.
+2026-02-21 13:46:47.843 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 3745 and PartnerExp: 7490 from quest 4034.
+2026-02-21 13:47:44.065 +00:00 [Verbose] Character 329 delivered quest 4035.
+2026-02-21 13:47:44.065 +00:00 [Verbose] Character 329 received quest 4035 exp reward.
+2026-02-21 13:47:44.065 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 4242 and PartnerExp: 8485 from quest 4035.
+2026-02-21 13:47:51.474 +00:00 [Verbose] Character 329 updated quest 4036 goal 0.
+2026-02-21 13:47:52.740 +00:00 [Verbose] Character 329 delivered quest 4036.
+2026-02-21 13:47:52.741 +00:00 [Verbose] Character 329 received quest 4036 exp reward.
+2026-02-21 13:47:52.741 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 10458 and PartnerExp: 20916 from quest 4036.
+2026-02-21 13:47:52.742 +00:00 [Verbose] Character 329 received quest 4036 item 129094 x10 reward.
+2026-02-21 13:47:52.742 +00:00 [Verbose] Character 329 received quest 4036 item 129096 x10 reward.
+2026-02-21 13:49:52.297 +00:00 [Verbose] Character 329 delivered quest 4037.
+2026-02-21 13:49:52.297 +00:00 [Verbose] Character 329 received quest 4037 exp reward.
+2026-02-21 13:49:52.298 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 6608 and PartnerExp: 13216 from quest 4037.
+2026-02-21 13:50:34.306 +00:00 [Verbose] Character 329 delivered quest 4038.
+2026-02-21 13:50:34.306 +00:00 [Verbose] Character 329 received quest 4038 exp reward.
+2026-02-21 13:50:34.306 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 7318 and PartnerExp: 14636 from quest 4038.
+2026-02-21 13:50:39.070 +00:00 [Verbose] Character 329 updated quest 4039 goal 0.
+2026-02-21 13:50:40.662 +00:00 [Verbose] Character 329 delivered quest 4039.
+2026-02-21 13:50:40.662 +00:00 [Verbose] Character 329 received quest 4039 exp reward.
+2026-02-21 13:50:40.663 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 16934 and PartnerExp: 33868 from quest 4039.
+2026-02-21 13:50:40.664 +00:00 [Verbose] Character 329 received quest 4039 item 129094 x10 reward.
+2026-02-21 13:50:40.664 +00:00 [Verbose] Character 329 received quest 4039 item 129096 x10 reward.
+2026-02-21 13:51:02.268 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 13:51:02.268 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 65599 | ExpTarget: 6706
+
+2026-02-21 13:51:02.268 +00:00 [Verbose] ---------------------------------
+2026-02-21 13:52:17.957 +00:00 [Verbose] Character 329 unlocked evolution 51012 for 4643 (31008) with item section 15001 x3.
+2026-02-21 13:53:20.163 +00:00 [Verbose] Character 329 delivered quest 4040.
+2026-02-21 13:53:20.163 +00:00 [Verbose] Character 329 received quest 4040 exp reward.
+2026-02-21 13:53:20.164 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 9703 and PartnerExp: 19406 from quest 4040.
+2026-02-21 13:54:16.410 +00:00 [Verbose] Character 329 delivered quest 4041.
+2026-02-21 13:54:16.410 +00:00 [Verbose] Character 329 received quest 4041 exp reward.
+2026-02-21 13:54:16.410 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 10586 and PartnerExp: 21172 from quest 4041.
+2026-02-21 13:54:21.181 +00:00 [Verbose] Character 329 updated quest 4042 goal 0.
+2026-02-21 13:54:22.946 +00:00 [Verbose] Character 329 delivered quest 4042.
+2026-02-21 13:54:22.946 +00:00 [Verbose] Character 329 received quest 4042 exp reward.
+2026-02-21 13:54:22.946 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 24003 and PartnerExp: 48007 from quest 4042.
+2026-02-21 13:54:22.947 +00:00 [Verbose] Character 329 received quest 4042 item 129094 x10 reward.
+2026-02-21 13:54:22.947 +00:00 [Verbose] Character 329 received quest 4042 item 129096 x10 reward.
+2026-02-21 13:54:24.712 +00:00 [Verbose] Character 329 received quest 4043 supply item 80905 x1.
+2026-02-21 13:54:30.647 +00:00 [Verbose] Character 329 updated quest 4043 goal 0.
+2026-02-21 13:54:43.376 +00:00 [Verbose] Character 329 delivered quest 4043.
+2026-02-21 13:54:43.376 +00:00 [Verbose] Character 329 delivered quest 4043 supply item 80905 x1.
+2026-02-21 13:54:43.376 +00:00 [Verbose] Character 329 received quest 4043 exp reward.
+2026-02-21 13:54:43.376 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 13510 and PartnerExp: 27021 from quest 4043.
+2026-02-21 13:56:02.275 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 13:56:02.275 +00:00 [Verbose] ExpRate: 4201018 | NextDayExpRate: 16801536 | ExpTarget: 1716992
+
+2026-02-21 13:56:02.275 +00:00 [Verbose] ---------------------------------
+2026-02-21 13:56:26.503 +00:00 [Verbose] Character 329 delivered quest 4044.
+2026-02-21 13:56:26.504 +00:00 [Verbose] Character 329 received quest 4044 exp reward.
+2026-02-21 13:56:26.504 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 21870 and PartnerExp: 43740 from quest 4044.
+2026-02-21 13:56:32.070 +00:00 [Verbose] Character 329 updated quest 4045 goal 0.
+2026-02-21 13:56:33.814 +00:00 [Verbose] Character 329 delivered quest 4045.
+2026-02-21 13:56:33.814 +00:00 [Verbose] Character 329 received quest 4045 exp reward.
+2026-02-21 13:56:33.814 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 64484 and PartnerExp: 128968 from quest 4045.
+2026-02-21 13:56:33.815 +00:00 [Verbose] Character 329 received quest 4045 item 129094 x10 reward.
+2026-02-21 13:56:33.815 +00:00 [Verbose] Character 329 received quest 4045 item 129096 x10 reward.
+2026-02-21 13:56:33.815 +00:00 [Verbose] Character 329 received quest 4045 item 8494 x1 reward.
+2026-02-21 13:56:33.815 +00:00 [Verbose] Character 329 received quest 4045 item 97021 x150 reward.
+2026-02-21 13:56:33.815 +00:00 [Verbose] Character 329 received quest 4045 item 42032 x1 reward.
+2026-02-21 13:56:33.815 +00:00 [Verbose] Character 329 received quest 4045 item 5001 x70 reward.
+2026-02-21 13:56:42.253 +00:00 [Verbose] Character 329 unlocked evolution 61017 for 4643 (31008) with item section 15001 x8.
+2026-02-21 13:56:46.505 +00:00 [Verbose] Character 329 unlocked evolution 61027 for 4643 (31008) with item section 15001 x4.
+2026-02-21 13:57:01.746 +00:00 [Verbose] Character 329 updated quest 4046 goal 0.
+2026-02-21 13:57:03.128 +00:00 [Verbose] Character 329 delivered quest 4046.
+2026-02-21 13:57:03.129 +00:00 [Verbose] Character 329 received quest 4046 exp reward.
+2026-02-21 13:57:03.129 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 44104 and PartnerExp: 88209 from quest 4046.
+2026-02-21 13:57:06.454 +00:00 [Verbose] Character 329 delivered quest 4047.
+2026-02-21 13:57:06.454 +00:00 [Verbose] Character 329 received quest 4047 exp reward.
+2026-02-21 13:57:06.455 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 54621 and PartnerExp: 109242 from quest 4047.
+2026-02-21 13:57:06.498 +00:00 [Verbose] Tamer Emos evolved partner (4643:Vm0) from 41173:ExV-mon to 51012
+2026-02-21 13:59:57.476 +00:00 [Verbose] Character 329 delivered quest 4048.
+2026-02-21 13:59:57.476 +00:00 [Verbose] Character 329 received quest 4048 exp reward.
+2026-02-21 13:59:57.476 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 66150 and PartnerExp: 132300 from quest 4048.
+2026-02-21 14:00:33.726 +00:00 [Verbose] Character 329 delivered quest 4049.
+2026-02-21 14:00:33.726 +00:00 [Verbose] Character 329 received quest 4049 exp reward.
+2026-02-21 14:00:33.726 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 78732 and PartnerExp: 157464 from quest 4049.
+2026-02-21 14:00:37.145 +00:00 [Verbose] Character 329 updated quest 4050 goal 0.
+2026-02-21 14:00:42.603 +00:00 [Verbose] Character 329 delivered quest 4050.
+2026-02-21 14:00:42.603 +00:00 [Verbose] Character 329 received quest 4050 exp reward.
+2026-02-21 14:00:42.603 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 322825 and PartnerExp: 645651 from quest 4050.
+2026-02-21 14:00:42.604 +00:00 [Verbose] Character 329 received quest 4050 item 129094 x10 reward.
+2026-02-21 14:00:42.604 +00:00 [Verbose] Character 329 received quest 4050 item 129096 x10 reward.
+2026-02-21 14:00:42.604 +00:00 [Verbose] Character 329 received quest 4050 item 16 x1 reward.
+2026-02-21 14:00:59.997 +00:00 [Verbose] Character 329 delivered quest 4051.
+2026-02-21 14:00:59.997 +00:00 [Verbose] Character 329 received quest 4051 item 129094 x50 reward.
+2026-02-21 14:00:59.997 +00:00 [Verbose] Character 329 received quest 4051 item 129096 x50 reward.
+2026-02-21 14:00:59.997 +00:00 [Verbose] Character 329 received quest 4051 exp reward.
+2026-02-21 14:00:59.998 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 422455 and PartnerExp: 844911 from quest 4051.
+2026-02-21 14:01:02.254 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 14:01:02.254 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 1771682460 | ExpTarget: 1771680954
+
+2026-02-21 14:01:02.254 +00:00 [Verbose] ---------------------------------
+2026-02-21 14:01:05.008 +00:00 [Verbose] Character 329 delivered quest 4052.
+2026-02-21 14:01:05.008 +00:00 [Verbose] Character 329 received quest 4052 item 9694 x1 reward.
+2026-02-21 14:01:05.008 +00:00 [Verbose] Character 329 received quest 4052 item 9003 x20 reward.
+2026-02-21 14:01:05.008 +00:00 [Verbose] Character 329 received quest 4052 exp reward.
+2026-02-21 14:01:05.009 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 255980 and PartnerExp: 511960 from quest 4052.
+2026-02-21 14:01:05.009 +00:00 [Verbose] Character 329 received quest 4052 0 bits reward.
+2026-02-21 14:01:05.009 +00:00 [Verbose] Character 329 received quest 4052 0 bits reward.
+2026-02-21 14:01:05.010 +00:00 [Verbose] Character 329 received quest 4052 0 bits reward.
+2026-02-21 19:56:30.009 +00:00 [Verbose] Character 329 hatched 4644(45160) with grade Lv5 and size 12606.
+2026-02-21 20:00:01.988 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 20:00:01.988 +00:00 [Verbose] ExpRate: 203322 | NextDayExpRate: 16385 | ExpTarget: 19653
+
+2026-02-21 20:00:01.988 +00:00 [Verbose] ---------------------------------
+2026-02-21 20:07:47.725 +00:00 [Verbose] Character 330 opened box 30064 and obtained 30036 x1,30037 x1,30039 x1,30040 x1,30038 x1
+2026-02-21 20:10:51.540 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 20:10:51.541 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 439353344 | ExpTarget: 875966512
+
+2026-02-21 20:10:51.541 +00:00 [Verbose] ---------------------------------
+2026-02-21 20:11:28.364 +00:00 [Verbose] Character 330 used 0 to change partner 4645 size from 120% to 135%.
+2026-02-21 20:15:51.542 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 20:15:51.542 +00:00 [Verbose] ExpRate: 334394 | NextDayExpRate: 16385 | ExpTarget: 20755
+
+2026-02-21 20:15:51.542 +00:00 [Verbose] ---------------------------------
+2026-02-21 20:18:52.555 +00:00 [Verbose] Tamer rearise evolved partner (4645:jesm0) from 35147:Hackmon to 45173
+2026-02-21 20:20:51.543 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 20:20:51.543 +00:00 [Verbose] ExpRate: 72250 | NextDayExpRate: 16385 | ExpTarget: 25011
+
+2026-02-21 20:20:51.543 +00:00 [Verbose] ---------------------------------
+2026-02-21 22:19:06.282 +00:00 [Verbose] Character 330 dropped 130035 x1 at map 1301 X40100 Y38662.
+2026-02-21 22:19:06.284 +00:00 [Verbose] Character 330 dropped 90101 x1 at map 1301 X40191 Y38635.
+2026-02-21 22:28:33.390 +00:00 [Verbose] Character 330 dropped 1470 bits at map 1301 X40471 Y38597.
+2026-02-21 22:28:33.390 +00:00 [Verbose] Character 330 dropped 90101 x1 at map 1301 X40501 Y38566.
+2026-02-21 22:28:33.390 +00:00 [Verbose] Character 330 dropped 75351 x1 at map 1301 X40414 Y38561.
+2026-02-21 22:54:49.696 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 22:54:49.697 +00:00 [Verbose] ExpRate: 399930 | NextDayExpRate: 440011108 | ExpTarget: 70516746
+
+2026-02-21 22:54:49.697 +00:00 [Verbose] ---------------------------------
+2026-02-21 22:59:04.459 +00:00 [Verbose] Tamer Emos evolved partner (4643:Vm0) from 31008:V-mon to 51012
+2026-02-21 22:59:12.287 +00:00 [Verbose] Character 329 delivered quest 938.
+2026-02-21 22:59:12.290 +00:00 [Verbose] Character 329 received quest 938 exp reward.
+2026-02-21 22:59:12.292 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 10000 and PartnerExp: 20000 from quest 938.
+2026-02-21 22:59:49.696 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 22:59:49.696 +00:00 [Verbose] ExpRate: 399930 | NextDayExpRate: 440011108 | ExpTarget: 70516746
+
+2026-02-21 22:59:49.696 +00:00 [Verbose] ---------------------------------
+2026-02-21 23:01:46.894 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 23:01:46.894 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 0 | ExpTarget: 6706
+
+2026-02-21 23:01:46.894 +00:00 [Verbose] ---------------------------------
+2026-02-21 23:04:49.680 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 23:04:49.680 +00:00 [Verbose] ExpRate: 399930 | NextDayExpRate: 440011108 | ExpTarget: 70516746
+
+2026-02-21 23:04:49.680 +00:00 [Verbose] ---------------------------------
+2026-02-21 23:06:46.906 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 23:06:46.906 +00:00 [Verbose] ExpRate: 4201018 | NextDayExpRate: 16815360 | ExpTarget: 1716992
+
+2026-02-21 23:06:46.906 +00:00 [Verbose] ---------------------------------
+2026-02-21 23:07:46.184 +00:00 [Verbose] Character 328 opened box 10117 and obtained 10114 x1,10112 x1,10116 x1,10113 x1,10115 x1
+2026-02-21 23:07:47.355 +00:00 [Verbose] Character 328 opened box 10114 and obtained 10109 x1
+2026-02-21 23:07:50.044 +00:00 [Verbose] Character 328 opened box 10115 and obtained 10110 x1
+2026-02-21 23:07:51.471 +00:00 [Verbose] Character 328 opened box 10116 and obtained 10111 x1
+2026-02-21 23:07:53.041 +00:00 [Verbose] Character 328 opened box 10113 and obtained 10108 x1
+2026-02-21 23:07:59.478 +00:00 [Verbose] Character 328 opened box 10112 and obtained 10107 x1
+2026-02-21 23:09:49.706 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 23:09:49.706 +00:00 [Verbose] ExpRate: 23271994 | NextDayExpRate: 439353344 | ExpTarget: 1716992
+
+2026-02-21 23:09:49.706 +00:00 [Verbose] ---------------------------------
+2026-02-21 23:10:05.699 +00:00 [Verbose] Character 328 hatched 4646(45160) with grade Lv5 and size 12947.
+2026-02-21 23:10:13.210 +00:00 [Verbose] Tamer Emos evolved partner (4643:Vm0) from 51012:Paildramon to 61017
+2026-02-21 23:11:12.821 +00:00 [Verbose] Character 329 sent megaphone with item 9202 and message yaw hi.
+2026-02-21 23:11:46.912 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 23:11:46.912 +00:00 [Verbose] ExpRate: 4201018 | NextDayExpRate: 16813824 | ExpTarget: 1716992
+
+2026-02-21 23:11:46.913 +00:00 [Verbose] ---------------------------------
+2026-02-21 23:13:55.022 +00:00 [Verbose] Character 328 delivered quest 4048.
+2026-02-21 23:13:55.023 +00:00 [Verbose] Character 328 received quest 4048 exp reward.
+2026-02-21 23:13:55.024 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 66150 and PartnerExp: 132300 from quest 4048.
+2026-02-21 23:14:49.699 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 23:14:49.699 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 65584 | ExpTarget: 6706
+
+2026-02-21 23:14:49.699 +00:00 [Verbose] ---------------------------------
+2026-02-21 23:15:05.768 +00:00 [Verbose] Character 328 delivered quest 4049.
+2026-02-21 23:15:05.768 +00:00 [Verbose] Character 328 received quest 4049 exp reward.
+2026-02-21 23:15:05.769 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 78732 and PartnerExp: 157464 from quest 4049.
+2026-02-21 23:15:10.052 +00:00 [Verbose] Character 328 updated quest 4050 goal 0.
+2026-02-21 23:15:11.635 +00:00 [Verbose] Character 328 delivered quest 4050.
+2026-02-21 23:15:11.635 +00:00 [Verbose] Character 328 received quest 4050 exp reward.
+2026-02-21 23:15:11.636 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 322825 and PartnerExp: 645651 from quest 4050.
+2026-02-21 23:15:11.637 +00:00 [Verbose] Character 328 received quest 4050 item 129094 x10 reward.
+2026-02-21 23:15:11.637 +00:00 [Verbose] Character 328 received quest 4050 item 129096 x10 reward.
+2026-02-21 23:15:11.637 +00:00 [Verbose] Character 328 received quest 4050 item 16 x1 reward.
+2026-02-21 23:15:27.689 +00:00 [Verbose] Character 328 delivered quest 4051.
+2026-02-21 23:15:27.689 +00:00 [Verbose] Character 328 received quest 4051 item 129094 x50 reward.
+2026-02-21 23:15:27.689 +00:00 [Verbose] Character 328 received quest 4051 item 129096 x50 reward.
+2026-02-21 23:15:27.689 +00:00 [Verbose] Character 328 received quest 4051 exp reward.
+2026-02-21 23:15:27.690 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 422455 and PartnerExp: 844911 from quest 4051.
+2026-02-21 23:15:31.799 +00:00 [Verbose] Character 328 delivered quest 4052.
+2026-02-21 23:15:31.799 +00:00 [Verbose] Character 328 received quest 4052 item 9694 x1 reward.
+2026-02-21 23:15:31.799 +00:00 [Verbose] Character 328 received quest 4052 item 9003 x20 reward.
+2026-02-21 23:15:31.799 +00:00 [Verbose] Character 328 received quest 4052 exp reward.
+2026-02-21 23:15:31.800 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 255980 and PartnerExp: 511960 from quest 4052.
+2026-02-21 23:15:31.801 +00:00 [Verbose] Character 328 received quest 4052 0 bits reward.
+2026-02-21 23:15:31.801 +00:00 [Verbose] Character 328 received quest 4052 0 bits reward.
+2026-02-21 23:15:31.801 +00:00 [Verbose] Character 328 received quest 4052 0 bits reward.
+2026-02-21 23:15:38.680 +00:00 [Verbose] Character 328 opened box 9694 and obtained 113684 x1
+2026-02-21 23:16:23.065 +00:00 [Verbose] Character 329 updated quest 2873 goal 0.
+2026-02-21 23:16:24.470 +00:00 [Verbose] Character 329 delivered quest 2873.
+2026-02-21 23:16:24.470 +00:00 [Verbose] Character 329 received quest 2873 800 bits reward.
+2026-02-21 23:16:24.470 +00:00 [Verbose] Character 329 received quest 2873 exp reward.
+2026-02-21 23:16:24.470 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 40000 and PartnerExp: 80000 from quest 2873.
+2026-02-21 23:16:24.471 +00:00 [Verbose] Character 329 received quest 2873 item 113892 x1 reward.
+2026-02-21 23:16:24.471 +00:00 [Verbose] Character 329 received quest 2873 item 41002 x500 reward.
+2026-02-21 23:16:24.471 +00:00 [Verbose] Character 329 received quest 2873 item 73011 x1 reward.
+2026-02-21 23:16:46.941 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 23:16:46.941 +00:00 [Verbose] ExpRate: 4201018 | NextDayExpRate: 16814336 | ExpTarget: 1716992
+
+2026-02-21 23:16:46.941 +00:00 [Verbose] ---------------------------------
+2026-02-21 23:16:58.721 +00:00 [Verbose] Character 329 delivered quest 2874.
+2026-02-21 23:16:58.721 +00:00 [Verbose] Character 329 received quest 2874 900 bits reward.
+2026-02-21 23:16:58.721 +00:00 [Verbose] Character 329 received quest 2874 exp reward.
+2026-02-21 23:16:58.721 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 50000 and PartnerExp: 100000 from quest 2874.
+2026-02-21 23:16:58.722 +00:00 [Verbose] Character 329 received quest 2874 item 128561 x1 reward.
+2026-02-21 23:16:58.722 +00:00 [Verbose] Character 329 received quest 2874 item 10052 x20 reward.
+2026-02-21 23:17:02.629 +00:00 [Verbose] Character 329 updated quest 2875 goal 0.
+2026-02-21 23:17:04.103 +00:00 [Verbose] Character 329 delivered quest 2875.
+2026-02-21 23:17:04.103 +00:00 [Verbose] Character 329 received quest 2875 800 bits reward.
+2026-02-21 23:17:04.103 +00:00 [Verbose] Character 329 received quest 2875 exp reward.
+2026-02-21 23:17:04.103 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 50000 and PartnerExp: 100000 from quest 2875.
+2026-02-21 23:17:04.104 +00:00 [Verbose] Character 329 received quest 2875 item 9007 x2 reward.
+2026-02-21 23:17:04.104 +00:00 [Verbose] Character 329 received quest 2875 item 9008 x2 reward.
+2026-02-21 23:17:04.104 +00:00 [Verbose] Character 329 received quest 2875 item 9013 x10 reward.
+2026-02-21 23:17:34.425 +00:00 [Verbose] Character 329 delivered quest 2877.
+2026-02-21 23:17:34.425 +00:00 [Verbose] Character 329 delivered quest 2877 goal item 80544 x1.
+2026-02-21 23:17:34.426 +00:00 [Verbose] Character 329 received quest 2877 1200 bits reward.
+2026-02-21 23:17:34.426 +00:00 [Verbose] Character 329 received quest 2877 exp reward.
+2026-02-21 23:17:34.426 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 55000 and PartnerExp: 110000 from quest 2877.
+2026-02-21 23:17:34.427 +00:00 [Verbose] Character 329 received quest 2877 item 9007 x2 reward.
+2026-02-21 23:17:34.427 +00:00 [Verbose] Character 329 received quest 2877 item 9008 x2 reward.
+2026-02-21 23:17:34.427 +00:00 [Verbose] Character 329 received quest 2877 item 9003 x3 reward.
+2026-02-21 23:17:55.192 +00:00 [Verbose] Character 329 delivered quest 2876.
+2026-02-21 23:17:55.192 +00:00 [Verbose] Character 329 delivered quest 2876 goal item 80530 x5.
+2026-02-21 23:17:55.192 +00:00 [Verbose] Character 329 received quest 2876 1200 bits reward.
+2026-02-21 23:17:55.192 +00:00 [Verbose] Character 329 received quest 2876 exp reward.
+2026-02-21 23:17:55.192 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 55000 and PartnerExp: 110000 from quest 2876.
+2026-02-21 23:17:55.193 +00:00 [Verbose] Character 329 received quest 2876 item 9007 x2 reward.
+2026-02-21 23:17:55.193 +00:00 [Verbose] Character 329 received quest 2876 item 9008 x2 reward.
+2026-02-21 23:17:55.193 +00:00 [Verbose] Character 329 received quest 2876 item 9003 x3 reward.
+2026-02-21 23:18:25.742 +00:00 [Verbose] Character 329 updated quest 2879 goal 0.
+2026-02-21 23:18:26.970 +00:00 [Verbose] Character 329 delivered quest 2878.
+2026-02-21 23:18:26.970 +00:00 [Verbose] Character 329 received quest 2878 1000 bits reward.
+2026-02-21 23:18:26.970 +00:00 [Verbose] Character 329 received quest 2878 exp reward.
+2026-02-21 23:18:26.971 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 60000 and PartnerExp: 120000 from quest 2878.
+2026-02-21 23:18:26.971 +00:00 [Verbose] Character 329 received quest 2878 item 9007 x2 reward.
+2026-02-21 23:18:26.971 +00:00 [Verbose] Character 329 received quest 2878 item 9008 x2 reward.
+2026-02-21 23:18:26.971 +00:00 [Verbose] Character 329 received quest 2878 item 9003 x4 reward.
+2026-02-21 23:18:28.849 +00:00 [Verbose] Character 329 delivered quest 2879.
+2026-02-21 23:18:28.849 +00:00 [Verbose] Character 329 received quest 2879 1000 bits reward.
+2026-02-21 23:18:28.849 +00:00 [Verbose] Character 329 received quest 2879 exp reward.
+2026-02-21 23:18:28.849 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 60000 and PartnerExp: 120000 from quest 2879.
+2026-02-21 23:18:28.850 +00:00 [Verbose] Character 329 received quest 2879 item 9496 x5 reward.
+2026-02-21 23:18:28.850 +00:00 [Verbose] Character 329 received quest 2879 item 9768 x10 reward.
+2026-02-21 23:18:28.850 +00:00 [Verbose] Character 329 received quest 2879 item 9003 x8 reward.
+2026-02-21 23:18:31.250 +00:00 [Verbose] Character 329 delivered quest 2880.
+2026-02-21 23:18:31.250 +00:00 [Verbose] Character 329 received quest 2880 exp reward.
+2026-02-21 23:18:31.250 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 65000 and PartnerExp: 130000 from quest 2880.
+2026-02-21 23:18:31.250 +00:00 [Verbose] Character 329 received quest 2880 1000 bits reward.
+2026-02-21 23:18:31.251 +00:00 [Verbose] Character 329 received quest 2880 item 9013 x10 reward.
+2026-02-21 23:18:31.251 +00:00 [Verbose] Character 329 received quest 2880 item 9496 x5 reward.
+2026-02-21 23:18:31.251 +00:00 [Verbose] Character 329 received quest 2880 0 bits reward.
+2026-02-21 23:18:33.973 +00:00 [Verbose] Character 329 delivered quest 2881.
+2026-02-21 23:18:33.973 +00:00 [Verbose] Character 329 received quest 2881 exp reward.
+2026-02-21 23:18:33.973 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 65000 and PartnerExp: 130000 from quest 2881.
+2026-02-21 23:18:33.974 +00:00 [Verbose] Character 329 received quest 2881 1000 bits reward.
+2026-02-21 23:18:33.974 +00:00 [Verbose] Character 329 received quest 2881 item 9013 x10 reward.
+2026-02-21 23:18:33.974 +00:00 [Verbose] Character 329 received quest 2881 item 9463 x10 reward.
+2026-02-21 23:19:36.252 +00:00 [Verbose] Character 329 dropped 92000 x1 at map 1301 X20822 Y47934.
+2026-02-21 23:19:37.264 +00:00 [Verbose] Character 329 dropped 92003 x1 at map 1301 X22214 Y47750.
+2026-02-21 23:19:37.264 +00:00 [Verbose] Character 329 dropped 130025 x1 at map 1301 X22177 Y47746.
+2026-02-21 23:19:39.292 +00:00 [Verbose] Character 329 dropped 92003 x1 at map 1301 X21448 Y48639.
+2026-02-21 23:19:41.321 +00:00 [Verbose] Character 329 dropped 92003 x1 at map 1301 X21109 Y48523.
+2026-02-21 23:19:44.361 +00:00 [Verbose] Character 329 dropped 130025 x1 at map 1301 X20540 Y48819.
+2026-02-21 23:19:44.362 +00:00 [Verbose] Character 329 dropped 92000 x1 at map 1301 X20662 Y48817.
+2026-02-21 23:19:49.716 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 23:19:49.716 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 0 | ExpTarget: 0
+
+2026-02-21 23:19:49.716 +00:00 [Verbose] ---------------------------------
+2026-02-21 23:20:03.636 +00:00 [Verbose] Character 329 delivered quest 2882.
+2026-02-21 23:20:03.636 +00:00 [Verbose] Character 329 delivered quest 2882 goal item 80532 x4.
+2026-02-21 23:20:03.636 +00:00 [Verbose] Character 329 received quest 2882 1200 bits reward.
+2026-02-21 23:20:03.637 +00:00 [Verbose] Character 329 received quest 2882 exp reward.
+2026-02-21 23:20:03.637 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 70000 and PartnerExp: 140000 from quest 2882.
+2026-02-21 23:20:03.638 +00:00 [Verbose] Character 329 received quest 2882 item 9061 x5 reward.
+2026-02-21 23:20:03.639 +00:00 [Verbose] Character 329 received quest 2882 item 9463 x10 reward.
+2026-02-21 23:20:03.639 +00:00 [Verbose] Character 329 received quest 2882 item 9007 x2 reward.
+2026-02-21 23:20:04.925 +00:00 [Verbose] Character 329 delivered quest 2883.
+2026-02-21 23:20:04.925 +00:00 [Verbose] Character 329 received quest 2883 exp reward.
+2026-02-21 23:20:04.925 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 70000 and PartnerExp: 140000 from quest 2883.
+2026-02-21 23:20:04.926 +00:00 [Verbose] Character 329 received quest 2883 item 9061 x2 reward.
+2026-02-21 23:20:04.926 +00:00 [Verbose] Character 329 received quest 2883 item 9463 x5 reward.
+2026-02-21 23:20:04.926 +00:00 [Verbose] Character 329 received quest 2883 item 9008 x2 reward.
+2026-02-21 23:20:06.105 +00:00 [Verbose] Character 329 delivered quest 2884.
+2026-02-21 23:20:06.105 +00:00 [Verbose] Character 329 delivered quest 2884 goal item 80535 x3.
+2026-02-21 23:20:06.105 +00:00 [Verbose] Character 329 received quest 2884 exp reward.
+2026-02-21 23:20:06.105 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 60000 and PartnerExp: 120000 from quest 2884.
+2026-02-21 23:20:07.321 +00:00 [Verbose] Character 329 delivered quest 2885.
+2026-02-21 23:20:07.321 +00:00 [Verbose] Character 329 delivered quest 2885 goal item 80534 x3.
+2026-02-21 23:20:07.321 +00:00 [Verbose] Character 329 received quest 2885 exp reward.
+2026-02-21 23:20:07.322 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 60000 and PartnerExp: 120000 from quest 2885.
+2026-02-21 23:20:39.641 +00:00 [Verbose] Character 328 used 5812 to expand digimon slots to 4.
+2026-02-21 23:20:41.023 +00:00 [Verbose] Character 329 updated quest 2886 goal 0.
+2026-02-21 23:20:42.538 +00:00 [Verbose] Character 329 delivered quest 2886.
+2026-02-21 23:20:42.538 +00:00 [Verbose] Character 329 received quest 2886 1000 bits reward.
+2026-02-21 23:20:42.538 +00:00 [Verbose] Character 329 received quest 2886 exp reward.
+2026-02-21 23:20:42.538 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 60000 and PartnerExp: 120000 from quest 2886.
+2026-02-21 23:20:42.539 +00:00 [Verbose] Character 329 received quest 2886 item 9061 x5 reward.
+2026-02-21 23:20:42.539 +00:00 [Verbose] Character 329 received quest 2886 item 9463 x10 reward.
+2026-02-21 23:20:42.539 +00:00 [Verbose] Character 329 received quest 2886 item 9007 x2 reward.
+2026-02-21 23:21:07.754 +00:00 [Verbose] Character 328 used 5812 to expand digimon slots to 5.
+2026-02-21 23:21:27.786 +00:00 [Verbose] Character 329 updated quest 2897 goal 0.
+2026-02-21 23:21:29.205 +00:00 [Verbose] Character 329 delivered quest 2897.
+2026-02-21 23:21:29.205 +00:00 [Verbose] Character 329 received quest 2897 exp reward.
+2026-02-21 23:21:29.205 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 30000 and PartnerExp: 60000 from quest 2897.
+2026-02-21 23:21:29.206 +00:00 [Verbose] Character 329 received quest 2897 item 9463 x10 reward.
+2026-02-21 23:21:29.206 +00:00 [Verbose] Character 329 received quest 2897 item 9061 x5 reward.
+2026-02-21 23:21:29.206 +00:00 [Verbose] Character 329 received quest 2897 item 9007 x2 reward.
+2026-02-21 23:21:29.206 +00:00 [Verbose] Character 329 received quest 2897 item 10274 x999 reward.
+2026-02-21 23:21:29.206 +00:00 [Verbose] Character 329 received quest 2897 item 10273 x999 reward.
+2026-02-21 23:21:29.206 +00:00 [Verbose] Character 329 received quest 2897 item 41040 x1 reward.
+2026-02-21 23:21:38.423 +00:00 [Verbose] Character 329 delivered quest 2890.
+2026-02-21 23:21:38.423 +00:00 [Verbose] Character 329 delivered quest 2890 goal item 80543 x1.
+2026-02-21 23:21:38.423 +00:00 [Verbose] Character 329 received quest 2890 1200 bits reward.
+2026-02-21 23:21:38.423 +00:00 [Verbose] Character 329 received quest 2890 exp reward.
+2026-02-21 23:21:38.423 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 65000 and PartnerExp: 130000 from quest 2890.
+2026-02-21 23:21:38.424 +00:00 [Verbose] Character 329 received quest 2890 item 9003 x3 reward.
+2026-02-21 23:21:38.424 +00:00 [Verbose] Character 329 received quest 2890 item 9496 x5 reward.
+2026-02-21 23:21:38.424 +00:00 [Verbose] Character 329 received quest 2890 item 9061 x3 reward.
+2026-02-21 23:21:40.977 +00:00 [Verbose] Character 329 updated quest 2891 goal 0.
+2026-02-21 23:21:42.084 +00:00 [Verbose] Character 329 delivered quest 2891.
+2026-02-21 23:21:42.084 +00:00 [Verbose] Character 329 received quest 2891 exp reward.
+2026-02-21 23:21:42.084 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 60000 and PartnerExp: 120000 from quest 2891.
+2026-02-21 23:21:42.084 +00:00 [Verbose] Character 329 received quest 2891 1250 bits reward.
+2026-02-21 23:21:42.085 +00:00 [Verbose] Character 329 received quest 2891 item 9463 x5 reward.
+2026-02-21 23:21:42.085 +00:00 [Verbose] Character 329 received quest 2891 item 9512 x5 reward.
+2026-02-21 23:21:46.956 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 23:21:46.956 +00:00 [Verbose] ExpRate: 662074 | NextDayExpRate: 32769 | ExpTarget: 44067
+
+2026-02-21 23:21:46.956 +00:00 [Verbose] ---------------------------------
+2026-02-21 23:21:51.616 +00:00 [Verbose] Character 329 delivered quest 2893.
+2026-02-21 23:21:51.616 +00:00 [Verbose] Character 329 received quest 2893 exp reward.
+2026-02-21 23:21:51.616 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 60000 and PartnerExp: 120000 from quest 2893.
+2026-02-21 23:21:51.617 +00:00 [Verbose] Character 329 received quest 2893 1000 bits reward.
+2026-02-21 23:21:51.618 +00:00 [Verbose] Character 329 received quest 2893 item 9007 x1 reward.
+2026-02-21 23:21:51.618 +00:00 [Verbose] Character 329 received quest 2893 item 9008 x1 reward.
+2026-02-21 23:21:54.817 +00:00 [Verbose] Character 329 delivered quest 2902.
+2026-02-21 23:21:54.817 +00:00 [Verbose] Character 329 received quest 2902 exp reward.
+2026-02-21 23:21:54.817 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 60000 and PartnerExp: 120000 from quest 2902.
+2026-02-21 23:21:54.817 +00:00 [Verbose] Character 329 received quest 2902 1000 bits reward.
+2026-02-21 23:21:54.817 +00:00 [Verbose] Character 329 received quest 2902 item 9013 x5 reward.
+2026-02-21 23:23:11.887 +00:00 [Verbose] Character 329 delivered quest 2899.
+2026-02-21 23:23:11.887 +00:00 [Verbose] Character 329 received quest 2899 exp reward.
+2026-02-21 23:23:11.887 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 70000 and PartnerExp: 140000 from quest 2899.
+2026-02-21 23:23:11.888 +00:00 [Verbose] Character 329 received quest 2899 item 9013 x15 reward.
+2026-02-21 23:23:11.888 +00:00 [Verbose] Character 329 received quest 2899 item 9061 x5 reward.
+2026-02-21 23:23:11.888 +00:00 [Verbose] Character 329 received quest 2899 item 9008 x2 reward.
+2026-02-21 23:23:12.911 +00:00 [Verbose] Character 329 delivered quest 2900.
+2026-02-21 23:23:12.911 +00:00 [Verbose] Character 329 delivered quest 2900 goal item 80548 x4.
+2026-02-21 23:23:12.911 +00:00 [Verbose] Character 329 received quest 2900 exp reward.
+2026-02-21 23:23:12.911 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 60000 and PartnerExp: 120000 from quest 2900.
+2026-02-21 23:23:13.856 +00:00 [Verbose] Character 329 delivered quest 2901.
+2026-02-21 23:23:13.856 +00:00 [Verbose] Character 329 delivered quest 2901 goal item 80537 x1.
+2026-02-21 23:23:13.856 +00:00 [Verbose] Character 329 received quest 2901 exp reward.
+2026-02-21 23:23:13.856 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 60000 and PartnerExp: 120000 from quest 2901.
+2026-02-21 23:23:18.396 +00:00 [Verbose] Character 329 updated quest 2894 goal 0.
+2026-02-21 23:23:19.522 +00:00 [Verbose] Character 329 delivered quest 2894.
+2026-02-21 23:23:19.522 +00:00 [Verbose] Character 329 received quest 2894 1000 bits reward.
+2026-02-21 23:23:19.522 +00:00 [Verbose] Character 329 received quest 2894 exp reward.
+2026-02-21 23:23:19.522 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 60000 and PartnerExp: 120000 from quest 2894.
+2026-02-21 23:23:19.523 +00:00 [Verbose] Character 329 received quest 2894 item 9007 x1 reward.
+2026-02-21 23:23:19.523 +00:00 [Verbose] Character 329 received quest 2894 item 9008 x1 reward.
+2026-02-21 23:23:32.511 +00:00 [Verbose] Character 329 updated quest 2895 goal 0.
+2026-02-21 23:23:34.440 +00:00 [Verbose] Character 329 delivered quest 2895.
+2026-02-21 23:23:34.441 +00:00 [Verbose] Character 329 received quest 2895 1000 bits reward.
+2026-02-21 23:23:34.441 +00:00 [Verbose] Character 329 received quest 2895 exp reward.
+2026-02-21 23:23:34.441 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 60000 and PartnerExp: 120000 from quest 2895.
+2026-02-21 23:23:34.442 +00:00 [Verbose] Character 329 received quest 2895 item 9007 x1 reward.
+2026-02-21 23:23:34.442 +00:00 [Verbose] Character 329 received quest 2895 item 9008 x1 reward.
+2026-02-21 23:23:47.278 +00:00 [Verbose] Character 329 received quest 2896 supply item 80533 x1.
+2026-02-21 23:24:30.210 +00:00 [Verbose] Character 329 delivered quest 2898.
+2026-02-21 23:24:30.210 +00:00 [Verbose] Character 329 received quest 2898 exp reward.
+2026-02-21 23:24:30.210 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 70000 and PartnerExp: 140000 from quest 2898.
+2026-02-21 23:24:30.211 +00:00 [Verbose] Character 329 received quest 2898 item 9013 x15 reward.
+2026-02-21 23:24:30.212 +00:00 [Verbose] Character 329 received quest 2898 item 9061 x5 reward.
+2026-02-21 23:24:30.212 +00:00 [Verbose] Character 329 received quest 2898 item 9007 x2 reward.
+2026-02-21 23:25:49.888 +00:00 [Verbose] Character 329 delivered quest 2892.
+2026-02-21 23:25:49.888 +00:00 [Verbose] Character 329 received quest 2892 3000 bits reward.
+2026-02-21 23:25:49.888 +00:00 [Verbose] Character 329 received quest 2892 item 9916 x1 reward.
+2026-02-21 23:25:49.888 +00:00 [Verbose] Character 329 received quest 2892 exp reward.
+2026-02-21 23:25:49.888 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 90000 and PartnerExp: 180000 from quest 2892.
+2026-02-21 23:26:05.669 +00:00 [Verbose] Character 328 delivered quest 938.
+2026-02-21 23:26:05.669 +00:00 [Verbose] Character 328 received quest 938 exp reward.
+2026-02-21 23:26:05.669 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 10000 and PartnerExp: 20000 from quest 938.
+2026-02-21 23:26:46.977 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 23:26:46.977 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 0 | ExpTarget: 6706
+
+2026-02-21 23:26:46.977 +00:00 [Verbose] ---------------------------------
+2026-02-21 23:29:49.711 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 23:29:49.711 +00:00 [Verbose] ExpRate: 4201018 | NextDayExpRate: 16813824 | ExpTarget: 1716992
+
+2026-02-21 23:29:49.711 +00:00 [Verbose] ---------------------------------
+2026-02-21 23:30:09.993 +00:00 [Verbose] Character 329 identified item 128561 with power 99 reroll 0 and status AT 317,SCD 121,CT 7,AT 202.
+2026-02-21 23:30:11.775 +00:00 [Verbose] Tamer Pain evolved partner (4646:Lucem0n) from 45160:Lucemon to 62078
+2026-02-21 23:31:46.998 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 23:31:46.998 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 0 | ExpTarget: 6706
+
+2026-02-21 23:31:46.998 +00:00 [Verbose] ---------------------------------
+2026-02-21 23:34:26.106 +00:00 [Verbose] Character 329 unlocked 61017 ride mode for 4643 (31008) with item section 15052 x1.
+2026-02-21 23:34:37.087 +00:00 [Verbose] Character 329 started riding mode with 4643 (61017).
+2026-02-21 23:34:38.439 +00:00 [Verbose] Character 328 updated quest 2873 goal 0.
+2026-02-21 23:34:39.858 +00:00 [Verbose] Character 328 delivered quest 2873.
+2026-02-21 23:34:39.858 +00:00 [Verbose] Character 328 received quest 2873 800 bits reward.
+2026-02-21 23:34:39.858 +00:00 [Verbose] Character 328 received quest 2873 exp reward.
+2026-02-21 23:34:39.858 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 40000 and PartnerExp: 80000 from quest 2873.
+2026-02-21 23:34:39.859 +00:00 [Verbose] Character 328 received quest 2873 item 113892 x1 reward.
+2026-02-21 23:34:39.859 +00:00 [Verbose] Character 328 received quest 2873 item 41002 x500 reward.
+2026-02-21 23:34:39.859 +00:00 [Verbose] Character 328 received quest 2873 item 73011 x1 reward.
+2026-02-21 23:34:49.707 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 23:34:49.707 +00:00 [Verbose] ExpRate: 531002 | NextDayExpRate: 16387 | ExpTarget: 9654
+
+2026-02-21 23:34:49.707 +00:00 [Verbose] ---------------------------------
+2026-02-21 23:35:56.649 +00:00 [Verbose] Character 328 hatched 4647(32008) with grade Lv5 and size 12239.
+2026-02-21 23:36:31.678 +00:00 [Verbose] Character 329 ended riding mode with 4643 (61017).
+2026-02-21 23:36:34.905 +00:00 [Verbose] Tamer Pain evolved partner (4647:UltraForceV) from 32008:V-mon to 41053
+2026-02-21 23:36:47.009 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 23:36:47.009 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 65682 | ExpTarget: 6706
+
+2026-02-21 23:36:47.009 +00:00 [Verbose] ---------------------------------
+2026-02-21 23:37:11.651 +00:00 [Verbose] Character 328 unlocked evolution 51056 for 4647 (32008) with item section 15001 x3.
+2026-02-21 23:37:14.655 +00:00 [Verbose] Tamer Pain evolved partner (4647:UltraForceV) from 41053:Veedramon to 51056
+2026-02-21 23:37:23.809 +00:00 [Verbose] Character 328 delivered quest 2874.
+2026-02-21 23:37:23.809 +00:00 [Verbose] Character 328 received quest 2874 900 bits reward.
+2026-02-21 23:37:23.809 +00:00 [Verbose] Character 328 received quest 2874 exp reward.
+2026-02-21 23:37:23.809 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 50000 and PartnerExp: 100000 from quest 2874.
+2026-02-21 23:37:23.810 +00:00 [Verbose] Character 328 received quest 2874 item 128561 x1 reward.
+2026-02-21 23:37:23.810 +00:00 [Verbose] Character 328 received quest 2874 item 10052 x20 reward.
+2026-02-21 23:37:37.017 +00:00 [Verbose] Character 328 used 9768 to change partner 4647 size from 122% to 121%.
+2026-02-21 23:37:38.979 +00:00 [Verbose] Character 328 used 9768 to change partner 4647 size from 121% to 122%.
+2026-02-21 23:37:40.612 +00:00 [Verbose] Character 328 used 9768 to change partner 4647 size from 122% to 118%.
+2026-02-21 23:37:42.117 +00:00 [Verbose] Character 328 used 9768 to change partner 4647 size from 118% to 121%.
+2026-02-21 23:37:43.628 +00:00 [Verbose] Character 328 used 9768 to change partner 4647 size from 121% to 121%.
+2026-02-21 23:37:45.211 +00:00 [Verbose] Character 328 used 9768 to change partner 4647 size from 121% to 119%.
+2026-02-21 23:37:48.785 +00:00 [Verbose] Character 328 used 9768 to change partner 4647 size from 119% to 121%.
+2026-02-21 23:37:50.444 +00:00 [Verbose] Character 328 used 9768 to change partner 4647 size from 121% to 122%.
+2026-02-21 23:37:52.162 +00:00 [Verbose] Character 328 used 9768 to change partner 4647 size from 122% to 119%.
+2026-02-21 23:37:55.648 +00:00 [Verbose] Character 328 used 9768 to change partner 4647 size from 119% to 119%.
+2026-02-21 23:37:58.019 +00:00 [Verbose] Character 328 used 9768 to change partner 4647 size from 119% to 121%.
+2026-02-21 23:37:59.495 +00:00 [Verbose] Character 328 used 9768 to change partner 4647 size from 121% to 129%.
+2026-02-21 23:38:18.783 +00:00 [Verbose] Character 328 identified item 128561 with power 97 reroll 0 and status AT 358,CT 7,CT 7,AT 341.
+2026-02-21 23:39:49.721 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 23:39:49.721 +00:00 [Verbose] ExpRate: 4201018 | NextDayExpRate: 16814336 | ExpTarget: 1716992
+
+2026-02-21 23:39:49.721 +00:00 [Verbose] ---------------------------------
+2026-02-21 23:41:47.022 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 23:41:47.022 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 65680 | ExpTarget: 6706
+
+2026-02-21 23:41:47.022 +00:00 [Verbose] ---------------------------------
+2026-02-21 23:42:56.879 +00:00 [Verbose] Character 328 unlocked evolution 61058 for 4647 (32008) with item section 15001 x8.
+2026-02-21 23:43:00.011 +00:00 [Verbose] Tamer Pain evolved partner (4647:UltraForceV) from 51056:AeroV-Dramon to 61058
+2026-02-21 23:43:12.044 +00:00 [Verbose] Character 328 unlocked 61058 ride mode for 4647 (32008) with item section 15052 x1.
+2026-02-21 23:44:14.226 +00:00 [Verbose] Tamer Emos evolved partner (4643:Vm0) from 61017:ImperialDramon to 61027
+2026-02-21 23:44:49.722 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 23:44:49.722 +00:00 [Verbose] ExpRate: 1120826 | NextDayExpRate: 16387 | ExpTarget: 13435
+
+2026-02-21 23:44:49.722 +00:00 [Verbose] ---------------------------------
+2026-02-21 23:45:38.488 +00:00 [Verbose] Character 328 updated quest 2875 goal 0.
+2026-02-21 23:45:39.993 +00:00 [Verbose] Character 328 delivered quest 2875.
+2026-02-21 23:45:39.993 +00:00 [Verbose] Character 328 received quest 2875 800 bits reward.
+2026-02-21 23:45:39.993 +00:00 [Verbose] Character 328 received quest 2875 exp reward.
+2026-02-21 23:45:39.994 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 50000 and PartnerExp: 100000 from quest 2875.
+2026-02-21 23:45:39.994 +00:00 [Verbose] Character 328 received quest 2875 item 9007 x2 reward.
+2026-02-21 23:45:39.994 +00:00 [Verbose] Character 328 received quest 2875 item 9008 x2 reward.
+2026-02-21 23:45:39.994 +00:00 [Verbose] Character 328 received quest 2875 item 9013 x10 reward.
+2026-02-21 23:46:19.644 +00:00 [Verbose] Character 328 delivered quest 2876.
+2026-02-21 23:46:19.644 +00:00 [Verbose] Character 328 delivered quest 2876 goal item 80530 x5.
+2026-02-21 23:46:19.644 +00:00 [Verbose] Character 328 received quest 2876 1200 bits reward.
+2026-02-21 23:46:19.644 +00:00 [Verbose] Character 328 received quest 2876 exp reward.
+2026-02-21 23:46:19.644 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 55000 and PartnerExp: 110000 from quest 2876.
+2026-02-21 23:46:19.645 +00:00 [Verbose] Character 328 received quest 2876 item 9007 x2 reward.
+2026-02-21 23:46:19.645 +00:00 [Verbose] Character 328 received quest 2876 item 9008 x2 reward.
+2026-02-21 23:46:19.645 +00:00 [Verbose] Character 328 received quest 2876 item 9003 x3 reward.
+2026-02-21 23:46:20.792 +00:00 [Verbose] Character 328 delivered quest 2877.
+2026-02-21 23:46:20.792 +00:00 [Verbose] Character 328 delivered quest 2877 goal item 80544 x1.
+2026-02-21 23:46:20.792 +00:00 [Verbose] Character 328 received quest 2877 1200 bits reward.
+2026-02-21 23:46:20.792 +00:00 [Verbose] Character 328 received quest 2877 exp reward.
+2026-02-21 23:46:20.792 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 55000 and PartnerExp: 110000 from quest 2877.
+2026-02-21 23:46:20.793 +00:00 [Verbose] Character 328 received quest 2877 item 9007 x2 reward.
+2026-02-21 23:46:20.794 +00:00 [Verbose] Character 328 received quest 2877 item 9008 x2 reward.
+2026-02-21 23:46:20.794 +00:00 [Verbose] Character 328 received quest 2877 item 9003 x3 reward.
+2026-02-21 23:46:31.220 +00:00 [Verbose] Character 328 updated quest 2879 goal 0.
+2026-02-21 23:46:32.440 +00:00 [Verbose] Character 328 delivered quest 2878.
+2026-02-21 23:46:32.440 +00:00 [Verbose] Character 328 received quest 2878 1000 bits reward.
+2026-02-21 23:46:32.440 +00:00 [Verbose] Character 328 received quest 2878 exp reward.
+2026-02-21 23:46:32.440 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 60000 and PartnerExp: 120000 from quest 2878.
+2026-02-21 23:46:32.441 +00:00 [Verbose] Character 328 received quest 2878 item 9007 x2 reward.
+2026-02-21 23:46:32.441 +00:00 [Verbose] Character 328 received quest 2878 item 9008 x2 reward.
+2026-02-21 23:46:32.441 +00:00 [Verbose] Character 328 received quest 2878 item 9003 x4 reward.
+2026-02-21 23:46:34.272 +00:00 [Verbose] Character 328 delivered quest 2879.
+2026-02-21 23:46:34.272 +00:00 [Verbose] Character 328 received quest 2879 1000 bits reward.
+2026-02-21 23:46:34.272 +00:00 [Verbose] Character 328 received quest 2879 exp reward.
+2026-02-21 23:46:34.272 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 60000 and PartnerExp: 120000 from quest 2879.
+2026-02-21 23:46:34.273 +00:00 [Verbose] Character 328 received quest 2879 item 9496 x5 reward.
+2026-02-21 23:46:34.273 +00:00 [Verbose] Character 328 received quest 2879 item 9768 x10 reward.
+2026-02-21 23:46:34.273 +00:00 [Verbose] Character 328 received quest 2879 item 9003 x8 reward.
+2026-02-21 23:46:37.572 +00:00 [Verbose] Character 328 delivered quest 2880.
+2026-02-21 23:46:37.572 +00:00 [Verbose] Character 328 received quest 2880 exp reward.
+2026-02-21 23:46:37.572 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 65000 and PartnerExp: 130000 from quest 2880.
+2026-02-21 23:46:37.573 +00:00 [Verbose] Character 328 received quest 2880 1000 bits reward.
+2026-02-21 23:46:37.573 +00:00 [Verbose] Character 328 received quest 2880 item 9013 x10 reward.
+2026-02-21 23:46:37.573 +00:00 [Verbose] Character 328 received quest 2880 item 9496 x5 reward.
+2026-02-21 23:46:37.573 +00:00 [Verbose] Character 328 received quest 2880 0 bits reward.
+2026-02-21 23:46:42.504 +00:00 [Verbose] Character 328 delivered quest 2881.
+2026-02-21 23:46:42.505 +00:00 [Verbose] Character 328 received quest 2881 exp reward.
+2026-02-21 23:46:42.505 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 65000 and PartnerExp: 130000 from quest 2881.
+2026-02-21 23:46:42.505 +00:00 [Verbose] Character 328 received quest 2881 1000 bits reward.
+2026-02-21 23:46:42.506 +00:00 [Verbose] Character 328 received quest 2881 item 9013 x10 reward.
+2026-02-21 23:46:42.506 +00:00 [Verbose] Character 328 received quest 2881 item 9463 x10 reward.
+2026-02-21 23:46:47.023 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 23:46:47.023 +00:00 [Verbose] ExpRate: 924218 | NextDayExpRate: 32769 | ExpTarget: 17465
+
+2026-02-21 23:46:47.023 +00:00 [Verbose] ---------------------------------
+2026-02-21 23:47:12.487 +00:00 [Verbose] Character 328 delivered quest 2882.
+2026-02-21 23:47:12.487 +00:00 [Verbose] Character 328 delivered quest 2882 goal item 80532 x4.
+2026-02-21 23:47:12.487 +00:00 [Verbose] Character 328 received quest 2882 1200 bits reward.
+2026-02-21 23:47:12.487 +00:00 [Verbose] Character 328 received quest 2882 exp reward.
+2026-02-21 23:47:12.488 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 70000 and PartnerExp: 140000 from quest 2882.
+2026-02-21 23:47:12.488 +00:00 [Verbose] Character 328 received quest 2882 item 9061 x5 reward.
+2026-02-21 23:47:12.488 +00:00 [Verbose] Character 328 received quest 2882 item 9463 x10 reward.
+2026-02-21 23:47:12.489 +00:00 [Verbose] Character 328 received quest 2882 item 9007 x2 reward.
+2026-02-21 23:47:14.370 +00:00 [Verbose] Character 328 delivered quest 2883.
+2026-02-21 23:47:14.370 +00:00 [Verbose] Character 328 received quest 2883 exp reward.
+2026-02-21 23:47:14.370 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 70000 and PartnerExp: 140000 from quest 2883.
+2026-02-21 23:47:14.371 +00:00 [Verbose] Character 328 received quest 2883 item 9061 x2 reward.
+2026-02-21 23:47:14.371 +00:00 [Verbose] Character 328 received quest 2883 item 9463 x5 reward.
+2026-02-21 23:47:14.371 +00:00 [Verbose] Character 328 received quest 2883 item 9008 x2 reward.
+2026-02-21 23:47:21.017 +00:00 [Verbose] Character 328 updated quest 2886 goal 0.
+2026-02-21 23:47:23.020 +00:00 [Verbose] Character 328 delivered quest 2886.
+2026-02-21 23:47:23.020 +00:00 [Verbose] Character 328 received quest 2886 1000 bits reward.
+2026-02-21 23:47:23.020 +00:00 [Verbose] Character 328 received quest 2886 exp reward.
+2026-02-21 23:47:23.021 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 60000 and PartnerExp: 120000 from quest 2886.
+2026-02-21 23:47:23.021 +00:00 [Verbose] Character 328 received quest 2886 item 9061 x5 reward.
+2026-02-21 23:47:23.022 +00:00 [Verbose] Character 328 received quest 2886 item 9463 x10 reward.
+2026-02-21 23:47:23.022 +00:00 [Verbose] Character 328 received quest 2886 item 9007 x2 reward.
+2026-02-21 23:47:42.099 +00:00 [Verbose] Character 328 updated quest 2897 goal 0.
+2026-02-21 23:47:43.289 +00:00 [Verbose] Character 328 delivered quest 2897.
+2026-02-21 23:47:43.289 +00:00 [Verbose] Character 328 received quest 2897 exp reward.
+2026-02-21 23:47:43.290 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 30000 and PartnerExp: 60000 from quest 2897.
+2026-02-21 23:47:43.290 +00:00 [Verbose] Character 328 received quest 2897 item 9463 x10 reward.
+2026-02-21 23:47:43.290 +00:00 [Verbose] Character 328 received quest 2897 item 9061 x5 reward.
+2026-02-21 23:47:43.290 +00:00 [Verbose] Character 328 received quest 2897 item 9007 x2 reward.
+2026-02-21 23:47:43.290 +00:00 [Verbose] Character 328 received quest 2897 item 10274 x999 reward.
+2026-02-21 23:47:43.290 +00:00 [Verbose] Character 328 received quest 2897 item 10273 x999 reward.
+2026-02-21 23:47:43.290 +00:00 [Verbose] Character 328 received quest 2897 item 41040 x1 reward.
+2026-02-21 23:48:14.873 +00:00 [Verbose] Character 329 dropped 130031 x2 at map 1301 X32655 Y37983.
+2026-02-21 23:48:37.184 +00:00 [Verbose] Character 329 delivered quest 2887.
+2026-02-21 23:48:37.184 +00:00 [Verbose] Character 329 received quest 2887 exp reward.
+2026-02-21 23:48:37.184 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 60000 and PartnerExp: 120000 from quest 2887.
+2026-02-21 23:48:53.452 +00:00 [Verbose] Character 328 delivered quest 2898.
+2026-02-21 23:48:53.452 +00:00 [Verbose] Character 328 received quest 2898 exp reward.
+2026-02-21 23:48:53.452 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 70000 and PartnerExp: 140000 from quest 2898.
+2026-02-21 23:48:53.453 +00:00 [Verbose] Character 328 received quest 2898 item 9013 x15 reward.
+2026-02-21 23:48:53.453 +00:00 [Verbose] Character 328 received quest 2898 item 9061 x5 reward.
+2026-02-21 23:48:53.453 +00:00 [Verbose] Character 328 received quest 2898 item 9007 x2 reward.
+2026-02-21 23:48:54.982 +00:00 [Verbose] Character 328 delivered quest 2899.
+2026-02-21 23:48:54.982 +00:00 [Verbose] Character 328 received quest 2899 exp reward.
+2026-02-21 23:48:54.983 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 70000 and PartnerExp: 140000 from quest 2899.
+2026-02-21 23:48:54.983 +00:00 [Verbose] Character 328 received quest 2899 item 9013 x15 reward.
+2026-02-21 23:48:54.984 +00:00 [Verbose] Character 328 received quest 2899 item 9061 x5 reward.
+2026-02-21 23:48:54.984 +00:00 [Verbose] Character 328 received quest 2899 item 9008 x2 reward.
+2026-02-21 23:49:00.699 +00:00 [Verbose] Character 328 delivered quest 2890.
+2026-02-21 23:49:00.699 +00:00 [Verbose] Character 328 delivered quest 2890 goal item 80543 x1.
+2026-02-21 23:49:00.699 +00:00 [Verbose] Character 328 received quest 2890 1200 bits reward.
+2026-02-21 23:49:00.699 +00:00 [Verbose] Character 328 received quest 2890 exp reward.
+2026-02-21 23:49:00.699 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 65000 and PartnerExp: 130000 from quest 2890.
+2026-02-21 23:49:00.700 +00:00 [Verbose] Character 328 received quest 2890 item 9003 x3 reward.
+2026-02-21 23:49:00.700 +00:00 [Verbose] Character 328 received quest 2890 item 9496 x5 reward.
+2026-02-21 23:49:00.700 +00:00 [Verbose] Character 328 received quest 2890 item 9061 x3 reward.
+2026-02-21 23:49:03.648 +00:00 [Verbose] Character 328 updated quest 2891 goal 0.
+2026-02-21 23:49:05.247 +00:00 [Verbose] Character 328 delivered quest 2891.
+2026-02-21 23:49:05.247 +00:00 [Verbose] Character 328 received quest 2891 exp reward.
+2026-02-21 23:49:05.247 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 60000 and PartnerExp: 120000 from quest 2891.
+2026-02-21 23:49:05.248 +00:00 [Verbose] Character 328 received quest 2891 1250 bits reward.
+2026-02-21 23:49:05.248 +00:00 [Verbose] Character 328 received quest 2891 item 9463 x5 reward.
+2026-02-21 23:49:05.248 +00:00 [Verbose] Character 328 received quest 2891 item 9512 x5 reward.
+2026-02-21 23:49:11.170 +00:00 [Verbose] Character 328 updated quest 2893 goal 0.
+2026-02-21 23:49:12.482 +00:00 [Verbose] Character 328 delivered quest 2893.
+2026-02-21 23:49:12.482 +00:00 [Verbose] Character 328 received quest 2893 exp reward.
+2026-02-21 23:49:12.482 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 60000 and PartnerExp: 120000 from quest 2893.
+2026-02-21 23:49:12.483 +00:00 [Verbose] Character 328 received quest 2893 1000 bits reward.
+2026-02-21 23:49:12.483 +00:00 [Verbose] Character 328 received quest 2893 item 9007 x1 reward.
+2026-02-21 23:49:12.483 +00:00 [Verbose] Character 328 received quest 2893 item 9008 x1 reward.
+2026-02-21 23:49:15.981 +00:00 [Verbose] Character 328 delivered quest 2902.
+2026-02-21 23:49:15.981 +00:00 [Verbose] Character 328 received quest 2902 exp reward.
+2026-02-21 23:49:15.981 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 60000 and PartnerExp: 120000 from quest 2902.
+2026-02-21 23:49:15.982 +00:00 [Verbose] Character 328 received quest 2902 1000 bits reward.
+2026-02-21 23:49:15.982 +00:00 [Verbose] Character 328 received quest 2902 item 9013 x5 reward.
+2026-02-21 23:49:41.492 +00:00 [Verbose] Character 328 updated quest 2894 goal 0.
+2026-02-21 23:49:42.718 +00:00 [Verbose] Character 328 delivered quest 2894.
+2026-02-21 23:49:42.718 +00:00 [Verbose] Character 328 received quest 2894 1000 bits reward.
+2026-02-21 23:49:42.718 +00:00 [Verbose] Character 328 received quest 2894 exp reward.
+2026-02-21 23:49:42.718 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 60000 and PartnerExp: 120000 from quest 2894.
+2026-02-21 23:49:42.719 +00:00 [Verbose] Character 328 received quest 2894 item 9007 x1 reward.
+2026-02-21 23:49:42.719 +00:00 [Verbose] Character 328 received quest 2894 item 9008 x1 reward.
+2026-02-21 23:49:48.693 +00:00 [Verbose] Character 328 updated quest 2895 goal 0.
+2026-02-21 23:49:49.739 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 23:49:49.739 +00:00 [Verbose] ExpRate: 1382970 | NextDayExpRate: 16387 | ExpTarget: 41437
+
+2026-02-21 23:49:49.739 +00:00 [Verbose] ---------------------------------
+2026-02-21 23:49:50.118 +00:00 [Verbose] Character 328 delivered quest 2895.
+2026-02-21 23:49:50.118 +00:00 [Verbose] Character 328 received quest 2895 1000 bits reward.
+2026-02-21 23:49:50.118 +00:00 [Verbose] Character 328 received quest 2895 exp reward.
+2026-02-21 23:49:50.118 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 60000 and PartnerExp: 120000 from quest 2895.
+2026-02-21 23:49:50.120 +00:00 [Verbose] Character 328 received quest 2895 item 9007 x1 reward.
+2026-02-21 23:49:50.120 +00:00 [Verbose] Character 328 received quest 2895 item 9008 x1 reward.
+2026-02-21 23:49:56.033 +00:00 [Verbose] Character 328 received quest 2896 supply item 80533 x1.
+2026-02-21 23:50:29.226 +00:00 [Verbose] Character 329 delivered quest 2888.
+2026-02-21 23:50:29.226 +00:00 [Verbose] Character 329 delivered quest 2888 goal item 80538 x1.
+2026-02-21 23:50:29.226 +00:00 [Verbose] Character 329 received quest 2888 exp reward.
+2026-02-21 23:50:29.226 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 70000 and PartnerExp: 140000 from quest 2888.
+2026-02-21 23:50:29.227 +00:00 [Verbose] Character 329 received quest 2888 item 9013 x5 reward.
+2026-02-21 23:50:29.227 +00:00 [Verbose] Character 329 received quest 2888 item 9007 x2 reward.
+2026-02-21 23:50:29.227 +00:00 [Verbose] Character 329 received quest 2888 item 9008 x2 reward.
+2026-02-21 23:50:30.614 +00:00 [Verbose] Character 329 delivered quest 2889.
+2026-02-21 23:50:30.614 +00:00 [Verbose] Character 329 delivered quest 2889 goal item 80539 x3.
+2026-02-21 23:50:30.614 +00:00 [Verbose] Character 329 received quest 2889 exp reward.
+2026-02-21 23:50:30.614 +00:00 [Verbose] Tamer 329:Emos received TamerExp: 70000 and PartnerExp: 140000 from quest 2889.
+2026-02-21 23:50:30.614 +00:00 [Verbose] Character 329 received quest 2889 item 9013 x5 reward.
+2026-02-21 23:50:30.614 +00:00 [Verbose] Character 329 received quest 2889 item 9007 x2 reward.
+2026-02-21 23:50:30.614 +00:00 [Verbose] Character 329 received quest 2889 item 9008 x2 reward.
+2026-02-21 23:50:41.822 +00:00 [Verbose] Character 328 delivered quest 2892.
+2026-02-21 23:50:41.822 +00:00 [Verbose] Character 328 received quest 2892 3000 bits reward.
+2026-02-21 23:50:41.822 +00:00 [Verbose] Character 328 received quest 2892 item 9916 x1 reward.
+2026-02-21 23:50:41.822 +00:00 [Verbose] Character 328 received quest 2892 exp reward.
+2026-02-21 23:50:41.823 +00:00 [Verbose] Tamer 328:Pain received TamerExp: 90000 and PartnerExp: 180000 from quest 2892.
+2026-02-21 23:51:33.271 +00:00 [Verbose] Processing ItemRemove for Tamer 328. Slot: 49, Amount: 5, Position: (40766, 36691).
+2026-02-21 23:51:37.121 +00:00 [Verbose] Processing ItemRemove for Tamer 328. Slot: 38, Amount: 1, Position: (40766, 36691).
+2026-02-21 23:51:47.040 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 23:51:47.040 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 65550 | ExpTarget: 6706
+
+2026-02-21 23:51:47.040 +00:00 [Verbose] ---------------------------------
+2026-02-21 23:52:37.215 +00:00 [Verbose] Processing ItemRemove for Tamer 328. Slot: 52, Amount: 1, Position: (41300, 37428).
+2026-02-21 23:52:39.582 +00:00 [Verbose] Processing ItemRemove for Tamer 328. Slot: 36, Amount: 2, Position: (41246, 37524).
+2026-02-21 23:52:54.232 +00:00 [Verbose] Processing ItemRemove for Tamer 328. Slot: 54, Amount: 1, Position: (40753, 36792).
+2026-02-21 23:53:02.220 +00:00 [Verbose] Tamer Emos devolved partner (4643:Vm0) from 61027 to 31008.
+2026-02-21 23:53:11.928 +00:00 [Verbose] Tamer Emos evolved partner (4643:Vm0) from 31008:V-mon to 61017
+2026-02-21 23:53:55.623 +00:00 [Verbose] Character 329 started riding mode with 4643 (61017).
+2026-02-21 23:54:11.542 +00:00 [Verbose] Character 329 ended riding mode with 4643 (61017).
+2026-02-21 23:54:13.580 +00:00 [Verbose] Tamer Emos evolved partner (4643:Vm0) from 61017:ImperialDramon to 61027
+2026-02-21 23:54:49.742 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 23:54:49.742 +00:00 [Verbose] ExpRate: 1710650 | NextDayExpRate: 16387 | ExpTarget: 47738
+
+2026-02-21 23:54:49.742 +00:00 [Verbose] ---------------------------------
+2026-02-21 23:56:47.062 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 23:56:47.062 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 65655 | ExpTarget: 6706
+
+2026-02-21 23:56:47.062 +00:00 [Verbose] ---------------------------------
+2026-02-21 23:59:49.740 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-21 23:59:49.740 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 65663 | ExpTarget: 6706
+
+2026-02-21 23:59:49.740 +00:00 [Verbose] ---------------------------------

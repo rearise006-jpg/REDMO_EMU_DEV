@@ -1,0 +1,95 @@
+2026-02-21 00:34:53.734 +03:00 [Information] Log-in successfull for username "admin2"
+2026-02-21 00:35:14.431 +03:00 [Information] Opening map edit page for map id: 1
+2026-02-21 00:35:24.187 +03:00 [Information] Searching mobs by map id 1
+2026-02-21 00:36:04.603 +03:00 [Information] Creating new account with username "enes098t"
+2026-02-21 00:36:05.995 +03:00 [Information] Account created with username "enes098t"
+2026-02-21 01:18:00.802 +03:00 [Information] Log-in successfull for username "admin2"
+2026-02-21 01:18:13.882 +03:00 [Information] Toggle map status for MapId: 14, Current: True
+2026-02-21 01:18:17.021 +03:00 [Information] User confirmed map status change for MapId: 14
+2026-02-21 01:18:17.039 +03:00 [Information] Map config retrieved for MapId: 14, Current MapIsOpen: True
+2026-02-21 01:18:17.039 +03:00 [Information] Sending update command for MapId: 14, NewStatus: False
+2026-02-21 01:18:17.193 +03:00 [Information] Map 14 status changed to CLOSED
+2026-02-21 01:18:17.217 +03:00 [Information] Table reloaded after map status change
+2026-02-21 01:18:41.927 +03:00 [Information] Toggle map status for MapId: 14, Current: True
+2026-02-21 01:18:44.323 +03:00 [Information] User confirmed map status change for MapId: 14
+2026-02-21 01:18:44.338 +03:00 [Information] Map config retrieved for MapId: 14, Current MapIsOpen: False
+2026-02-21 01:18:44.338 +03:00 [Information] Sending update command for MapId: 14, NewStatus: False
+2026-02-21 01:18:44.356 +03:00 [Information] Map 14 status changed to CLOSED
+2026-02-21 01:18:44.383 +03:00 [Information] Table reloaded after map status change
+2026-02-21 01:19:10.851 +03:00 [Information] Filtering maps with value: former
+2026-02-21 01:19:10.852 +03:00 [Information] Refreshing maps table
+2026-02-21 01:19:10.972 +03:00 [Information] Refreshing maps table
+2026-02-21 01:19:13.283 +03:00 [Information] Toggle map status for MapId: 14, Current: True
+2026-02-21 01:19:14.319 +03:00 [Information] User confirmed map status change for MapId: 14
+2026-02-21 01:19:14.325 +03:00 [Information] Map config retrieved for MapId: 14, Current MapIsOpen: False
+2026-02-21 01:19:14.325 +03:00 [Information] Sending update command for MapId: 14, NewStatus: False
+2026-02-21 01:19:14.335 +03:00 [Information] Map 14 status changed to CLOSED
+2026-02-21 01:19:14.346 +03:00 [Information] Table reloaded after map status change
+2026-02-21 01:19:41.889 +03:00 [Information] Log-in successfull for username "admin2"
+2026-02-21 01:20:54.380 +03:00 [Information] Toggle map status for MapId: 14, Current: True
+2026-02-21 01:20:55.740 +03:00 [Information] User confirmed map status change for MapId: 14
+2026-02-21 01:20:55.758 +03:00 [Information] Map config retrieved for MapId: 14, Current MapIsOpen: False
+2026-02-21 01:20:55.758 +03:00 [Information] Sending update command for MapId: 14, NewStatus: False
+2026-02-21 01:20:55.768 +03:00 [Information] Map 14 status changed to CLOSED
+2026-02-21 01:20:55.794 +03:00 [Information] Table reloaded after map status change
+2026-02-21 01:21:36.185 +03:00 [Information] Toggle map status for MapId: 22, Current: True
+2026-02-21 01:21:36.977 +03:00 [Information] User confirmed map status change for MapId: 22
+2026-02-21 01:21:36.981 +03:00 [Information] Map config retrieved for MapId: 22, Current MapIsOpen: True
+2026-02-21 01:21:36.981 +03:00 [Information] Sending update command for MapId: 22, NewStatus: False
+2026-02-21 01:21:36.998 +03:00 [Information] Map 22 status changed to CLOSED
+2026-02-21 01:21:37.018 +03:00 [Information] Table reloaded after map status change
+2026-02-21 01:24:13.380 +03:00 [Information] Log-in failed for username "admin2"
+2026-02-21 01:24:19.539 +03:00 [Information] Log-in successfull for username "admin2"
+2026-02-21 01:24:27.973 +03:00 [Information] Toggle map status for MapId: 14, Current: True
+2026-02-21 01:24:28.848 +03:00 [Information] User confirmed map status change for MapId: 14
+2026-02-21 01:24:28.863 +03:00 [Information] Map config retrieved for MapId: 14, Current MapIsOpen: False
+2026-02-21 01:24:28.864 +03:00 [Information] Sending update command for MapId: 14, NewStatus: False
+2026-02-21 01:24:28.999 +03:00 [Information] Map 14 status changed to CLOSED
+2026-02-21 01:24:29.014 +03:00 [Information] Table reloaded after map status change
+2026-02-21 01:24:47.127 +03:00 [Information] Toggle map status for MapId: 9, Current: False
+2026-02-21 01:24:48.118 +03:00 [Information] User confirmed map status change for MapId: 9
+2026-02-21 01:24:48.123 +03:00 [Warning] Map configuration not found for MapId: 9
+2026-02-21 01:26:54.547 +03:00 [Information] Log-in successfull for username "admin2"
+2026-02-21 01:27:07.395 +03:00 [Information] Toggle map status for MapId: 14, Current: False
+2026-02-21 01:27:08.511 +03:00 [Information] User confirmed map status change for MapId: 14
+2026-02-21 01:27:08.523 +03:00 [Information] Map config retrieved for MapId: 14, Current MapIsOpen: True
+2026-02-21 01:27:08.523 +03:00 [Information] Sending update command for MapId: 14, NewStatus: True
+2026-02-21 01:27:08.670 +03:00 [Information] Map 14 status changed to OPEN
+2026-02-21 01:27:08.695 +03:00 [Information] Table reloaded after map status change
+2026-02-21 01:34:43.365 +03:00 [Information] Log-in successfull for username "admin2"
+2026-02-21 01:34:53.229 +03:00 [Information] Toggle map status for MapId: 14, Current: False
+2026-02-21 01:34:54.293 +03:00 [Information] User confirmed map status change for MapId: 14
+2026-02-21 01:34:54.307 +03:00 [Information] Map config retrieved for MapId: 14, Current MapIsOpen: True
+2026-02-21 01:34:54.307 +03:00 [Information] Sending update command for MapId: 14, NewStatus: True
+2026-02-21 01:34:54.455 +03:00 [Information] Map 14 status changed to OPEN
+2026-02-21 01:34:54.480 +03:00 [Information] Table reloaded after map status change
+2026-02-21 01:35:06.574 +03:00 [Information] Toggle map status for MapId: 14, Current: False
+2026-02-21 01:35:07.675 +03:00 [Information] User confirmed map status change for MapId: 14
+2026-02-21 01:35:07.679 +03:00 [Information] Map config retrieved for MapId: 14, Current MapIsOpen: True
+2026-02-21 01:35:07.679 +03:00 [Information] Sending update command for MapId: 14, NewStatus: True
+2026-02-21 01:35:07.688 +03:00 [Information] Map 14 status changed to OPEN
+2026-02-21 01:35:07.700 +03:00 [Information] Table reloaded after map status change
+2026-02-21 01:42:43.648 +03:00 [Information] Log-in successfull for username "admin2"
+2026-02-21 01:42:55.445 +03:00 [Information] Toggle map status for MapId: 14, Current: False
+2026-02-21 01:42:56.520 +03:00 [Information] User confirmed map status change for MapId: 14
+2026-02-21 01:42:56.552 +03:00 [Information] Map config retrieved for MapId: 14, Current MapIsOpen: False
+2026-02-21 01:42:56.552 +03:00 [Information] Sending update command for MapId: 14, NewStatus: True
+2026-02-21 01:42:56.697 +03:00 [Information] Map 14 status changed to OPEN
+2026-02-21 01:42:56.734 +03:00 [Information] Table reloaded after map status change
+2026-02-21 01:43:08.774 +03:00 [Information] Toggle map status for MapId: 14, Current: True
+2026-02-21 01:43:09.806 +03:00 [Information] User confirmed map status change for MapId: 14
+2026-02-21 01:43:09.812 +03:00 [Information] Map config retrieved for MapId: 14, Current MapIsOpen: True
+2026-02-21 01:43:09.812 +03:00 [Information] Sending update command for MapId: 14, NewStatus: False
+2026-02-21 01:43:09.822 +03:00 [Information] Map 14 status changed to CLOSED
+2026-02-21 01:43:09.836 +03:00 [Information] Table reloaded after map status change
+2026-02-21 01:43:22.508 +03:00 [Information] Toggle map status for MapId: 12, Current: True
+2026-02-21 01:43:24.210 +03:00 [Information] User confirmed map status change for MapId: 12
+2026-02-21 01:43:24.215 +03:00 [Information] Map config retrieved for MapId: 12, Current MapIsOpen: True
+2026-02-21 01:43:24.215 +03:00 [Information] Sending update command for MapId: 12, NewStatus: False
+2026-02-21 01:43:24.219 +03:00 [Information] Map 12 status changed to CLOSED
+2026-02-21 01:43:24.234 +03:00 [Information] Table reloaded after map status change
+2026-02-21 13:22:39.909 +00:00 [Information] Log-in successfull for username "admin2"
+2026-02-21 13:22:52.947 +00:00 [Information] Deleting account 7
+2026-02-21 13:22:53.515 +00:00 [Information] Account 7 deleted.
+2026-02-21 13:23:48.573 +00:00 [Information] Creating new account with username "emre098t"
+2026-02-21 13:23:49.616 +00:00 [Information] Account created with username "emre098t"

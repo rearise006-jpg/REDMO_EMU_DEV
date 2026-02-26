@@ -1,0 +1,139 @@
+2026-02-21 00:29:07.576 +03:00 [Error] No processor for packet 3136 to player hggv.
+2026-02-21 00:38:11.725 +03:00 [Error] No processor for packet 1076 to player Pain.
+2026-02-21 00:04:01.528 +00:00 [Error] [InitialInformationPacketProcessor] :: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2026-02-21 00:04:01.556 +00:00 [Error] Inner Stacktrace: Microsoft.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+ ---> System.ComponentModel.Win32Exception (258): Bekleme işlem zamanı aşıldı.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__208_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.Repositories.Account.AccountQueriesRepository.GetAccountByIdAsync(Int64 id) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\Repositories\Account\AccountQueriesRepository.cs:line 33
+   at DigitalWorldOnline.Application.Separar.Queries.AccountByIdQueryHandler.Handle(AccountByIdQuery request, CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Application\DigitalWorldOnline.Application\Separar\Queries\AccountByIdQueryHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.ScopedSender`1.Send[TResponse](IRequest`1 request, CancellationToken ct) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\ScopedSender.cs:line 13
+   at DigitalWorldOnline.Game.PacketProcessors.InitialInformationPacketProcessor.Process(GameClient client, Byte[] packetData) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\PacketProcessors\InitialInformationPacketProcessor.cs:line 76
+ClientConnectionId:c9e032a1-fd95-4aa0-b0f3-b113ccd03f94
+Error Number:-2,State:0,Class:11
+2026-02-21 00:04:01.562 +00:00 [Error] Stacktrace:    at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__208_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.Repositories.Account.AccountQueriesRepository.GetAccountByIdAsync(Int64 id) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\Repositories\Account\AccountQueriesRepository.cs:line 33
+   at DigitalWorldOnline.Application.Separar.Queries.AccountByIdQueryHandler.Handle(AccountByIdQuery request, CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Application\DigitalWorldOnline.Application\Separar\Queries\AccountByIdQueryHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.ScopedSender`1.Send[TResponse](IRequest`1 request, CancellationToken ct) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\ScopedSender.cs:line 13
+   at DigitalWorldOnline.Game.PacketProcessors.InitialInformationPacketProcessor.Process(GameClient client, Byte[] packetData) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\PacketProcessors\InitialInformationPacketProcessor.cs:line 76
+2026-02-21 00:05:33.448 +00:00 [Error] No processor for packet 3136 to player hggv.
+2026-02-21 00:23:40.377 +00:00 [Error] No processor for packet 3136 to player hggv.
+2026-02-21 13:17:56.981 +00:00 [Error] [InitialInformationPacketProcessor] :: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2026-02-21 13:17:57.011 +00:00 [Error] Inner Stacktrace: Microsoft.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+ ---> System.ComponentModel.Win32Exception (258): Bekleme işlem zamanı aşıldı.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__208_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.Repositories.Account.AccountQueriesRepository.GetAccountByIdAsync(Int64 id) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\Repositories\Account\AccountQueriesRepository.cs:line 33
+   at DigitalWorldOnline.Application.Separar.Queries.AccountByIdQueryHandler.Handle(AccountByIdQuery request, CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Application\DigitalWorldOnline.Application\Separar\Queries\AccountByIdQueryHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.ScopedSender`1.Send[TResponse](IRequest`1 request, CancellationToken ct) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\ScopedSender.cs:line 13
+   at DigitalWorldOnline.Game.PacketProcessors.InitialInformationPacketProcessor.Process(GameClient client, Byte[] packetData) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\PacketProcessors\InitialInformationPacketProcessor.cs:line 76
+ClientConnectionId:44b4f0cf-606a-4a90-8157-0ea8c6d66ea5
+Error Number:-2,State:0,Class:11
+2026-02-21 13:17:57.021 +00:00 [Error] Stacktrace:    at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__208_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.Repositories.Account.AccountQueriesRepository.GetAccountByIdAsync(Int64 id) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\Repositories\Account\AccountQueriesRepository.cs:line 33
+   at DigitalWorldOnline.Application.Separar.Queries.AccountByIdQueryHandler.Handle(AccountByIdQuery request, CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Application\DigitalWorldOnline.Application\Separar\Queries\AccountByIdQueryHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.ScopedSender`1.Send[TResponse](IRequest`1 request, CancellationToken ct) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\ScopedSender.cs:line 13
+   at DigitalWorldOnline.Game.PacketProcessors.InitialInformationPacketProcessor.Process(GameClient client, Byte[] packetData) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\PacketProcessors\InitialInformationPacketProcessor.cs:line 76
+2026-02-21 13:19:18.824 +00:00 [Error] No processor for packet 3136 to player hggv.
+2026-02-21 13:26:02.255 +00:00 [Error] No processor for packet 3136 to player Emos.
+2026-02-21 13:26:02.258 +00:00 [Error] No processor for packet 1076 to player Emos.
+2026-02-21 14:17:14.288 +00:00 [Error] No processor for packet 3136 to player Emos.
+2026-02-21 19:55:01.977 +00:00 [Error] No processor for packet 3136 to player Emos.
+2026-02-21 19:55:01.981 +00:00 [Error] No processor for packet 1076 to player Emos.
+2026-02-21 20:05:51.535 +00:00 [Error] No processor for packet 3136 to player rearise.
+2026-02-21 20:05:51.537 +00:00 [Error] No processor for packet 1076 to player rearise.
+2026-02-21 20:28:04.232 +00:00 [Error] No processor for packet 3136 to player rearise.
+2026-02-21 20:28:04.234 +00:00 [Error] No processor for packet 1076 to player rearise.
+2026-02-21 20:33:44.113 +00:00 [Error] No processor for packet 3136 to player rearise.
+2026-02-21 20:33:44.115 +00:00 [Error] No processor for packet 1076 to player rearise.
+2026-02-21 20:51:51.934 +00:00 [Error] No processor for packet 3136 to player rearise.
+2026-02-21 20:58:01.064 +00:00 [Error] No processor for packet 3136 to player rearise.
+2026-02-21 21:02:28.692 +00:00 [Error] No processor for packet 3136 to player rearise.
+2026-02-21 21:23:59.994 +00:00 [Error] No processor for packet 3136 to player rearise.
+2026-02-21 21:46:49.036 +00:00 [Error] No processor for packet 3136 to player rearise.
+2026-02-21 21:46:49.038 +00:00 [Error] No processor for packet 1076 to player rearise.
+2026-02-21 21:48:54.629 +00:00 [Error] No processor for packet 3136 to player rearise.
+2026-02-21 21:48:54.630 +00:00 [Error] No processor for packet 1076 to player rearise.
+2026-02-21 21:54:42.292 +00:00 [Error] No processor for packet 3136 to player rearise.
+2026-02-21 22:00:53.813 +00:00 [Error] No processor for packet 3136 to player rearise.
+2026-02-21 22:11:52.764 +00:00 [Error] No processor for packet 3136 to player rearise.
+2026-02-21 22:15:07.408 +00:00 [Error] No processor for packet 1076 to player rearise.
+2026-02-21 22:18:01.976 +00:00 [Error] No processor for packet 3136 to player rearise.
+2026-02-21 22:30:13.177 +00:00 [Error] No processor for packet 1076 to player rearise.
+2026-02-21 22:36:29.357 +00:00 [Error] No processor for packet 1076 to player rearise.
+2026-02-21 22:49:49.700 +00:00 [Error] No processor for packet 3136 to player Pain.
+2026-02-21 22:56:46.870 +00:00 [Error] No processor for packet 3136 to player Emos.

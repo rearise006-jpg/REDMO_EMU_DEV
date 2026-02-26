@@ -1,0 +1,56 @@
+2026-02-12 19:28:12.175 +00:00 [Warning] Waiting map 3 CH 1 initialization.
+2026-02-12 19:28:15.364 +00:00 [Warning] Waiting map 3 CH 1 initialization.
+2026-02-12 19:28:36.054 +00:00 [Warning] [ValidateMapIsOpen] Player 323 (rearise) tried to enter closed map: 2 (D-terminal)
+2026-02-12 19:28:36.057 +00:00 [Warning] [AddClient] Map validation failed for player 323
+2026-02-12 20:01:26.126 +00:00 [Warning] Waiting map 202 CH 1 initialization.
+2026-02-12 20:02:24.187 +00:00 [Warning] [ValidateMapIsOpen] Player 323 (rearise) tried to enter closed map: 2 (D-terminal)
+2026-02-12 20:02:24.189 +00:00 [Warning] [AddClient] Map validation failed for player 323 - MapId: 202
+2026-02-12 20:02:24.190 +00:00 [Warning] [AddClient] Player will be redirected to default map
+2026-02-12 20:08:52.877 +00:00 [Warning] Waiting map 3 CH 0 initialization.
+2026-02-12 20:09:17.379 +00:00 [Warning] [ValidateMapIsOpen] Player 323 (rearise) tried to enter closed map: 2 (D-terminal)
+2026-02-12 20:09:17.382 +00:00 [Warning] [AddClient] Map validation failed for player 323 - MapId: 3
+2026-02-12 20:09:17.382 +00:00 [Warning] [AddClient] Player will be redirected to default map
+2026-02-12 20:19:26.093 +00:00 [Warning] Waiting map 3 CH 0 initialization.
+2026-02-12 20:19:49.347 +00:00 [Warning] [ValidateMapIsOpen] Player 323 (rearise) tried to enter closed map: 2 (D-terminal)
+2026-02-12 20:19:49.350 +00:00 [Warning] [AddClient] Map validation failed for player 323 - MapId: 105
+2026-02-12 20:19:49.351 +00:00 [Warning] [AddClient] Player will be redirected to default map
+2026-02-12 20:28:16.873 +00:00 [Warning] Assets still loading after 30s...
+2026-02-12 20:28:18.942 +00:00 [Warning] Assets still loading after 32s...
+2026-02-12 20:28:20.944 +00:00 [Warning] Assets still loading after 34s...
+2026-02-12 20:28:49.730 +00:00 [Warning] Waiting map 105 CH 2 initialization.
+2026-02-12 20:30:31.655 +00:00 [Warning] Waiting map 105 CH 2 initialization.
+2026-02-12 20:30:34.800 +00:00 [Warning] Waiting map 105 CH 2 initialization.
+2026-02-12 20:31:19.594 +00:00 [Warning] [ValidateMapIsOpen] Player 323 (rearise) tried to enter closed map: 2 (D-terminal)
+2026-02-12 20:31:19.596 +00:00 [Warning] [AddClient] Map validation failed for player 323 - MapId: 3
+2026-02-12 20:31:19.597 +00:00 [Warning] [AddClient] Player will be redirected to default map
+2026-02-12 20:43:12.411 +00:00 [Warning] Waiting map 3 CH 2 initialization.
+2026-02-12 20:43:29.312 +00:00 [Warning] [ValidateMapIsOpen] Player 323 (rearise) tried to enter closed map: 2 (D-terminal)
+2026-02-12 20:43:29.318 +00:00 [Warning] [AddClient] Map validation failed for player 323 - MapId: 3
+2026-02-12 20:43:29.319 +00:00 [Warning] [AddClient] Player will be redirected to default map
+2026-02-12 20:44:44.743 +00:00 [Warning] [ValidateMapIsOpen] Player 323 (rearise) tried to enter closed map: 2 (D-terminal)
+2026-02-12 20:44:44.750 +00:00 [Warning] [AddClient] Map validation failed for player 323 - MapId: 3
+2026-02-12 20:44:44.751 +00:00 [Warning] [AddClient] Player will be redirected to default map
+2026-02-12 20:52:50.203 +00:00 [Warning] Waiting map 3 CH 0 initialization.
+2026-02-12 20:52:53.410 +00:00 [Warning] Waiting map 3 CH 0 initialization.
+2026-02-12 20:53:08.880 +00:00 [Warning] [AddClient] Map validation failed - MapId: 2 is closed
+2026-02-12 20:53:08.881 +00:00 [Warning] [AddClient] Redirecting player rearise to Dats Center and triggering reload
+2026-02-12 21:04:02.627 +00:00 [Warning] Waiting map 3 CH 2 initialization.
+2026-02-12 21:04:23.909 +00:00 [Warning] [InitialInformationPacket] Map 2 is closed for player 323
+2026-02-12 21:08:46.397 +00:00 [Warning] Waiting map 3 CH 1 initialization.
+2026-02-12 21:09:03.549 +00:00 [Warning] [InitialInformationPacket] Map 2 is closed for player 323
+2026-02-12 21:23:27.906 +00:00 [Warning] Waiting map 3 CH 0 initialization.
+2026-02-12 21:23:31.016 +00:00 [Warning] Waiting map 3 CH 0 initialization.
+2026-02-12 21:23:46.502 +00:00 [Warning] [InitialInformationPacket] Map 2 is CLOSED for player 323
+2026-02-12 21:35:26.526 +00:00 [Warning] [InitialInformationPacket] Map 2 is CLOSED for player 323
+2026-02-12 21:44:53.991 +00:00 [Warning] [InitialInformationPacket] Map 2 is CLOSED for player 323
+2026-02-12 22:03:42.185 +00:00 [Warning] [InitialInformationPacket] Map 2 is CLOSED for player 323 - Redirecting to Dats Center
+2026-02-12 22:10:50.063 +00:00 [Warning] [InitialInformationPacket] Map 2 is CLOSED for player 323
+2026-02-12 22:25:34.204 +00:00 [Warning] Waiting map 3 CH 2 initialization.
+2026-02-12 22:25:52.034 +00:00 [Warning] [InitialInformationPacket] Map 2 is CLOSED for player 323
+2026-02-12 22:45:31.173 +00:00 [Warning] Waiting map 3 CH 1 initialization.
+2026-02-12 22:45:34.394 +00:00 [Warning] Waiting map 3 CH 1 initialization.
+2026-02-12 22:45:50.266 +00:00 [Warning] [InitialInformationPacket] Map 2 is CLOSED - Redirecting to Dats Center
+2026-02-12 22:45:52.786 +00:00 [Warning] Waiting map 3 CH 0 initialization.
+2026-02-12 22:59:39.128 +00:00 [Warning] Waiting map 3 CH 0 initialization.
+2026-02-12 23:15:26.223 +00:00 [Warning] [InitialInformationPacket] Map 2 is CLOSED for player 323
+2026-02-12 23:20:06.193 +00:00 [Warning] [InitialInformationPacket] Map 2 is CLOSED for player 323

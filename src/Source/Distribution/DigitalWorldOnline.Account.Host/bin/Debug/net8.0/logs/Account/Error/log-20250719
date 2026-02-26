@@ -1,0 +1,5 @@
+2025-07-19 20:51:56.965 -04:00 [Error] Não é possível encontrar o objeto "Character.DigimonGrowthSystem" porque ele não existe ou você não tem permissões.
+2025-07-19 20:54:30.069 -04:00 [Error] Não é possível encontrar o objeto "Character.DigimonGrowthSystem" porque ele não existe ou você não tem permissões.
+2025-07-19 20:54:59.443 -04:00 [Error] A chave estrangeira 'FK_DigimonGrowthSystem_DigimonArchive_DigimonArchiveId' faz referência à tabela inválida 'DigimonArchive'.
+Não foi possível criar a restrição ou o índice. Consulte os erros anteriores.
+2025-07-19 20:56:05.248 -04:00 [Error] Não é possível encontrar o objeto "Character.DigimonGrowthSystem" porque ele não existe ou você não tem permissões.

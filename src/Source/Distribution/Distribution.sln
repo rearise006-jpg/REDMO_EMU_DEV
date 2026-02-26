@@ -1,0 +1,60 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalWorldOnline.Api", "DigitalWorldOnline.Account.Api\DigitalWorldOnline.Api.csproj", "{C1FA9F8E-7AC3-2D91-D58F-1213BE881154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalWorldOnline.Account", "DigitalWorldOnline.Account.Host\DigitalWorldOnline.Account.csproj", "{1580AA68-C5E4-6EA2-72C9-D0C515D5672A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalWorldOnline.Admin", "DigitalWorldOnline.Admin\DigitalWorldOnline.Admin.csproj", "{95260ED3-0349-43A9-A908-BFCCEC953073}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalWorldOnline.Character", "DigitalWorldOnline.Character.Host\DigitalWorldOnline.Character.csproj", "{CEE8A446-0C29-4D04-B314-0482DC86CFD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalWorldOnline.Game", "DigitalWorldOnline.Game.Host\DigitalWorldOnline.Game.csproj", "{F7D24B30-A2CD-0680-1904-E045D9E5767F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalWorldOnline.Gateway", "DigitalWorldOnline.Gateway\DigitalWorldOnline.Gateway.csproj", "{1620E763-F312-7A8E-FF18-255D08E3D682}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalWorldOnline.Routine", "DigitalWorldOnline.Routine.Host\DigitalWorldOnline.Routine.csproj", "{BA7E85E0-3B3A-C6D2-6A9E-BDAAC6824A4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1FA9F8E-7AC3-2D91-D58F-1213BE881154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1FA9F8E-7AC3-2D91-D58F-1213BE881154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1FA9F8E-7AC3-2D91-D58F-1213BE881154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1FA9F8E-7AC3-2D91-D58F-1213BE881154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1580AA68-C5E4-6EA2-72C9-D0C515D5672A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1580AA68-C5E4-6EA2-72C9-D0C515D5672A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1580AA68-C5E4-6EA2-72C9-D0C515D5672A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1580AA68-C5E4-6EA2-72C9-D0C515D5672A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95260ED3-0349-43A9-A908-BFCCEC953073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95260ED3-0349-43A9-A908-BFCCEC953073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95260ED3-0349-43A9-A908-BFCCEC953073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95260ED3-0349-43A9-A908-BFCCEC953073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE8A446-0C29-4D04-B314-0482DC86CFD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE8A446-0C29-4D04-B314-0482DC86CFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE8A446-0C29-4D04-B314-0482DC86CFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE8A446-0C29-4D04-B314-0482DC86CFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7D24B30-A2CD-0680-1904-E045D9E5767F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D24B30-A2CD-0680-1904-E045D9E5767F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D24B30-A2CD-0680-1904-E045D9E5767F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D24B30-A2CD-0680-1904-E045D9E5767F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1620E763-F312-7A8E-FF18-255D08E3D682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1620E763-F312-7A8E-FF18-255D08E3D682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1620E763-F312-7A8E-FF18-255D08E3D682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1620E763-F312-7A8E-FF18-255D08E3D682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA7E85E0-3B3A-C6D2-6A9E-BDAAC6824A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7E85E0-3B3A-C6D2-6A9E-BDAAC6824A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA7E85E0-3B3A-C6D2-6A9E-BDAAC6824A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7E85E0-3B3A-C6D2-6A9E-BDAAC6824A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82B19AFB-1D13-4FB8-A2C1-3AC06065A453}
+	EndGlobalSection
+EndGlobal

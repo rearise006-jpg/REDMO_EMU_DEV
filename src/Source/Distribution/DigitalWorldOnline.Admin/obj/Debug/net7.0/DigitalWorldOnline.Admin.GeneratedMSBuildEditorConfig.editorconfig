@@ -1,0 +1,417 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DigitalWorldOnline.Admin
+build_property.RootNamespace = DigitalWorldOnline.Admin
+build_property.ProjectDir = D:\GAME_SERVERS\DMO_SELL\Server\DMO_VPN_53_Live\src\Source\Distribution\DigitalWorldOnline.Admin\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\GAME_SERVERS\DMO_SELL\Server\DMO_VPN_53_Live\src\Source\Distribution\DigitalWorldOnline.Admin
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 7.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Events/Maps/Mobs/MobCreation.razor]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXE1hcHNcTW9ic1xNb2JDcmVhdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Events/Maps/Mobs/MobDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXE1hcHNcTW9ic1xNb2JEZWxldGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Events/Maps/Mobs/MobDuplicate.razor]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXE1hcHNcTW9ic1xNb2JEdXBsaWNhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Events/Maps/Mobs/Mobs.razor]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXE1hcHNcTW9ic1xNb2JzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Events/Maps/Mobs/MobUpdate.razor]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXE1hcHNcTW9ic1xNb2JVcGRhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Events/Maps/Raids/RaidCreation.razor]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXE1hcHNcUmFpZHNcUmFpZENyZWF0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Events/Maps/Raids/RaidDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXE1hcHNcUmFpZHNcUmFpZERlbGV0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Events/Maps/Raids/RaidDuplicate.razor]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXE1hcHNcUmFpZHNcUmFpZER1cGxpY2F0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Events/Maps/Raids/Raids.razor]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXE1hcHNcUmFpZHNcUmFpZHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Events/Maps/Raids/RaidUpdate.razor]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXE1hcHNcUmFpZHNcUmFpZFVwZGF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/AccountBlock/AccountBlock.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudEJsb2NrXEFjY291bnRCbG9jay5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/AccountBlock/AccountBlockDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudEJsb2NrXEFjY291bnRCbG9ja0RlbGV0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/AccountBlock/AccountBlockUpdate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudEJsb2NrXEFjY291bnRCbG9ja1VwZGF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Accounts/AccountCreation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcQWNjb3VudENyZWF0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Accounts/AccountDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcQWNjb3VudERlbGV0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Accounts/Accounts.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcQWNjb3VudHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Accounts/AccountUpdate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcQWNjb3VudFVwZGF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Clones/CloneCreation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xvbmVzXENsb25lQ3JlYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Clones/CloneDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xvbmVzXENsb25lRGVsZXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Clones/Clones.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xvbmVzXENsb25lcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Clones/CloneUpdate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xvbmVzXENsb25lVXBkYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Containers/ContainerCreation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFpbmVyc1xDb250YWluZXJDcmVhdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Containers/ContainerDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFpbmVyc1xDb250YWluZXJEZWxldGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Containers/Containers.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFpbmVyc1xDb250YWluZXJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Containers/ContainerUpdate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFpbmVyc1xDb250YWluZXJVcGRhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Downloads/Downloads.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG93bmxvYWRzXERvd25sb2Fkcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Events/EventCreation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXEV2ZW50Q3JlYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Events/EventDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXEV2ZW50RGVsZXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Events/Events.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXEV2ZW50cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Events/EventUpdate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXEV2ZW50VXBkYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Events/Maps/EventMapCreation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXE1hcHNcRXZlbnRNYXBDcmVhdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Events/Maps/EventMapDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXE1hcHNcRXZlbnRNYXBEZWxldGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Events/Maps/EventMapReset.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXE1hcHNcRXZlbnRNYXBSZXNldC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Events/Maps/EventMaps.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXE1hcHNcRXZlbnRNYXBzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Events/Maps/EventMapUpdate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXE1hcHNcRXZlbnRNYXBVcGRhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/GlobalDrops/GlobalDrops.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2xvYmFsRHJvcHNcR2xvYmFsRHJvcHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/GlobalDrops/GlobalDropsCreation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2xvYmFsRHJvcHNcR2xvYmFsRHJvcHNDcmVhdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/GlobalDrops/GlobalDropsDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2xvYmFsRHJvcHNcR2xvYmFsRHJvcHNEZWxldGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/GlobalDrops/GlobalDropsUpdate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2xvYmFsRHJvcHNcR2xvYmFsRHJvcHNVcGRhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Hatchs/HatchCreation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGF0Y2hzXEhhdGNoQ3JlYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Hatchs/HatchDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGF0Y2hzXEhhdGNoRGVsZXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Hatchs/Hatchs.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGF0Y2hzXEhhdGNocy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Hatchs/HatchUpdate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGF0Y2hzXEhhdGNoVXBkYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Logins/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5zXExvZ2luLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Maps/MapReset.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFwc1xNYXBSZXNldC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Maps/Maps.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFwc1xNYXBzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Mobs/MobCreation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9ic1xNb2JDcmVhdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Mobs/MobDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9ic1xNb2JEZWxldGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Mobs/MobDuplicate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9ic1xNb2JEdXBsaWNhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Mobs/Mobs.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9ic1xNb2JzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Mobs/MobUpdate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9ic1xNb2JVcGRhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Players/Players.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxheWVyc1xQbGF5ZXJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Raids/RaidCreation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFpZHNcUmFpZENyZWF0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Raids/RaidDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFpZHNcUmFpZERlbGV0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Raids/RaidDuplicate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFpZHNcUmFpZER1cGxpY2F0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Raids/Raids.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFpZHNcUmFpZHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Raids/RaidUpdate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFpZHNcUmFpZFVwZGF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Scans/ScanCreation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2NhbnNcU2NhbkNyZWF0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Scans/ScanDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2NhbnNcU2NhbkRlbGV0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Scans/Scans.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2NhbnNcU2NhbnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Scans/ScanUpdate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2NhbnNcU2NhblVwZGF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Servers/ServerCreation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmVyc1xTZXJ2ZXJDcmVhdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Servers/ServerDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmVyc1xTZXJ2ZXJEZWxldGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Servers/Servers.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmVyc1xTZXJ2ZXJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Servers/ServerUpdate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmVyc1xTZXJ2ZXJVcGRhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/SpawnPoints/SpawnPointCreation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3Bhd25Qb2ludHNcU3Bhd25Qb2ludENyZWF0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/SpawnPoints/SpawnPointDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3Bhd25Qb2ludHNcU3Bhd25Qb2ludERlbGV0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/SpawnPoints/SpawnPoints.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3Bhd25Qb2ludHNcU3Bhd25Qb2ludHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/SpawnPoints/SpawnPointUpdate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3Bhd25Qb2ludHNcU3Bhd25Qb2ludFVwZGF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/SummonMobs/SummonMobCreation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VtbW9uTW9ic1xTdW1tb25Nb2JDcmVhdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/SummonMobs/SummonMobDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VtbW9uTW9ic1xTdW1tb25Nb2JEZWxldGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/SummonMobs/SummonMobDuplicate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VtbW9uTW9ic1xTdW1tb25Nb2JEdXBsaWNhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/SummonMobs/SummonMobs.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VtbW9uTW9ic1xTdW1tb25Nb2JzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/SummonMobs/SummonMobUpdate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VtbW9uTW9ic1xTdW1tb25Nb2JVcGRhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Summons/SummonCreation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VtbW9uc1xTdW1tb25DcmVhdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Summons/SummonDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VtbW9uc1xTdW1tb25EZWxldGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Summons/Summons.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VtbW9uc1xTdW1tb25zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Users/UserCreation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlckNyZWF0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Users/UserDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlckRlbGV0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Users/Users.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Users/UserUpdate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlclVwZGF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Shared/ConfirmDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbmZpcm1EaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Shared/Loader.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvYWRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Shared/LoginLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Shared/TrackRedirect.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRyYWNrUmVkaXJlY3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Logins/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5zXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/Logins/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5zXExvZ291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GAME_SERVERS/DMO_SELL/Server/DMO_VPN_53_Live/src/Source/Distribution/DigitalWorldOnline.Admin/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

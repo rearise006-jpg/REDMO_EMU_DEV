@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BookInfos>
+  <BookInfo>
+    <s_dwOptID>1</s_dwOptID>
+    <s_szOptName>Additional Damage to Attack</s_szOptName>
+    <s_nIcon>6021</s_nIcon>
+    <s_szOptExplain>Additional Damage to Normal Attack is Applied.</s_szOptExplain>
+  </BookInfo>
+  <BookInfo>
+    <s_dwOptID>2</s_dwOptID>
+    <s_szOptName>Additional Damage to Skill</s_szOptName>
+    <s_nIcon>6022</s_nIcon>
+    <s_szOptExplain>Additional Damage to Skill Attack is Applied.</s_szOptExplain>
+  </BookInfo>
+  <BookInfo>
+    <s_dwOptID>3</s_dwOptID>
+    <s_szOptName>Increase Critical Hit Damage</s_szOptName>
+    <s_nIcon>6023</s_nIcon>
+    <s_szOptExplain>Increase Critical Hit Damage.</s_szOptExplain>
+  </BookInfo>
+  <BookInfo>
+    <s_dwOptID>4</s_dwOptID>
+    <s_szOptName>Reset Skill Cooldown Time</s_szOptName>
+    <s_nIcon>6024</s_nIcon>
+    <s_szOptExplain>Reset Skill's Cooldown Time When Activated.</s_szOptExplain>
+  </BookInfo>
+  <BookInfo>
+    <s_dwOptID>5</s_dwOptID>
+    <s_szOptName>Increase Max HP</s_szOptName>
+    <s_nIcon>6025</s_nIcon>
+    <s_szOptExplain>Increase Digimon's Max HP.</s_szOptExplain>
+  </BookInfo>
+  <BookInfo>
+    <s_dwOptID>6</s_dwOptID>
+    <s_szOptName>Increase Attack Speed</s_szOptName>
+    <s_nIcon>6026</s_nIcon>
+    <s_szOptExplain>Increase Normal Attacking Speed.</s_szOptExplain>
+  </BookInfo>
+</BookInfos>

@@ -1,0 +1,22 @@
+2026-02-19 13:10:03.030 +00:00 [Information] Log-in successfull for username "admin2"
+2026-02-19 13:10:18.031 +00:00 [Information] Searching mobs by map id 2
+2026-02-19 13:10:19.563 +00:00 [Information] Searching map with id 2
+2026-02-19 13:10:21.358 +00:00 [Information] Searching mobs by map id 2
+2026-02-19 13:10:30.428 +00:00 [Information] Searching raids by map id 1
+2026-02-19 13:10:31.610 +00:00 [Information] Searching raids by map id 1
+2026-02-19 13:10:44.041 +00:00 [Information] Searching mobs by map id 2
+2026-02-19 13:10:47.269 +00:00 [Information] Searching mob by id 150697
+2026-02-19 13:10:56.503 +00:00 [Information] Searching mobs by map id 2
+2026-02-19 13:36:19.252 +00:00 [Information] Log-in successfull for username "admin2"
+2026-02-19 13:36:29.186 +00:00 [Information] Searching mobs by map id 2
+2026-02-19 13:36:38.343 +00:00 [Information] Deleting mob 150697
+2026-02-19 13:36:38.541 +00:00 [Information] Mob 150697 deleted.
+2026-02-19 13:36:38.552 +00:00 [Information] Searching mobs by map id 2
+2026-02-19 13:39:28.986 +00:00 [Information] Toggle map status for MapId: 2, Current: False
+2026-02-19 13:39:34.565 +00:00 [Information] User cancelled map status change for MapId: 2
+2026-02-19 13:39:38.613 +00:00 [Information] Toggle map status for MapId: 2, Current: False
+2026-02-19 13:39:39.637 +00:00 [Information] User confirmed map status change for MapId: 2
+2026-02-19 13:39:39.646 +00:00 [Information] Map config retrieved for MapId: 2, Current MapIsOpen: False
+2026-02-19 13:39:39.646 +00:00 [Information] Sending update command for MapId: 2, NewStatus: True
+2026-02-19 13:39:39.714 +00:00 [Information] Map 2 status changed to OPEN
+2026-02-19 13:39:39.733 +00:00 [Information] Table reloaded after map status change

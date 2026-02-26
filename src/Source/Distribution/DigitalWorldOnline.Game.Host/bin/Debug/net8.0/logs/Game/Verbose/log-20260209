@@ -1,0 +1,96 @@
+2026-02-09 21:04:41.350 +00:00 [Verbose] Processing ItemRemove for Tamer 325. Slot: 23, Amount: 2, Position: (20234, 41309).
+2026-02-09 21:04:42.833 +00:00 [Verbose] Processing ItemRemove for Tamer 325. Slot: 21, Amount: 3, Position: (20234, 41309).
+2026-02-09 21:04:44.182 +00:00 [Verbose] Processing ItemRemove for Tamer 325. Slot: 20, Amount: 1, Position: (20234, 41309).
+2026-02-09 21:08:12.605 +00:00 [Verbose] Processing ItemRemove for Tamer 325. Slot: 24, Amount: 2, Position: (21595, 34249).
+2026-02-09 21:08:14.438 +00:00 [Verbose] Processing ItemRemove for Tamer 325. Slot: 22, Amount: 1, Position: (21595, 34249).
+2026-02-09 21:14:14.835 +00:00 [Verbose] Character 323 opened box 6944 and obtained 91324 x5,91319 x5,91322 x5,91321 x5,91323 x5,91320 x5,6946 x5,6947 x5
+2026-02-09 21:16:10.082 +00:00 [Verbose] Processing ItemRemove for Tamer 325. Slot: 21, Amount: 2, Position: (20484, 32247).
+2026-02-09 21:16:11.481 +00:00 [Verbose] Processing ItemRemove for Tamer 325. Slot: 20, Amount: 1, Position: (19440, 30957).
+2026-02-09 21:16:14.564 +00:00 [Verbose] Processing ItemRemove for Tamer 325. Slot: 16, Amount: 2, Position: (18790, 30155).
+2026-02-09 21:23:29.663 +00:00 [Verbose] Tamer rearise evolved partner (4634:Miko) from 31006:Renamon to 61018
+2026-02-09 21:23:38.046 +00:00 [Verbose] Tamer rearise evolved partner (4634:Miko) from 61018:Sakuyamon to 71025
+2026-02-09 21:25:10.430 +00:00 [Verbose] Tamer rearise evolved partner (4634:Miko) from 71025:Kuzuhamon to 72001
+2026-02-09 21:26:02.418 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-09 21:26:02.418 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 439354118 | ExpTarget: 6706
+
+2026-02-09 21:26:02.418 +00:00 [Verbose] ---------------------------------
+2026-02-09 21:31:02.434 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-09 21:31:02.434 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 65540 | ExpTarget: 1710642
+
+2026-02-09 21:31:02.434 +00:00 [Verbose] ---------------------------------
+2026-02-09 21:36:02.425 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-09 21:36:02.426 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 19114 | ExpTarget: 20031701
+
+2026-02-09 21:36:02.426 +00:00 [Verbose] ---------------------------------
+2026-02-09 21:39:08.676 +00:00 [Verbose] Character 323 opened box 6944 and obtained 91321 x5,91319 x5,6947 x5,91322 x5,91320 x5,91323 x5,91324 x5,6946 x5
+2026-02-09 21:39:39.525 +00:00 [Verbose] Character 323 opened box 6944 and obtained 91319 x5,91322 x5,91320 x5,91321 x5,6947 x5,91323 x5,6946 x5,91324 x5
+2026-02-09 21:39:40.876 +00:00 [Verbose] Character 323 opened box 6944 and obtained 6947 x5,91324 x5,91322 x5,91323 x5,91319 x5,91321 x5,91320 x5,6946 x5
+2026-02-09 21:40:27.061 +00:00 [Verbose] Character 323 delivered quest 1469.
+2026-02-09 21:40:27.062 +00:00 [Verbose] Character 323 received quest 1469 item 75350 x2 reward.
+2026-02-09 21:40:55.658 +00:00 [Verbose] Tamer rearise evolved partner (4634:Miko) from 31006:Renamon to 61018
+2026-02-09 21:41:02.438 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-09 21:41:02.438 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 1718018 | ExpTarget: 15176
+
+2026-02-09 21:41:02.438 +00:00 [Verbose] ---------------------------------
+2026-02-09 21:41:04.891 +00:00 [Verbose] Tamer rearise evolved partner (4634:Miko) from 61018:Sakuyamon to 71025
+2026-02-09 21:41:20.041 +00:00 [Verbose] Tamer rearise evolved partner (4634:Miko) from 71025:Kuzuhamon to 72001
+2026-02-09 21:43:37.150 +00:00 [Verbose] Character 323 dropped 1006 bits at map 1601 X15237 Y38259.
+2026-02-09 21:44:12.582 +00:00 [Verbose] Character 323 dropped 1006 bits at map 1601 X15940 Y56827.
+2026-02-09 21:46:02.439 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-09 21:46:02.439 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 65539 | ExpTarget: 1712986674
+
+2026-02-09 21:46:02.439 +00:00 [Verbose] ---------------------------------
+2026-02-09 21:48:26.860 +00:00 [Verbose] Character 323 dropped 1006 bits at map 1601 X15723 Y78813.
+2026-02-09 21:51:02.438 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-09 21:51:02.439 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 82001 | ExpTarget: 6706
+
+2026-02-09 21:51:02.439 +00:00 [Verbose] ---------------------------------
+2026-02-09 21:56:02.441 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-09 21:56:02.442 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 4547 | ExpTarget: 20031701
+
+2026-02-09 21:56:02.442 +00:00 [Verbose] ---------------------------------
+2026-02-09 21:56:25.666 +00:00 [Verbose] Character 323 dropped 12 bits at map 1611 X16050 Y20491.
+2026-02-09 21:56:41.766 +00:00 [Verbose] Character 323 dropped 114 bits at map 1611 X15554 Y37443.
+2026-02-09 21:57:04.066 +00:00 [Verbose] Character 323 dropped 43 bits at map 1611 X16259 Y57242.
+2026-02-09 22:01:02.427 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-09 22:01:02.427 +00:00 [Verbose] ExpRate: 137786 | NextDayExpRate: 32769 | ExpTarget: 14596
+
+2026-02-09 22:01:02.427 +00:00 [Verbose] ---------------------------------
+2026-02-09 22:02:34.415 +00:00 [Verbose] Tamer rearise devolved partner (4634:Miko) from 72001 to 31006.
+2026-02-09 22:42:27.780 +00:00 [Verbose] Character 323 dropped 147 bits at map 1611 X15789 Y20097.
+2026-02-09 22:42:47.497 +00:00 [Verbose] Character 323 dropped 106 bits at map 1611 X15793 Y37894.
+2026-02-09 22:43:09.607 +00:00 [Verbose] Character 323 dropped 69 bits at map 1611 X15816 Y56872.
+2026-02-09 22:45:12.630 +00:00 [Verbose] Character 323 dropped 72 bits at map 1611 X15586 Y79502.
+2026-02-09 22:46:03.224 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-09 22:46:03.224 +00:00 [Verbose] ExpRate: 1710650 | NextDayExpRate: 32769 | ExpTarget: 12410
+
+2026-02-09 22:46:03.224 +00:00 [Verbose] ---------------------------------
+2026-02-09 22:51:03.228 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-09 22:51:03.228 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 16385 | ExpTarget: 20394
+
+2026-02-09 22:51:03.228 +00:00 [Verbose] ---------------------------------
+2026-02-09 23:45:00.647 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-09 23:45:00.649 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 32769 | ExpTarget: 25345
+
+2026-02-09 23:45:00.649 +00:00 [Verbose] ---------------------------------
+2026-02-09 23:50:00.628 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-09 23:50:00.628 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 32769 | ExpTarget: 25345
+
+2026-02-09 23:50:00.628 +00:00 [Verbose] ---------------------------------
+2026-02-09 23:55:00.629 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-09 23:55:00.629 +00:00 [Verbose] ExpRate: 662074 | NextDayExpRate: 16385 | ExpTarget: 23847
+
+2026-02-09 23:55:00.629 +00:00 [Verbose] ---------------------------------

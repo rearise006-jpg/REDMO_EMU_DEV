@@ -1,0 +1,2 @@
+2025-07-23 19:01:41.174 -04:00 [Error] A chave estrangeira 'FK_ActiveDeck_Character_CharacterId' faz referência à tabela inválida 'Character.Character'.
+Não foi possível criar a restrição ou o índice. Consulte os erros anteriores.

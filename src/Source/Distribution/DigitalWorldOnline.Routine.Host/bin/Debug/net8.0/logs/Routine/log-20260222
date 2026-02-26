@@ -1,0 +1,79 @@
+2026-02-22 18:06:15.125 +00:00 [Information] Services Loaded !!
+2026-02-22 18:06:15.589 +00:00 [Information] Loading database assets !!
+2026-02-22 18:06:16.776 +00:00 [Information] Loaded 18388 items from XML
+2026-02-22 18:06:20.237 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-22 18:06:22.270 +00:00 [Information] Loading additional information !!
+2026-02-22 18:06:24.494 +00:00 [Information] Loading XML assets !!
+2026-02-22 18:06:24.521 +00:00 [Information] MapObject XML loaded !!
+2026-02-22 18:06:24.538 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-22 20:55:43.707 +00:00 [Information] Services Loaded !!
+2026-02-22 20:55:44.152 +00:00 [Information] Loading database assets !!
+2026-02-22 20:55:45.158 +00:00 [Information] Loaded 18388 items from XML
+2026-02-22 20:55:48.361 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-22 20:55:50.018 +00:00 [Information] Loading additional information !!
+2026-02-22 20:55:51.885 +00:00 [Information] Loading XML assets !!
+2026-02-22 20:55:51.913 +00:00 [Information] MapObject XML loaded !!
+2026-02-22 20:55:51.929 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-22 20:55:52.236 +00:00 [Information] Executing routine [Daily Quests] ...
+2026-02-22 20:55:52.361 +00:00 [Information] Routine executed !! Updating Daily Quests execution time on database ...
+2026-02-22 20:56:02.416 +00:00 [Information] Executing routine [Daily Reward Reset] ...
+2026-02-22 20:56:02.488 +00:00 [Information] Routine executed !! Updating Daily Reward Reset execution time on database ...
+2026-02-22 20:56:12.523 +00:00 [Information] Executing routine [Weekly Coliseum] ...
+2026-02-22 20:56:12.548 +00:00 [Information] Weekly Rank ended, creating new Weekly Rank !!
+2026-02-22 20:56:12.594 +00:00 [Information] Verifying Weekly Rank to send reward !!
+2026-02-22 20:56:12.597 +00:00 [Information] No competitors found in weekly ranking. No rewards to distribute.
+2026-02-22 20:56:12.598 +00:00 [Information] Routine executed !! Updating Weekly Coliseum execution time on database ...
+2026-02-22 20:56:22.622 +00:00 [Information] Executing routine [Monthly Coliseum] ...
+2026-02-22 20:56:22.626 +00:00 [Information] Month Rank not ended yet. Current: 2026-02-22 20:56:22, Ends: 2026-02-28 23:59:59
+2026-02-22 20:56:22.627 +00:00 [Information] Routine executed !! Updating Monthly Coliseum execution time on database ...
+2026-02-22 20:56:32.648 +00:00 [Information] Executing routine [Seasonal Coliseum] ...
+2026-02-22 20:56:32.652 +00:00 [Information] Seasonal Rank not ended yet. Current: 2026-02-22 20:56:32, Ends: 2026-03-31 23:59:59
+2026-02-22 20:56:32.653 +00:00 [Information] Routine executed !! Updating Seasonal Coliseum execution time on database ...
+2026-02-22 20:59:05.796 +00:00 [Information] Services Loaded !!
+2026-02-22 20:59:06.262 +00:00 [Information] Loading database assets !!
+2026-02-22 20:59:07.446 +00:00 [Information] Loaded 18388 items from XML
+2026-02-22 20:59:10.798 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-22 20:59:12.535 +00:00 [Information] Loading additional information !!
+2026-02-22 20:59:14.839 +00:00 [Information] Loading XML assets !!
+2026-02-22 20:59:14.868 +00:00 [Information] MapObject XML loaded !!
+2026-02-22 20:59:14.883 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-22 21:12:00.100 +00:00 [Information] Services Loaded !!
+2026-02-22 21:12:00.546 +00:00 [Information] Loading database assets !!
+2026-02-22 21:12:01.627 +00:00 [Information] Loaded 18388 items from XML
+2026-02-22 21:12:04.823 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-22 21:12:06.778 +00:00 [Information] Loading additional information !!
+2026-02-22 21:12:08.876 +00:00 [Information] Loading XML assets !!
+2026-02-22 21:12:08.906 +00:00 [Information] MapObject XML loaded !!
+2026-02-22 21:12:08.923 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-22 21:27:38.453 +00:00 [Information] Services Loaded !!
+2026-02-22 21:27:38.918 +00:00 [Information] Loading database assets !!
+2026-02-22 21:27:40.090 +00:00 [Information] Loaded 18388 items from XML
+2026-02-22 21:27:43.452 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-22 21:27:45.365 +00:00 [Information] Loading additional information !!
+2026-02-22 21:27:47.567 +00:00 [Information] Loading XML assets !!
+2026-02-22 21:27:47.594 +00:00 [Information] MapObject XML loaded !!
+2026-02-22 21:27:47.610 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-22 21:32:51.378 +00:00 [Information] Services Loaded !!
+2026-02-22 21:32:51.831 +00:00 [Information] Loading database assets !!
+2026-02-22 21:32:52.941 +00:00 [Information] Loaded 18388 items from XML
+2026-02-22 21:32:56.181 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-22 21:32:58.155 +00:00 [Information] Loading additional information !!
+2026-02-22 21:33:00.082 +00:00 [Information] Loading XML assets !!
+2026-02-22 21:33:00.111 +00:00 [Information] MapObject XML loaded !!
+2026-02-22 21:33:00.128 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-22 21:38:17.581 +00:00 [Information] Services Loaded !!
+2026-02-22 21:38:18.018 +00:00 [Information] Loading database assets !!
+2026-02-22 21:38:19.033 +00:00 [Information] Loaded 18388 items from XML
+2026-02-22 21:38:22.233 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-22 21:38:24.233 +00:00 [Information] Loading additional information !!
+2026-02-22 21:38:26.012 +00:00 [Information] Loading XML assets !!
+2026-02-22 21:38:26.041 +00:00 [Information] MapObject XML loaded !!
+2026-02-22 21:38:26.056 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-22 21:52:24.270 +00:00 [Information] Services Loaded !!
+2026-02-22 21:52:24.729 +00:00 [Information] Loading database assets !!
+2026-02-22 21:52:25.906 +00:00 [Information] Loaded 18388 items from XML
+2026-02-22 21:52:29.263 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-22 21:52:31.180 +00:00 [Information] Loading additional information !!
+2026-02-22 21:52:33.416 +00:00 [Information] Loading XML assets !!
+2026-02-22 21:52:33.444 +00:00 [Information] MapObject XML loaded !!
+2026-02-22 21:52:33.459 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!

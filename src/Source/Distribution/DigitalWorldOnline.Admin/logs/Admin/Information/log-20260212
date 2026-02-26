@@ -1,0 +1,48 @@
+2026-02-12 18:12:30.245 +00:00 [Information] Log-in successfull for username "admin2"
+2026-02-12 18:12:47.729 +00:00 [Information] Opening map edit page for map id: 3
+2026-02-12 18:12:57.519 +00:00 [Information] Searching raids by map id 2
+2026-02-12 18:13:02.587 +00:00 [Information] Toggle map status for MapId: 3, Current: True
+2026-02-12 18:13:20.496 +00:00 [Information] Searching mobs by map id 10
+2026-02-12 18:16:56.609 +00:00 [Information] Toggle map status for MapId: 1, Current: True
+2026-02-12 18:17:05.519 +00:00 [Information] Toggle map status for MapId: 1, Current: True
+2026-02-12 18:34:54.301 +00:00 [Information] Log-in successfull for username "admin2"
+2026-02-12 18:34:59.565 +00:00 [Information] Toggle map status for MapId: 1, Current: True
+2026-02-12 18:54:50.835 +00:00 [Information] Toggle map status for MapId: 1, Current: True
+2026-02-12 18:55:16.698 +00:00 [Information] Log-in successfull for username "admin2"
+2026-02-12 18:55:20.732 +00:00 [Information] Searching raids by map id 1
+2026-02-12 18:55:25.677 +00:00 [Information] Toggle map status for MapId: 1, Current: True
+2026-02-12 18:55:32.773 +00:00 [Information] Opening map edit page for map id: 10
+2026-02-12 18:55:48.966 +00:00 [Information] Searching mobs by map id 10
+2026-02-12 19:23:34.958 +00:00 [Information] Log-in successfull for username "admin2"
+2026-02-12 19:23:39.459 +00:00 [Information] Toggle map status for MapId: 1, Current: True
+2026-02-12 19:23:44.149 +00:00 [Information] User cancelled map status change for MapId: 1
+2026-02-12 19:23:45.234 +00:00 [Information] Opening map edit page for map id: 1
+2026-02-12 19:23:52.704 +00:00 [Information] Searching raids by map id 1
+2026-02-12 19:23:58.752 +00:00 [Information] Toggle map status for MapId: 1, Current: True
+2026-02-12 19:23:59.705 +00:00 [Information] User confirmed map status change for MapId: 1
+2026-02-12 19:23:59.715 +00:00 [Information] Map config retrieved for MapId: 1, Current MapIsOpen: True
+2026-02-12 19:23:59.715 +00:00 [Information] Sending update command for MapId: 1, NewStatus: False
+2026-02-12 19:23:59.852 +00:00 [Information] Map 1 status changed to CLOSED
+2026-02-12 19:23:59.875 +00:00 [Information] Table reloaded after map status change
+2026-02-12 19:24:13.928 +00:00 [Information] Toggle map status for MapId: 1, Current: False
+2026-02-12 19:24:17.737 +00:00 [Information] User confirmed map status change for MapId: 1
+2026-02-12 19:24:17.749 +00:00 [Information] Map config retrieved for MapId: 1, Current MapIsOpen: False
+2026-02-12 19:24:17.749 +00:00 [Information] Sending update command for MapId: 1, NewStatus: True
+2026-02-12 19:24:17.760 +00:00 [Information] Map 1 status changed to OPEN
+2026-02-12 19:24:17.784 +00:00 [Information] Table reloaded after map status change
+2026-02-12 19:24:27.789 +00:00 [Information] Searching raids by map id 1
+2026-02-12 19:24:52.046 +00:00 [Information] Searching raids by map id 2
+2026-02-12 19:25:13.283 +00:00 [Information] Searching raids by map id 2
+2026-02-12 19:25:13.368 +00:00 [Information] Searching raids by map id 2
+2026-02-12 19:25:28.465 +00:00 [Information] Searching raid by id 150218
+2026-02-12 19:25:36.611 +00:00 [Information] Updating raid id 150218
+2026-02-12 19:25:36.985 +00:00 [Information] Raid id 150218 update
+2026-02-12 19:25:37.020 +00:00 [Information] Searching raids by map id 2
+2026-02-12 19:25:41.248 +00:00 [Information] Searching raid by id 150697
+2026-02-12 19:25:43.680 +00:00 [Information] Searching raids by map id 2
+2026-02-12 19:26:04.893 +00:00 [Information] Toggle map status for MapId: 2, Current: True
+2026-02-12 19:26:06.137 +00:00 [Information] User confirmed map status change for MapId: 2
+2026-02-12 19:26:06.141 +00:00 [Information] Map config retrieved for MapId: 2, Current MapIsOpen: True
+2026-02-12 19:26:06.141 +00:00 [Information] Sending update command for MapId: 2, NewStatus: False
+2026-02-12 19:26:06.148 +00:00 [Information] Map 2 status changed to CLOSED
+2026-02-12 19:26:06.164 +00:00 [Information] Table reloaded after map status change

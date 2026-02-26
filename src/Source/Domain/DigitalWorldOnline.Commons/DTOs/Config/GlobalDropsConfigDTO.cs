@@ -1,0 +1,14 @@
+﻿namespace DigitalWorldOnline.Commons.DTOs.Config
+{
+    public class GlobalDropsConfigDTO
+    {
+        public int Id { get; private set; }
+        public int ItemId { get; set; }
+        public byte MinDrop { get; set; }
+        public byte MaxDrop { get; set; }
+        public double Chance { get; set; }
+        public int Map { get; set; }
+        public DateTime StartTime { get; set; }
+        public DateTime EndTime { get; set; }
+    }
+}

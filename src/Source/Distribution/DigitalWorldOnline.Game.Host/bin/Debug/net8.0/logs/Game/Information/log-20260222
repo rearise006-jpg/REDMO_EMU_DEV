@@ -1,0 +1,411 @@
+2026-02-22 00:07:33.741 +00:00 [Information] Character 329 engaged partner 4647 - UltraForceV.
+2026-02-22 00:07:43.059 +00:00 [Information] Character 329 switched target to partner 4647 - UltraForceV.
+2026-02-22 00:07:45.357 +00:00 [Information] Character 329 switched target to partner 4647 - UltraForceV.
+2026-02-22 00:07:53.432 +00:00 [Information] Received disconnection event for Pain 328 26.121**************.
+2026-02-22 00:07:53.433 +00:00 [Information] Removing the tamer Pain 328. 26.121**************.
+2026-02-22 00:07:55.847 +00:00 [Information] Adding Tamer 328:Pain to map 1301 Ch 0... (Default Map)
+2026-02-22 00:07:55.857 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 00:07:56.865 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1301, Channel: 0
+2026-02-22 00:08:47.890 +00:00 [Information] Character 329 engaged partner 4647 - UltraForceV.
+2026-02-22 00:08:51.331 +00:00 [Information] Character 328 switched to partner 4643 - Vm0.
+2026-02-22 00:09:06.429 +00:00 [Information] Received disconnection event for Emos 329 26.65.***********.
+2026-02-22 00:09:06.430 +00:00 [Information] Removing the tamer Emos 329. 26.65.***********.
+2026-02-22 00:09:06.612 +00:00 [Information] Received disconnection event for Pain 328 26.121**************.
+2026-02-22 00:09:06.613 +00:00 [Information] Removing the tamer Pain 328. 26.121**************.
+2026-02-22 00:09:09.035 +00:00 [Information] Adding Tamer 328:Pain to map 1301 Ch 0... (Default Map)
+2026-02-22 00:09:09.040 +00:00 [Information] Adding Tamer 329:Emos to map 1301 Ch 0... (Default Map)
+2026-02-22 00:09:09.046 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 00:09:09.048 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 00:09:10.060 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1301, Channel: 0
+2026-02-22 00:09:10.061 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1301, Channel: 0
+2026-02-22 00:17:23.729 +00:00 [Information] Received disconnection event for Emos 329 26.65.***********.
+2026-02-22 00:17:23.731 +00:00 [Information] Removing the tamer Emos 329. 26.65.***********.
+2026-02-22 00:17:23.733 +00:00 [Information] Updating character Emos 329 state upon disconnect...
+2026-02-22 00:36:49.642 +00:00 [Information] Received disconnection event for Pain 328 26.121**************.
+2026-02-22 00:36:49.644 +00:00 [Information] Removing the tamer Pain 328. 26.121**************.
+2026-02-22 00:36:49.646 +00:00 [Information] Updating character Pain 328 state upon disconnect...
+2026-02-22 18:06:14.388 +00:00 [Information] Services Loaded !!
+2026-02-22 18:06:14.799 +00:00 [Information] Loading database assets !!
+2026-02-22 18:06:16.099 +00:00 [Information] Loaded 18388 items from XML
+2026-02-22 18:06:18.371 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-22 18:06:20.593 +00:00 [Information] Loading additional information !!
+2026-02-22 18:06:22.597 +00:00 [Information] Loading XML assets !!
+2026-02-22 18:06:22.649 +00:00 [Information] MapObject XML loaded !!
+2026-02-22 18:06:22.666 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-22 18:07:40.283 +00:00 [Information] Adding Tamer 330:rearise to map 1301 Ch 0... (Default Map)
+2026-02-22 18:07:40.320 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 18:07:43.417 +00:00 [Information] [SearchNewMaps] Skipping closed map: MapId=17
+2026-02-22 18:07:43.418 +00:00 [Information] [SearchNewMaps] Skipping closed map: MapId=19
+2026-02-22 18:07:43.420 +00:00 [Information] [SearchNewMaps] Skipping closed map: MapId=22
+2026-02-22 18:07:46.977 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1301, Channel: 0
+2026-02-22 18:10:53.258 +00:00 [Information] GM AccountID: 6 Tamer: rearise used Command !tp 3
+2026-02-22 18:10:57.509 +00:00 [Information] [LazyLoad] :: MapId: 3, Name: Dats Center, Ch: 0
+2026-02-22 18:10:57.511 +00:00 [Information] [LazyLoad] :: MapId: 3, Name: Dats Center, Ch: 1
+2026-02-22 18:10:57.512 +00:00 [Information] [LazyLoad] :: MapId: 3, Name: Dats Center, Ch: 2
+2026-02-22 18:10:57.514 +00:00 [Information] [LazyLoad] :: MapId: 3, Name: Dats Center, Ch: 3
+2026-02-22 18:10:59.890 +00:00 [Information] Received disconnection event for rearise 330 26.121**************.
+2026-02-22 18:10:59.891 +00:00 [Information] Removing the tamer rearise 330. 26.121**************.
+2026-02-22 18:11:02.170 +00:00 [Information] Adding Tamer 330:rearise to map 3 Ch 0... (Default Map)
+2026-02-22 18:11:02.180 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 18:11:03.200 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 3, Channel: 0
+2026-02-22 18:12:14.375 +00:00 [Information] [SearchMaps] Skipping closed map: MapId=19, Name=Former DATS Center
+2026-02-22 18:12:17.813 +00:00 [Information] Received disconnection event for rearise 330 26.121**************.
+2026-02-22 18:12:17.814 +00:00 [Information] Removing the tamer rearise 330. 26.121**************.
+2026-02-22 18:12:19.427 +00:00 [Information] [SearchMaps] Skipping closed map: MapId=19, Name=Former DATS Center
+2026-02-22 18:12:20.224 +00:00 [Information] Adding Tamer 330:rearise to map 19 Ch 0... (Default Map)
+2026-02-22 18:12:20.228 +00:00 [Information] Received disconnection event for rearise 330 .
+2026-02-22 18:12:20.228 +00:00 [Information] Received disconnection event for rearise 330 .
+2026-02-22 18:12:20.228 +00:00 [Information] Removing the tamer rearise 330. .
+2026-02-22 18:12:20.230 +00:00 [Information] Removing the tamer rearise 330. .
+2026-02-22 18:12:20.231 +00:00 [Information] Updating character rearise 330 state upon disconnect...
+2026-02-22 18:12:20.232 +00:00 [Information] Updating character rearise 330 state upon disconnect...
+2026-02-22 18:12:20.234 +00:00 [Information] [AddClient] Saved redirected location
+2026-02-22 18:12:20.359 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 3, Channel: 0
+2026-02-22 18:13:19.983 +00:00 [Information] Adding Tamer 330:rearise to map 3 Ch 3... (Default Map)
+2026-02-22 18:13:19.992 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 18:13:20.996 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 3, Channel: 3
+2026-02-22 18:14:29.523 +00:00 [Information] Received disconnection event for rearise 330 26.121**************.
+2026-02-22 18:14:29.524 +00:00 [Information] Removing the tamer rearise 330. 26.121**************.
+2026-02-22 18:14:29.527 +00:00 [Information] Updating character rearise 330 state upon disconnect...
+2026-02-22 19:21:13.885 +00:00 [Information] Adding Tamer 330:rearise to map 3 Ch 1... (Default Map)
+2026-02-22 19:21:13.894 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 19:21:15.417 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 3, Channel: 1
+2026-02-22 19:22:35.893 +00:00 [Information] Received disconnection event for rearise 330 26.121**************.
+2026-02-22 19:22:35.895 +00:00 [Information] Removing the tamer rearise 330. 26.121**************.
+2026-02-22 19:22:35.897 +00:00 [Information] Updating character rearise 330 state upon disconnect...
+2026-02-22 20:08:26.440 +00:00 [Information] Adding Tamer 330:rearise to map 3 Ch 3... (Default Map)
+2026-02-22 20:08:26.449 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 20:08:26.949 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 3, Channel: 3
+2026-02-22 20:09:06.734 +00:00 [Information] Received disconnection event for rearise 330 26.121**************.
+2026-02-22 20:09:06.735 +00:00 [Information] Removing the tamer rearise 330. 26.121**************.
+2026-02-22 20:09:06.738 +00:00 [Information] Updating character rearise 330 state upon disconnect...
+2026-02-22 20:42:23.007 +00:00 [Information] Adding Tamer 330:rearise to map 3 Ch 2... (Default Map)
+2026-02-22 20:42:23.017 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 20:42:23.137 +00:00 [Information] [LazyLoad] :: MapId: 3, Name: Dats Center, Ch: 0
+2026-02-22 20:42:23.518 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 3, Channel: 2
+2026-02-22 20:43:41.343 +00:00 [Information] Received disconnection event for rearise 330 26.121**************.
+2026-02-22 20:43:41.345 +00:00 [Information] Removing the tamer rearise 330. 26.121**************.
+2026-02-22 20:43:41.347 +00:00 [Information] Updating character rearise 330 state upon disconnect...
+2026-02-22 20:55:43.290 +00:00 [Information] Services Loaded !!
+2026-02-22 20:55:43.699 +00:00 [Information] Loading database assets !!
+2026-02-22 20:55:44.993 +00:00 [Information] Loaded 18388 items from XML
+2026-02-22 20:55:47.169 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-22 20:55:49.545 +00:00 [Information] Loading additional information !!
+2026-02-22 20:55:51.486 +00:00 [Information] Loading XML assets !!
+2026-02-22 20:55:51.526 +00:00 [Information] MapObject XML loaded !!
+2026-02-22 20:55:51.542 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-22 20:59:05.327 +00:00 [Information] Services Loaded !!
+2026-02-22 20:59:05.731 +00:00 [Information] Loading database assets !!
+2026-02-22 20:59:07.019 +00:00 [Information] Loaded 18388 items from XML
+2026-02-22 20:59:09.176 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-22 20:59:10.878 +00:00 [Information] Loading additional information !!
+2026-02-22 20:59:13.056 +00:00 [Information] Loading XML assets !!
+2026-02-22 20:59:13.088 +00:00 [Information] MapObject XML loaded !!
+2026-02-22 20:59:13.106 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-22 20:59:58.055 +00:00 [Information] Adding Tamer 330:rearise to map 3 Ch 0... (Default Map)
+2026-02-22 20:59:58.089 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 21:00:01.198 +00:00 [Information] [SearchNewMaps] Skipping closed map: MapId=17
+2026-02-22 21:00:01.199 +00:00 [Information] [SearchNewMaps] Skipping closed map: MapId=19
+2026-02-22 21:00:01.201 +00:00 [Information] [SearchNewMaps] Skipping closed map: MapId=22
+2026-02-22 21:00:04.748 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 3, Channel: 0
+2026-02-22 21:07:36.280 +00:00 [Information] GM AccountID: 6 Tamer: rearise used Command !tp 1305
+2026-02-22 21:07:39.645 +00:00 [Information] [LazyLoad] :: MapId: 1305, Name: File Island Waterfront, Ch: 0
+2026-02-22 21:07:39.648 +00:00 [Information] [LazyLoad] :: MapId: 1305, Name: File Island Waterfront, Ch: 1
+2026-02-22 21:07:39.650 +00:00 [Information] [LazyLoad] :: MapId: 1305, Name: File Island Waterfront, Ch: 2
+2026-02-22 21:07:43.110 +00:00 [Information] Received disconnection event for rearise 330 26.121**************.
+2026-02-22 21:07:43.111 +00:00 [Information] Removing the tamer rearise 330. 26.121**************.
+2026-02-22 21:07:45.329 +00:00 [Information] Adding Tamer 330:rearise to map 1305 Ch 0... (Default Map)
+2026-02-22 21:07:45.340 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 21:07:46.344 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1305, Channel: 0
+2026-02-22 21:11:45.921 +00:00 [Information] Received disconnection event for rearise 330 26.121**************.
+2026-02-22 21:11:45.923 +00:00 [Information] Removing the tamer rearise 330. 26.121**************.
+2026-02-22 21:11:45.925 +00:00 [Information] Updating character rearise 330 state upon disconnect...
+2026-02-22 21:11:59.657 +00:00 [Information] Services Loaded !!
+2026-02-22 21:12:00.073 +00:00 [Information] Loading database assets !!
+2026-02-22 21:12:01.321 +00:00 [Information] Loaded 18388 items from XML
+2026-02-22 21:12:03.474 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-22 21:12:05.776 +00:00 [Information] Loading additional information !!
+2026-02-22 21:12:07.723 +00:00 [Information] Loading XML assets !!
+2026-02-22 21:12:07.772 +00:00 [Information] MapObject XML loaded !!
+2026-02-22 21:12:07.788 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-22 21:12:52.426 +00:00 [Information] Adding Tamer 330:rearise to map 1305 Ch 0... (Default Map)
+2026-02-22 21:12:52.463 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 21:12:54.884 +00:00 [Information] [LazyLoad] :: MapId: 1305, Name: File Island Waterfront, Ch: 0
+2026-02-22 21:12:54.887 +00:00 [Information] [LazyLoad] :: MapId: 1305, Name: File Island Waterfront, Ch: 1
+2026-02-22 21:12:54.889 +00:00 [Information] [LazyLoad] :: MapId: 1305, Name: File Island Waterfront, Ch: 2
+2026-02-22 21:12:55.976 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1305, Channel: 0
+2026-02-22 21:15:57.354 +00:00 [Information] GM AccountID: 6 Tamer: rearise used Command !reload
+2026-02-22 21:15:58.543 +00:00 [Information] Received disconnection event for rearise 330 26.121**************.
+2026-02-22 21:15:58.544 +00:00 [Information] Removing the tamer rearise 330. 26.121**************.
+2026-02-22 21:16:00.748 +00:00 [Information] Adding Tamer 330:rearise to map 1305 Ch 0... (Default Map)
+2026-02-22 21:16:00.759 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 21:16:01.256 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1305, Channel: 0
+2026-02-22 21:17:06.238 +00:00 [Information] Received disconnection event for rearise 330 26.121**************.
+2026-02-22 21:17:06.239 +00:00 [Information] Removing the tamer rearise 330. 26.121**************.
+2026-02-22 21:17:06.243 +00:00 [Information] Updating character rearise 330 state upon disconnect...
+2026-02-22 21:27:38.041 +00:00 [Information] Services Loaded !!
+2026-02-22 21:27:38.468 +00:00 [Information] Loading database assets !!
+2026-02-22 21:27:39.728 +00:00 [Information] Loaded 18388 items from XML
+2026-02-22 21:27:41.961 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-22 21:27:44.058 +00:00 [Information] Loading additional information !!
+2026-02-22 21:27:45.994 +00:00 [Information] Loading XML assets !!
+2026-02-22 21:27:46.030 +00:00 [Information] MapObject XML loaded !!
+2026-02-22 21:27:46.047 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-22 21:28:32.470 +00:00 [Information] Adding Tamer 330:rearise to map 1305 Ch 0... (Default Map)
+2026-02-22 21:28:32.504 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 21:28:33.037 +00:00 [Information] [LazyLoad] :: MapId: 1305, Name: File Island Waterfront, Ch: 0
+2026-02-22 21:28:33.039 +00:00 [Information] [LazyLoad] :: MapId: 1305, Name: File Island Waterfront, Ch: 1
+2026-02-22 21:28:33.042 +00:00 [Information] [LazyLoad] :: MapId: 1305, Name: File Island Waterfront, Ch: 2
+2026-02-22 21:28:35.528 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1305, Channel: 0
+2026-02-22 21:30:34.223 +00:00 [Information] GM AccountID: 6 Tamer: rearise used Command !godmode on
+2026-02-22 21:31:13.029 +00:00 [Information] Received disconnection event for rearise 330 26.121**************.
+2026-02-22 21:31:13.030 +00:00 [Information] Removing the tamer rearise 330. 26.121**************.
+2026-02-22 21:31:13.044 +00:00 [Information] Updating character rearise 330 state upon disconnect...
+2026-02-22 21:32:50.999 +00:00 [Information] Services Loaded !!
+2026-02-22 21:32:51.418 +00:00 [Information] Loading database assets !!
+2026-02-22 21:32:52.731 +00:00 [Information] Loaded 18388 items from XML
+2026-02-22 21:32:54.974 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-22 21:32:57.243 +00:00 [Information] Loading additional information !!
+2026-02-22 21:32:59.283 +00:00 [Information] Loading XML assets !!
+2026-02-22 21:32:59.314 +00:00 [Information] MapObject XML loaded !!
+2026-02-22 21:32:59.331 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-22 21:33:46.486 +00:00 [Information] Adding Tamer 330:rearise to map 1305 Ch 2... (Default Map)
+2026-02-22 21:33:46.522 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 21:33:49.609 +00:00 [Information] [SearchNewMaps] Skipping closed map: MapId=17
+2026-02-22 21:33:49.611 +00:00 [Information] [SearchNewMaps] Skipping closed map: MapId=19
+2026-02-22 21:33:49.612 +00:00 [Information] [SearchNewMaps] Skipping closed map: MapId=22
+2026-02-22 21:33:52.660 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1305, Channel: 2
+2026-02-22 21:35:34.398 +00:00 [Information] Received disconnection event for rearise 330 26.121**************.
+2026-02-22 21:35:34.399 +00:00 [Information] Removing the tamer rearise 330. 26.121**************.
+2026-02-22 21:35:36.099 +00:00 [Information] [LazyLoad] :: MapId: 1305, Name: File Island Waterfront, Ch: 0
+2026-02-22 21:35:36.101 +00:00 [Information] [LazyLoad] :: MapId: 1305, Name: File Island Waterfront, Ch: 1
+2026-02-22 21:35:36.692 +00:00 [Information] Adding Tamer 330:rearise to map 1305 Ch 1... (Default Map)
+2026-02-22 21:35:36.702 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 21:35:37.208 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1305, Channel: 1
+2026-02-22 21:36:05.328 +00:00 [Information] Received disconnection event for rearise 330 26.121**************.
+2026-02-22 21:36:05.330 +00:00 [Information] Removing the tamer rearise 330. 26.121**************.
+2026-02-22 21:36:05.334 +00:00 [Information] Updating character rearise 330 state upon disconnect...
+2026-02-22 21:38:17.187 +00:00 [Information] Services Loaded !!
+2026-02-22 21:38:17.611 +00:00 [Information] Loading database assets !!
+2026-02-22 21:38:18.938 +00:00 [Information] Loaded 18388 items from XML
+2026-02-22 21:38:21.045 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-22 21:38:23.326 +00:00 [Information] Loading additional information !!
+2026-02-22 21:38:25.253 +00:00 [Information] Loading XML assets !!
+2026-02-22 21:38:25.285 +00:00 [Information] MapObject XML loaded !!
+2026-02-22 21:38:25.302 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-22 21:39:18.232 +00:00 [Information] Adding Tamer 330:rearise to map 1305 Ch 0... (Default Map)
+2026-02-22 21:39:18.266 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 21:39:21.359 +00:00 [Information] [SearchNewMaps] Skipping closed map: MapId=17
+2026-02-22 21:39:21.360 +00:00 [Information] [SearchNewMaps] Skipping closed map: MapId=19
+2026-02-22 21:39:21.362 +00:00 [Information] [SearchNewMaps] Skipping closed map: MapId=22
+2026-02-22 21:39:24.911 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1305, Channel: 0
+2026-02-22 21:40:02.401 +00:00 [Information] Received disconnection event for rearise 330 26.121**************.
+2026-02-22 21:40:02.403 +00:00 [Information] Removing the tamer rearise 330. 26.121**************.
+2026-02-22 21:40:02.416 +00:00 [Information] Updating character rearise 330 state upon disconnect...
+2026-02-22 21:52:23.841 +00:00 [Information] Services Loaded !!
+2026-02-22 21:52:24.290 +00:00 [Information] Loading database assets !!
+2026-02-22 21:52:25.545 +00:00 [Information] Loaded 18388 items from XML
+2026-02-22 21:52:27.719 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-22 21:52:29.889 +00:00 [Information] Loading additional information !!
+2026-02-22 21:52:32.125 +00:00 [Information] Loading XML assets !!
+2026-02-22 21:52:32.154 +00:00 [Information] MapObject XML loaded !!
+2026-02-22 21:52:32.171 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-22 21:53:19.142 +00:00 [Information] Adding Tamer 330:rearise to map 1305 Ch 1... (Default Map)
+2026-02-22 21:53:19.176 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 21:53:22.303 +00:00 [Information] [SearchNewMaps] Skipping closed map: MapId=17
+2026-02-22 21:53:22.304 +00:00 [Information] [SearchNewMaps] Skipping closed map: MapId=19
+2026-02-22 21:53:22.306 +00:00 [Information] [SearchNewMaps] Skipping closed map: MapId=22
+2026-02-22 21:53:25.852 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1305, Channel: 1
+2026-02-22 21:53:39.124 +00:00 [Information] GM AccountID: 6 Tamer: rearise used Command !digimon exp max
+2026-02-22 21:54:45.340 +00:00 [Information] GM AccountID: 6 Tamer: rearise used Command !tp 3
+2026-02-22 21:54:48.812 +00:00 [Information] [LazyLoad] :: MapId: 3, Name: Dats Center, Ch: 0
+2026-02-22 21:54:48.813 +00:00 [Information] [LazyLoad] :: MapId: 3, Name: Dats Center, Ch: 1
+2026-02-22 21:54:48.816 +00:00 [Information] [LazyLoad] :: MapId: 3, Name: Dats Center, Ch: 2
+2026-02-22 21:54:48.818 +00:00 [Information] [LazyLoad] :: MapId: 3, Name: Dats Center, Ch: 3
+2026-02-22 21:54:51.538 +00:00 [Information] Received disconnection event for rearise 330 26.121**************.
+2026-02-22 21:54:51.539 +00:00 [Information] Removing the tamer rearise 330. 26.121**************.
+2026-02-22 21:54:53.763 +00:00 [Information] Adding Tamer 330:rearise to map 3 Ch 1... (Default Map)
+2026-02-22 21:54:53.773 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 21:54:54.277 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 3, Channel: 1
+2026-02-22 21:56:12.333 +00:00 [Information] Received disconnection event for rearise 330 26.121**************.
+2026-02-22 21:56:12.334 +00:00 [Information] Removing the tamer rearise 330. 26.121**************.
+2026-02-22 21:56:12.336 +00:00 [Information] Updating character rearise 330 state upon disconnect...
+2026-02-22 22:08:36.473 +00:00 [Information] Adding Tamer 330:rearise to map 3 Ch 3... (Default Map)
+2026-02-22 22:08:36.484 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 22:08:36.989 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 3, Channel: 3
+2026-02-22 22:08:56.138 +00:00 [Information] GM AccountID: 6 Tamer: rearise used Command !tp 1305
+2026-02-22 22:08:59.279 +00:00 [Information] [LazyLoad] :: MapId: 1305, Name: File Island Waterfront, Ch: 0
+2026-02-22 22:08:59.281 +00:00 [Information] [LazyLoad] :: MapId: 1305, Name: File Island Waterfront, Ch: 2
+2026-02-22 22:09:02.195 +00:00 [Information] Received disconnection event for rearise 330 26.121**************.
+2026-02-22 22:09:02.196 +00:00 [Information] Removing the tamer rearise 330. 26.121**************.
+2026-02-22 22:09:04.107 +00:00 [Information] Adding Tamer 330:rearise to map 1305 Ch 1... (Default Map)
+2026-02-22 22:09:04.150 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 22:09:04.627 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1305, Channel: 1
+2026-02-22 22:11:04.685 +00:00 [Information] Received disconnection event for rearise 330 26.121**************.
+2026-02-22 22:11:04.687 +00:00 [Information] Removing the tamer rearise 330. 26.121**************.
+2026-02-22 22:11:07.073 +00:00 [Information] Adding Tamer 330:rearise to map 1305 Ch 0... (Default Map)
+2026-02-22 22:11:07.081 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 22:11:07.583 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1305, Channel: 0
+2026-02-22 22:12:37.884 +00:00 [Information] GM AccountID: 6 Tamer: rearise used Command !godemode on
+2026-02-22 22:12:54.562 +00:00 [Information] GM AccountID: 6 Tamer: rearise used Command !godmode on
+2026-02-22 22:40:56.199 +00:00 [Information] Received disconnection event for rearise 330 26.121**************.
+2026-02-22 22:40:56.201 +00:00 [Information] Removing the tamer rearise 330. 26.121**************.
+2026-02-22 22:40:56.203 +00:00 [Information] Updating character rearise 330 state upon disconnect...
+2026-02-22 22:41:27.446 +00:00 [Information] Adding Tamer 328:Pain to map 1301 Ch 2... (Default Map)
+2026-02-22 22:41:27.455 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 22:41:27.755 +00:00 [Information] [LazyLoad] :: MapId: 1301, Name: Silver Lake, Ch: 0
+2026-02-22 22:41:27.758 +00:00 [Information] [LazyLoad] :: MapId: 1301, Name: Silver Lake, Ch: 1
+2026-02-22 22:41:27.767 +00:00 [Information] [LazyLoad] :: MapId: 1301, Name: Silver Lake, Ch: 2
+2026-02-22 22:41:30.979 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1301, Channel: 2
+2026-02-22 22:44:37.151 +00:00 [Information] Adding Tamer 329:Emos to map 1301 Ch 0... (Default Map)
+2026-02-22 22:44:37.161 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 22:44:37.669 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1301, Channel: 0
+2026-02-22 22:45:02.057 +00:00 [Information] Received disconnection event for Emos 329 26.65.***********.
+2026-02-22 22:45:02.058 +00:00 [Information] Removing the tamer Emos 329. 26.65.***********.
+2026-02-22 22:45:04.225 +00:00 [Information] Adding Tamer 329:Emos to map 1301 Ch 2... (Default Map)
+2026-02-22 22:45:04.228 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 22:45:04.732 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1301, Channel: 2
+2026-02-22 22:47:33.579 +00:00 [Information] Received disconnection event for Emos 329 26.65.***********.
+2026-02-22 22:47:33.580 +00:00 [Information] Removing the tamer Emos 329. 26.65.***********.
+2026-02-22 22:47:33.584 +00:00 [Information] Updating character Emos 329 state upon disconnect...
+2026-02-22 22:47:50.904 +00:00 [Information] Received disconnection event for Pain 328 26.121**************.
+2026-02-22 22:47:50.905 +00:00 [Information] Removing the tamer Pain 328. 26.121**************.
+2026-02-22 22:47:50.905 +00:00 [Information] Received disconnection event for Pain 328 26.121**************.
+2026-02-22 22:47:50.906 +00:00 [Information] Updating character Pain 328 state upon disconnect...
+2026-02-22 22:47:50.907 +00:00 [Information] Removing the tamer Pain 328. 26.121**************.
+2026-02-22 22:47:50.909 +00:00 [Information] Updating character Pain 328 state upon disconnect...
+2026-02-22 22:51:50.495 +00:00 [Information] Adding Tamer 328:Pain to map 1301 Ch 0... (Default Map)
+2026-02-22 22:51:50.506 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 22:51:51.007 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1301, Channel: 0
+2026-02-22 22:52:35.196 +00:00 [Information] Adding Tamer 329:Emos to map 1301 Ch 2... (Default Map)
+2026-02-22 22:52:35.206 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 22:52:36.221 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1301, Channel: 2
+2026-02-22 22:55:11.660 +00:00 [Information] [LazyLoad] :: MapId: 1302, Name: A Silent Forest, Ch: 0
+2026-02-22 22:55:11.663 +00:00 [Information] [LazyLoad] :: MapId: 1302, Name: A Silent Forest, Ch: 1
+2026-02-22 22:55:11.671 +00:00 [Information] [LazyLoad] :: MapId: 1302, Name: A Silent Forest, Ch: 2
+2026-02-22 22:55:11.673 +00:00 [Information] [LazyLoad] :: MapId: 1302, Name: A Silent Forest, Ch: 3
+2026-02-22 22:55:11.675 +00:00 [Information] [LazyLoad] :: MapId: 1302, Name: A Silent Forest, Ch: 4
+2026-02-22 22:55:22.804 +00:00 [Information] Received disconnection event for Emos 329 26.65.***********.
+2026-02-22 22:55:22.805 +00:00 [Information] Removing the tamer Emos 329. 26.65.***********.
+2026-02-22 22:55:26.187 +00:00 [Information] Adding Tamer 329:Emos to map 1302 Ch 2... (Default Map)
+2026-02-22 22:55:26.197 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 22:55:26.702 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1302, Channel: 2
+2026-02-22 22:55:46.644 +00:00 [Information] Received disconnection event for Emos 329 26.65.***********.
+2026-02-22 22:55:46.646 +00:00 [Information] Removing the tamer Emos 329. 26.65.***********.
+2026-02-22 22:55:49.005 +00:00 [Information] Adding Tamer 329:Emos to map 1301 Ch 2... (Default Map)
+2026-02-22 22:55:49.009 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 22:55:49.521 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1301, Channel: 2
+2026-02-22 23:00:28.851 +00:00 [Information] Received disconnection event for Emos 329 26.65.***********.
+2026-02-22 23:00:28.852 +00:00 [Information] Removing the tamer Emos 329. 26.65.***********.
+2026-02-22 23:00:31.574 +00:00 [Information] Adding Tamer 329:Emos to map 1301 Ch 0... (Default Map)
+2026-02-22 23:00:31.584 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 23:00:32.092 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1301, Channel: 0
+2026-02-22 23:01:02.985 +00:00 [Information] Received disconnection event for Pain 328 26.121**************.
+2026-02-22 23:01:02.986 +00:00 [Information] Removing the tamer Pain 328. 26.121**************.
+2026-02-22 23:01:02.991 +00:00 [Information] Updating character Pain 328 state upon disconnect...
+2026-02-22 23:01:47.570 +00:00 [Information] Adding Tamer 328:Pain to map 1301 Ch 0... (Default Map)
+2026-02-22 23:01:47.579 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 23:01:48.594 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1301, Channel: 0
+2026-02-22 23:03:12.647 +00:00 [Information] Received disconnection event for Pain 328 26.121**************.
+2026-02-22 23:03:12.648 +00:00 [Information] Removing the tamer Pain 328. 26.121**************.
+2026-02-22 23:03:14.903 +00:00 [Information] Adding Tamer 328:Pain to map 1302 Ch 0... (Default Map)
+2026-02-22 23:03:14.914 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 23:03:15.927 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1302, Channel: 0
+2026-02-22 23:03:53.004 +00:00 [Information] Received disconnection event for Pain 328 26.121**************.
+2026-02-22 23:03:53.005 +00:00 [Information] Removing the tamer Pain 328. 26.121**************.
+2026-02-22 23:03:55.104 +00:00 [Information] Adding Tamer 328:Pain to map 1301 Ch 0... (Default Map)
+2026-02-22 23:03:55.119 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 23:03:56.116 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1301, Channel: 0
+2026-02-22 23:08:07.866 +00:00 [Information] Received disconnection event for Emos 329 26.65.***********.
+2026-02-22 23:08:07.867 +00:00 [Information] Removing the tamer Emos 329. 26.65.***********.
+2026-02-22 23:08:10.530 +00:00 [Information] Adding Tamer 329:Emos to map 1301 Ch 1... (Default Map)
+2026-02-22 23:08:10.538 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 23:08:11.046 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1301, Channel: 1
+2026-02-22 23:08:26.947 +00:00 [Information] Received disconnection event for Pain 328 26.121**************.
+2026-02-22 23:08:26.948 +00:00 [Information] Removing the tamer Pain 328. 26.121**************.
+2026-02-22 23:08:37.354 +00:00 [Information] Adding Tamer 328:Pain to map 1302 Ch 0... (Default Map)
+2026-02-22 23:08:37.364 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 23:08:37.868 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1302, Channel: 0
+2026-02-22 23:09:26.096 +00:00 [Information] Received disconnection event for Pain 328 26.121**************.
+2026-02-22 23:09:26.097 +00:00 [Information] Removing the tamer Pain 328. 26.121**************.
+2026-02-22 23:09:28.238 +00:00 [Information] Adding Tamer 328:Pain to map 1302 Ch 1... (Default Map)
+2026-02-22 23:09:28.253 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 23:09:28.756 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1302, Channel: 1
+2026-02-22 23:09:33.037 +00:00 [Information] Received disconnection event for Pain 328 26.121**************.
+2026-02-22 23:09:33.038 +00:00 [Information] Removing the tamer Pain 328. 26.121**************.
+2026-02-22 23:09:47.395 +00:00 [Information] Adding Tamer 328:Pain to map 1302 Ch 0... (Default Map)
+2026-02-22 23:09:47.404 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 23:09:48.415 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1302, Channel: 0
+2026-02-22 23:10:36.923 +00:00 [Information] Received disconnection event for Emos 329 26.65.***********.
+2026-02-22 23:10:36.924 +00:00 [Information] Removing the tamer Emos 329. 26.65.***********.
+2026-02-22 23:10:39.301 +00:00 [Information] Adding Tamer 329:Emos to map 1301 Ch 0... (Default Map)
+2026-02-22 23:10:39.304 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 23:10:39.820 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1301, Channel: 0
+2026-02-22 23:10:49.646 +00:00 [Information] Received disconnection event for Emos 329 26.65.***********.
+2026-02-22 23:10:49.647 +00:00 [Information] Removing the tamer Emos 329. 26.65.***********.
+2026-02-22 23:10:52.324 +00:00 [Information] Adding Tamer 329:Emos to map 1301 Ch 2... (Default Map)
+2026-02-22 23:10:52.333 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 23:10:52.842 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1301, Channel: 2
+2026-02-22 23:12:27.782 +00:00 [Information] Received disconnection event for Emos 329 26.65.***********.
+2026-02-22 23:12:27.783 +00:00 [Information] Removing the tamer Emos 329. 26.65.***********.
+2026-02-22 23:12:30.470 +00:00 [Information] Adding Tamer 329:Emos to map 1302 Ch 2... (Default Map)
+2026-02-22 23:12:30.479 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 23:12:30.987 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1302, Channel: 2
+2026-02-22 23:12:42.100 +00:00 [Information] Received disconnection event for Emos 329 26.65.***********.
+2026-02-22 23:12:42.101 +00:00 [Information] Removing the tamer Emos 329. 26.65.***********.
+2026-02-22 23:12:44.426 +00:00 [Information] Adding Tamer 329:Emos to map 1302 Ch 0... (Default Map)
+2026-02-22 23:12:44.431 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 23:12:44.935 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1302, Channel: 0
+2026-02-22 23:27:06.522 +00:00 [Information] Received disconnection event for Emos 329 26.65.***********.
+2026-02-22 23:27:06.523 +00:00 [Information] Removing the tamer Emos 329. 26.65.***********.
+2026-02-22 23:27:09.633 +00:00 [Information] Adding Tamer 329:Emos to map 1302 Ch 1... (Default Map)
+2026-02-22 23:27:09.645 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 23:27:10.145 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1302, Channel: 1
+2026-02-22 23:27:28.777 +00:00 [Information] Received disconnection event for Emos 329 26.65.***********.
+2026-02-22 23:27:28.778 +00:00 [Information] Removing the tamer Emos 329. 26.65.***********.
+2026-02-22 23:27:31.110 +00:00 [Information] Adding Tamer 329:Emos to map 1302 Ch 0... (Default Map)
+2026-02-22 23:27:31.114 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 23:27:32.129 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1302, Channel: 0
+2026-02-22 23:32:49.376 +00:00 [Information] [LazyLoad] :: MapId: 1303, Name: Lost Historic Site, Ch: 0
+2026-02-22 23:32:49.378 +00:00 [Information] [LazyLoad] :: MapId: 1303, Name: Lost Historic Site, Ch: 1
+2026-02-22 23:32:49.380 +00:00 [Information] [LazyLoad] :: MapId: 1303, Name: Lost Historic Site, Ch: 2
+2026-02-22 23:33:03.412 +00:00 [Information] Received disconnection event for Pain 328 26.121**************.
+2026-02-22 23:33:03.413 +00:00 [Information] Removing the tamer Pain 328. 26.121**************.
+2026-02-22 23:33:05.811 +00:00 [Information] Adding Tamer 328:Pain to map 1303 Ch 0... (Default Map)
+2026-02-22 23:33:05.820 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 23:33:06.823 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1303, Channel: 0
+2026-02-22 23:41:03.422 +00:00 [Information] Received disconnection event for Pain 328 26.121**************.
+2026-02-22 23:41:03.423 +00:00 [Information] Removing the tamer Pain 328. 26.121**************.
+2026-02-22 23:41:05.907 +00:00 [Information] Adding Tamer 328:Pain to map 1303 Ch 0... (Default Map)
+2026-02-22 23:41:05.918 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 23:41:06.930 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1303, Channel: 0
+2026-02-22 23:41:31.019 +00:00 [Information] Received disconnection event for Pain 328 26.121**************.
+2026-02-22 23:41:31.021 +00:00 [Information] Removing the tamer Pain 328. 26.121**************.
+2026-02-22 23:41:33.426 +00:00 [Information] Adding Tamer 328:Pain to map 1303 Ch 0... (Default Map)
+2026-02-22 23:41:33.435 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 23:41:33.939 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1303, Channel: 0
+2026-02-22 23:42:59.722 +00:00 [Information] Received disconnection event for Emos 329 26.65.***********.
+2026-02-22 23:42:59.723 +00:00 [Information] Removing the tamer Emos 329. 26.65.***********.
+2026-02-22 23:43:02.396 +00:00 [Information] Adding Tamer 329:Emos to map 1303 Ch 0... (Default Map)
+2026-02-22 23:43:02.407 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 23:43:02.910 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1303, Channel: 0
+2026-02-22 23:45:56.789 +00:00 [Information] Received disconnection event for Emos 329 26.65.***********.
+2026-02-22 23:45:56.790 +00:00 [Information] Removing the tamer Emos 329. 26.65.***********.
+2026-02-22 23:45:59.453 +00:00 [Information] Adding Tamer 329:Emos to map 1303 Ch 0... (Default Map)
+2026-02-22 23:45:59.463 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 23:46:00.476 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1303, Channel: 0
+2026-02-22 23:48:56.789 +00:00 [Information] Received disconnection event for Emos 329 26.65.***********.
+2026-02-22 23:48:56.791 +00:00 [Information] Removing the tamer Emos 329. 26.65.***********.
+2026-02-22 23:49:02.620 +00:00 [Information] Adding Tamer 329:Emos to map 1303 Ch 0... (Default Map)
+2026-02-22 23:49:02.630 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 23:49:03.132 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1303, Channel: 0
+2026-02-22 23:51:03.107 +00:00 [Information] Received disconnection event for Pain 328 26.121**************.
+2026-02-22 23:51:03.108 +00:00 [Information] Removing the tamer Pain 328. 26.121**************.
+2026-02-22 23:51:05.504 +00:00 [Information] Adding Tamer 328:Pain to map 1303 Ch 1... (Default Map)
+2026-02-22 23:51:05.516 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 23:51:06.516 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1303, Channel: 1
+2026-02-22 23:51:14.140 +00:00 [Information] Received disconnection event for Pain 328 26.121**************.
+2026-02-22 23:51:14.141 +00:00 [Information] Removing the tamer Pain 328. 26.121**************.
+2026-02-22 23:51:16.549 +00:00 [Information] Adding Tamer 328:Pain to map 1303 Ch 0... (Default Map)
+2026-02-22 23:51:16.558 +00:00 [Information] [AddClient] Saved last open map
+2026-02-22 23:51:17.567 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 1303, Channel: 0

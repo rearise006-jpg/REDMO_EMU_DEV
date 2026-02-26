@@ -1,0 +1,46 @@
+2026-02-06 19:06:30.827 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-06 19:06:30.830 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 6710 | ExpTarget: 20031701
+
+2026-02-06 19:06:30.830 +00:00 [Verbose] ---------------------------------
+2026-02-06 19:07:37.585 +00:00 [Verbose] Tamer rearise2 evolved partner (4636:dukem0) from 31005:Guilmon to 41074
+2026-02-06 19:12:37.480 +00:00 [Verbose] Character 325 opened box 70102 and obtained 41028 x1,41179 x1,40018 x1,16 x1,128547 x150
+2026-02-06 19:56:36.696 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-06 19:56:36.698 +00:00 [Verbose] ExpRate: 203322 | NextDayExpRate: 16385 | ExpTarget: 19283
+
+2026-02-06 19:56:36.698 +00:00 [Verbose] ---------------------------------
+2026-02-06 19:59:32.382 +00:00 [Verbose] Character 325 scanned 21996 x1 with VIP and obtained 22004 x1
+2026-02-06 19:59:33.504 +00:00 [Verbose] Character 325 scanned 21996 x1 with VIP and obtained 22336 x1
+2026-02-06 19:59:34.675 +00:00 [Verbose] Character 325 scanned 21996 x1 with VIP and obtained 22312 x1
+2026-02-06 19:59:35.886 +00:00 [Verbose] Character 325 scanned 21996 x1 with VIP and obtained 22305 x1
+2026-02-06 19:59:37.104 +00:00 [Verbose] Character 325 scanned 21996 x1 with VIP and obtained 22609 x1
+2026-02-06 19:59:38.976 +00:00 [Verbose] Character 325 scanned 21996 x26 with VIP and obtained 22332 x2,22330 x2,22025 x3,22006 x2,22026 x1,22004 x2,22005 x2,22615 x1,22609 x2,22325 x2,22304 x2,22013 x1,22303 x1,22324 x1,22326 x1,22610 x1,22031 x1,22331 x1,22032 x1
+2026-02-06 20:00:30.139 +00:00 [Verbose] Tamer rearise2 evolved partner (4636:dukem0) from 31005:Guilmon to 41074
+2026-02-06 20:02:10.130 +00:00 [Verbose] Processing ItemRemove for Tamer 325. Slot: 25, Amount: 1, Position: (19200, 31841).
+2026-02-06 20:02:12.144 +00:00 [Verbose] Processing ItemRemove for Tamer 325. Slot: 13, Amount: 2, Position: (19200, 31841).
+2026-02-06 20:03:22.362 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-06 20:03:22.362 +00:00 [Verbose] ExpRate: 1260001850 | NextDayExpRate: 2086731776 | ExpTarget: 131072
+
+2026-02-06 20:03:22.362 +00:00 [Verbose] ---------------------------------
+2026-02-06 20:04:08.582 +00:00 [Verbose] Tamer rearise2 evolved partner (4636:dukem0) from 31005:Guilmon to 41074
+2026-02-06 20:04:17.409 +00:00 [Verbose] Tamer rearise2 devolved partner (4636:dukem0) from 41074 to 31005.
+2026-02-06 20:07:20.371 +00:00 [Verbose] Processing ItemRemove for Tamer 325. Slot: 4, Amount: 2, Position: (24525, 18276).
+2026-02-06 20:08:20.828 +00:00 [Verbose] Processing ItemRemove for Tamer 325. Slot: 24, Amount: 2, Position: (24538, 18321).
+2026-02-06 20:08:22.362 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-06 20:08:22.362 +00:00 [Verbose] ExpRate: 1608129082 | NextDayExpRate: 1200685056 | ExpTarget: 131072
+
+2026-02-06 20:08:22.362 +00:00 [Verbose] ---------------------------------
+2026-02-06 20:08:24.868 +00:00 [Verbose] Character 325 delivered quest 100.
+2026-02-06 20:08:24.869 +00:00 [Verbose] Character 325 received quest 100 item 6542 x100 reward.
+2026-02-06 20:08:41.616 +00:00 [Verbose] Processing ItemRemove for Tamer 325. Slot: 18, Amount: 1, Position: (24538, 18321).
+2026-02-06 20:08:43.899 +00:00 [Verbose] Processing ItemRemove for Tamer 325. Slot: 19, Amount: 1, Position: (24538, 18321).
+2026-02-06 20:10:20.022 +00:00 [Verbose] Character 325 dropped 121 bits at map 17 X15176 Y15899.
+2026-02-06 20:11:36.166 +00:00 [Verbose] Character 325 dropped 58 bits at map 17 X15170 Y15929.
+2026-02-06 20:13:22.360 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-06 20:13:22.360 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 0 | ExpTarget: 6706
+
+2026-02-06 20:13:22.361 +00:00 [Verbose] ---------------------------------

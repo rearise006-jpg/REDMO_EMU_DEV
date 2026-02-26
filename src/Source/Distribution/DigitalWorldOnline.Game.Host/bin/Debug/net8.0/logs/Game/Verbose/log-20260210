@@ -1,0 +1,118 @@
+2026-02-10 00:00:00.636 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-10 00:00:00.639 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 4294967295 | ExpTarget: 6706
+
+2026-02-10 00:00:00.639 +00:00 [Verbose] ---------------------------------
+2026-02-10 00:05:00.639 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-10 00:05:00.639 +00:00 [Verbose] ExpRate: 1448506 | NextDayExpRate: 32769 | ExpTarget: 23554
+
+2026-02-10 00:05:00.639 +00:00 [Verbose] ---------------------------------
+2026-02-10 00:10:00.682 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-10 00:10:00.682 +00:00 [Verbose] ExpRate: 1448506 | NextDayExpRate: 32769 | ExpTarget: 23554
+
+2026-02-10 00:10:00.682 +00:00 [Verbose] ---------------------------------
+2026-02-10 00:15:00.651 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-10 00:15:00.651 +00:00 [Verbose] ExpRate: 1448506 | NextDayExpRate: 32769 | ExpTarget: 23554
+
+2026-02-10 00:15:00.651 +00:00 [Verbose] ---------------------------------
+2026-02-10 00:20:00.654 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-10 00:20:00.654 +00:00 [Verbose] ExpRate: 2366010 | NextDayExpRate: 32769 | ExpTarget: 22827
+
+2026-02-10 00:20:00.655 +00:00 [Verbose] ---------------------------------
+2026-02-10 00:25:00.656 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-10 00:25:00.656 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 16788 | ExpTarget: 20031701
+
+2026-02-10 00:25:00.656 +00:00 [Verbose] ---------------------------------
+2026-02-10 00:37:16.040 +00:00 [Verbose] Character 323 purchased 26001 x1 for 100000 bits from NPC 90003 at Map 3 X20073 Y28728, Channel 1.
+2026-02-10 00:37:50.186 +00:00 [Verbose] Character 323 created guild 0 REDMO Guild.
+2026-02-10 00:40:20.718 +00:00 [Verbose] Character 323 scanned 7211 x1 with VIP and obtained 8632 x1
+2026-02-10 00:40:50.178 +00:00 [Verbose] Character 323 hatched 4637(33080) with grade Lv4 and size 11328.
+2026-02-10 00:41:44.038 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-10 00:41:44.038 +00:00 [Verbose] ExpRate: 1710650 | NextDayExpRate: 16385 | ExpTarget: 21191
+
+2026-02-10 00:41:44.038 +00:00 [Verbose] ---------------------------------
+2026-02-10 00:41:49.628 +00:00 [Verbose] Tamer rearise evolved partner (4637:AlterSSS) from 33080:Agumon(Black)[BlitzGreymon] to 41061
+2026-02-10 00:43:09.007 +00:00 [Verbose] Tamer rearise evolved partner (4637:AlterSSS) from 41061:Greymon(Black) to 63006
+2026-02-10 19:34:42.715 +00:00 [Verbose] Character 323 dropped 1006 bits at map 1601 X15836 Y56318.
+2026-02-10 19:35:07.710 +00:00 [Verbose] Tamer rearise evolved partner (4637:AlterSSS) from 33080:Agumon(Black)[BlitzGreymon] to 63006
+2026-02-10 19:37:59.919 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-10 19:37:59.919 +00:00 [Verbose] ExpRate: 4201018 | NextDayExpRate: 16777984 | ExpTarget: 1716992
+
+2026-02-10 19:37:59.919 +00:00 [Verbose] ---------------------------------
+2026-02-10 19:38:37.945 +00:00 [Verbose] Character 323 dropped 1006 bits at map 1601 X15820 Y78604.
+2026-02-10 19:49:06.969 +00:00 [Verbose] Character 323 dropped 1006 bits at map 1601 X15946 Y56793.
+2026-02-10 19:49:20.333 +00:00 [Verbose] Tamer rearise evolved partner (4637:AlterSSS) from 33080:Agumon(Black)[BlitzGreymon] to 63006
+2026-02-10 19:52:40.225 +00:00 [Verbose] Character 323 dropped 1006 bits at map 1601 X15654 Y78736.
+2026-02-10 19:52:57.906 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-10 19:52:57.906 +00:00 [Verbose] ExpRate: 268858 | NextDayExpRate: 16385 | ExpTarget: 16095
+
+2026-02-10 19:52:57.906 +00:00 [Verbose] ---------------------------------
+2026-02-10 19:57:57.908 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-10 19:57:57.908 +00:00 [Verbose] ExpRate: 1710650 | NextDayExpRate: 41409 | ExpTarget: 20031701
+
+2026-02-10 19:57:57.908 +00:00 [Verbose] ---------------------------------
+2026-02-10 20:02:57.909 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-10 20:02:57.909 +00:00 [Verbose] ExpRate: 1710650 | NextDayExpRate: 41409 | ExpTarget: 20031701
+
+2026-02-10 20:02:57.909 +00:00 [Verbose] ---------------------------------
+2026-02-10 20:06:15.982 +00:00 [Verbose] Character 323 dropped 1006 bits at map 1601 X15311 Y38145.
+2026-02-10 20:07:57.910 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-10 20:07:57.910 +00:00 [Verbose] ExpRate: 4201018 | NextDayExpRate: 16777984 | ExpTarget: 1716992
+
+2026-02-10 20:07:57.910 +00:00 [Verbose] ---------------------------------
+2026-02-10 20:12:57.912 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-10 20:12:57.912 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 65539 | ExpTarget: 1710642
+
+2026-02-10 20:12:57.912 +00:00 [Verbose] ---------------------------------
+2026-02-10 20:13:21.242 +00:00 [Verbose] Character 323 dropped 1006 bits at map 1601 X15328 Y78856.
+2026-02-10 20:14:36.419 +00:00 [Verbose] Character 323 dropped 59 bits at map 2 X8824 Y8940.
+2026-02-10 20:21:29.781 +00:00 [Verbose] Tamer rearise evolved partner (4637:AlterSSS) from 33080:Agumon(Black)[BlitzGreymon] to 63006
+2026-02-10 20:21:54.569 +00:00 [Verbose] Character 323 dropped 1006 bits at map 1601 X16122 Y38002.
+2026-02-10 20:25:59.755 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-10 20:25:59.755 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 439353382 | ExpTarget: 20031701
+
+2026-02-10 20:25:59.755 +00:00 [Verbose] ---------------------------------
+2026-02-10 20:30:59.756 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-10 20:30:59.756 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 32769 | ExpTarget: 15353
+
+2026-02-10 20:30:59.756 +00:00 [Verbose] ---------------------------------
+2026-02-10 20:32:05.867 +00:00 [Verbose] Character 323 scanned 7215 x7 with VIP and obtained 8645 x3,8644 x2,8643 x2
+2026-02-10 20:32:34.873 +00:00 [Verbose] Character 323 hatched 4638(33082) with grade Lv5 and size 11830.
+2026-02-10 20:33:29.746 +00:00 [Verbose] Tamer rearise evolved partner (4638:Cress) from 33082:Gabumon[CresGarurumon] to 41139
+2026-02-10 20:35:59.744 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-10 20:35:59.744 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 32769 | ExpTarget: 21061
+
+2026-02-10 20:35:59.744 +00:00 [Verbose] ---------------------------------
+2026-02-10 20:36:47.862 +00:00 [Verbose] Character 323 opened box 76063 and obtained 76052 x1
+2026-02-10 20:36:52.235 +00:00 [Verbose] Character 323 identified item 76052 with power 97 reroll 20 and status Fire 315,Unknown 330.
+2026-02-10 20:37:23.543 +00:00 [Verbose] Tamer rearise evolved partner (4638:Cress) from 41139:Garurumon to 63007
+2026-02-10 20:37:32.108 +00:00 [Verbose] Tamer rearise evolved partner (4638:Cress) from 63007:Cres Garurumon to 71104
+2026-02-10 20:37:50.907 +00:00 [Verbose] Tamer rearise evolved partner (4638:Cress) from 71104:Omegamon Alter-S to 71109
+2026-02-10 20:38:57.332 +00:00 [Verbose] Character 323 dropped 1006 bits at map 1601 X15362 Y37790.
+2026-02-10 20:39:15.466 +00:00 [Verbose] Character 323 dropped 1006 bits at map 1601 X15978 Y56809.
+2026-02-10 20:40:59.759 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-10 20:40:59.759 +00:00 [Verbose] ExpRate: 6714 | NextDayExpRate: 439353387 | ExpTarget: 6706
+
+2026-02-10 20:40:59.759 +00:00 [Verbose] ---------------------------------
+2026-02-10 20:42:56.399 +00:00 [Verbose] Character 323 dropped 1006 bits at map 1601 X15493 Y78382.
+2026-02-10 20:54:40.558 +00:00 [Verbose] --- Burning Event Packet 3132 ---
+
+2026-02-10 20:54:40.558 +00:00 [Verbose] ExpRate: 72250 | NextDayExpRate: 32769 | ExpTarget: 20480
+
+2026-02-10 20:54:40.558 +00:00 [Verbose] ---------------------------------

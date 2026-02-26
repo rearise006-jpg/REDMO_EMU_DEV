@@ -1,0 +1,239 @@
+D:\GAME_SERVERS\DigimonMasters\Server\DRO_Server\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.deps.json
+D:\GAME_SERVERS\DigimonMasters\Server\DRO_Server\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.runtimeconfig.json
+D:\GAME_SERVERS\DigimonMasters\Server\DRO_Server\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.dll
+D:\GAME_SERVERS\DigimonMasters\Server\DRO_Server\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+D:\GAME_SERVERS\DigimonMasters\Server\DRO_Server\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.AssemblyReference.cache
+D:\GAME_SERVERS\DigimonMasters\Server\DRO_Server\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.GeneratedMSBuildEditorConfig.editorconfig
+D:\GAME_SERVERS\DigimonMasters\Server\DRO_Server\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfoInputs.cache
+D:\GAME_SERVERS\DigimonMasters\Server\DRO_Server\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfo.cs
+D:\GAME_SERVERS\DigimonMasters\Server\DRO_Server\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.CoreCompileInputs.cache
+D:\GAME_SERVERS\DigimonMasters\Server\DRO_Server\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.sourcelink.json
+D:\GAME_SERVERS\DigimonMasters\Server\DRO_Server\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.dll
+D:\GAME_SERVERS\DigimonMasters\Server\DRO_Server\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\refint\DigitalWorldOnline.Commons.dll
+D:\GAME_SERVERS\DigimonMasters\Server\DRO_Server\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+D:\GAME_SERVERS\DigimonMasters\Server\DRO_Server\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.genruntimeconfig.cache
+D:\GAME_SERVERS\DigimonMasters\Server\DRO_Server\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\ref\DigitalWorldOnline.Commons.dll
+C:\DMO PROJ BACKUP\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.deps.json
+C:\DMO PROJ BACKUP\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.runtimeconfig.json
+C:\DMO PROJ BACKUP\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\DMO PROJ BACKUP\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\DMO PROJ BACKUP\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.AssemblyReference.cache
+C:\DMO PROJ BACKUP\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\DMO PROJ BACKUP\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfoInputs.cache
+C:\DMO PROJ BACKUP\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfo.cs
+C:\DMO PROJ BACKUP\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.CoreCompileInputs.cache
+C:\DMO PROJ BACKUP\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.sourcelink.json
+C:\DMO PROJ BACKUP\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\DMO PROJ BACKUP\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\refint\DigitalWorldOnline.Commons.dll
+C:\DMO PROJ BACKUP\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\DMO PROJ BACKUP\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.genruntimeconfig.cache
+C:\DMO PROJ BACKUP\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\ref\DigitalWorldOnline.Commons.dll
+C:\DMO\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.deps.json
+C:\DMO\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.runtimeconfig.json
+C:\DMO\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\DMO\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\DMO\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.AssemblyReference.cache
+C:\DMO\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\DMO\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfoInputs.cache
+C:\DMO\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfo.cs
+C:\DMO\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.CoreCompileInputs.cache
+C:\DMO\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.sourcelink.json
+C:\DMO\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\DMO\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\refint\DigitalWorldOnline.Commons.dll
+C:\DMO\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\DMO\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.genruntimeconfig.cache
+C:\DMO\DTU_Server_v1\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\ref\DigitalWorldOnline.Commons.dll
+C:\DMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.deps.json
+C:\DMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.runtimeconfig.json
+C:\DMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\DMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\DMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.AssemblyReference.cache
+C:\DMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\DMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfoInputs.cache
+C:\DMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfo.cs
+C:\DMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.CoreCompileInputs.cache
+C:\DMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.sourcelink.json
+C:\DMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\DMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\refint\DigitalWorldOnline.Commons.dll
+C:\DMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\DMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.genruntimeconfig.cache
+C:\DMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\ref\DigitalWorldOnline.Commons.dll
+C:\DMO\YGGDMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.deps.json
+C:\DMO\YGGDMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.runtimeconfig.json
+C:\DMO\YGGDMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\DMO\YGGDMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\DMO\YGGDMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.AssemblyReference.cache
+C:\DMO\YGGDMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\DMO\YGGDMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfoInputs.cache
+C:\DMO\YGGDMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfo.cs
+C:\DMO\YGGDMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.CoreCompileInputs.cache
+C:\DMO\YGGDMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.sourcelink.json
+C:\DMO\YGGDMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\DMO\YGGDMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\refint\DigitalWorldOnline.Commons.dll
+C:\DMO\YGGDMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\DMO\YGGDMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.genruntimeconfig.cache
+C:\DMO\YGGDMO\YGGDMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\ref\DigitalWorldOnline.Commons.dll
+C:\DMO\FIXED DECK\FIXED DECK\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.deps.json
+C:\DMO\FIXED DECK\FIXED DECK\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.runtimeconfig.json
+C:\DMO\FIXED DECK\FIXED DECK\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\DMO\FIXED DECK\FIXED DECK\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\DMO\FIXED DECK\FIXED DECK\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.AssemblyReference.cache
+C:\DMO\FIXED DECK\FIXED DECK\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\DMO\FIXED DECK\FIXED DECK\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfoInputs.cache
+C:\DMO\FIXED DECK\FIXED DECK\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfo.cs
+C:\DMO\FIXED DECK\FIXED DECK\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.CoreCompileInputs.cache
+C:\DMO\FIXED DECK\FIXED DECK\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.sourcelink.json
+C:\DMO\FIXED DECK\FIXED DECK\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\DMO\FIXED DECK\FIXED DECK\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\refint\DigitalWorldOnline.Commons.dll
+C:\DMO\FIXED DECK\FIXED DECK\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\DMO\FIXED DECK\FIXED DECK\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.genruntimeconfig.cache
+C:\DMO\FIXED DECK\FIXED DECK\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\ref\DigitalWorldOnline.Commons.dll
+C:\DMO\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.deps.json
+C:\DMO\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.runtimeconfig.json
+C:\DMO\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\DMO\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\DMO\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.AssemblyReference.cache
+C:\DMO\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\DMO\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfoInputs.cache
+C:\DMO\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfo.cs
+C:\DMO\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.CoreCompileInputs.cache
+C:\DMO\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.sourcelink.json
+C:\DMO\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\DMO\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\refint\DigitalWorldOnline.Commons.dll
+C:\DMO\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\DMO\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.genruntimeconfig.cache
+C:\DMO\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\ref\DigitalWorldOnline.Commons.dll
+C:\Users\zedpa\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.deps.json
+C:\Users\zedpa\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.runtimeconfig.json
+C:\Users\zedpa\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\Users\zedpa\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\Users\zedpa\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.AssemblyReference.cache
+C:\Users\zedpa\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zedpa\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfoInputs.cache
+C:\Users\zedpa\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfo.cs
+C:\Users\zedpa\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.CoreCompileInputs.cache
+C:\Users\zedpa\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.sourcelink.json
+C:\Users\zedpa\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\Users\zedpa\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\refint\DigitalWorldOnline.Commons.dll
+C:\Users\zedpa\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\Users\zedpa\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.genruntimeconfig.cache
+C:\Users\zedpa\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\ref\DigitalWorldOnline.Commons.dll
+C:\DMO\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.deps.json
+C:\DMO\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.runtimeconfig.json
+C:\DMO\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\DMO\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\DMO\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.AssemblyReference.cache
+C:\DMO\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\DMO\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfoInputs.cache
+C:\DMO\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfo.cs
+C:\DMO\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.CoreCompileInputs.cache
+C:\DMO\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.sourcelink.json
+C:\DMO\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\DMO\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\refint\DigitalWorldOnline.Commons.dll
+C:\DMO\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\DMO\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.genruntimeconfig.cache
+C:\DMO\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\ref\DigitalWorldOnline.Commons.dll
+C:\Users\Administrator\Desktop\sourceAsia2\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.deps.json
+C:\Users\Administrator\Desktop\sourceAsia2\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.runtimeconfig.json
+C:\Users\Administrator\Desktop\sourceAsia2\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\Users\Administrator\Desktop\sourceAsia2\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\Users\Administrator\Desktop\sourceAsia2\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\sourceAsia2\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\sourceAsia2\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\sourceAsia2\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\sourceAsia2\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\sourceAsia2\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.sourcelink.json
+C:\Users\Administrator\Desktop\sourceAsia2\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\Users\Administrator\Desktop\sourceAsia2\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\refint\DigitalWorldOnline.Commons.dll
+C:\Users\Administrator\Desktop\sourceAsia2\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\Users\Administrator\Desktop\sourceAsia2\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\sourceAsia2\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\ref\DigitalWorldOnline.Commons.dll
+C:\Users\Administrator\Desktop\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.deps.json
+C:\Users\Administrator\Desktop\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.runtimeconfig.json
+C:\Users\Administrator\Desktop\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\Users\Administrator\Desktop\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\Users\Administrator\Desktop\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.sourcelink.json
+C:\Users\Administrator\Desktop\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\Users\Administrator\Desktop\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\refint\DigitalWorldOnline.Commons.dll
+C:\Users\Administrator\Desktop\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\Users\Administrator\Desktop\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\sourceAsia\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\ref\DigitalWorldOnline.Commons.dll
+C:\Users\kgusi\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.deps.json
+C:\Users\kgusi\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.runtimeconfig.json
+C:\Users\kgusi\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\Users\kgusi\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\Users\kgusi\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.AssemblyReference.cache
+C:\Users\kgusi\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgusi\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfoInputs.cache
+C:\Users\kgusi\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfo.cs
+C:\Users\kgusi\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.CoreCompileInputs.cache
+C:\Users\kgusi\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.sourcelink.json
+C:\Users\kgusi\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\Users\kgusi\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\refint\DigitalWorldOnline.Commons.dll
+C:\Users\kgusi\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\Users\kgusi\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.genruntimeconfig.cache
+C:\Users\kgusi\Documents\GitHub\ASIA-DMO\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\ref\DigitalWorldOnline.Commons.dll
+C:\Users\kgusi\Documents\ASIA-DMO_Test\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.deps.json
+C:\Users\kgusi\Documents\ASIA-DMO_Test\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.runtimeconfig.json
+C:\Users\kgusi\Documents\ASIA-DMO_Test\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\Users\kgusi\Documents\ASIA-DMO_Test\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\Users\kgusi\Documents\ASIA-DMO_Test\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.AssemblyReference.cache
+C:\Users\kgusi\Documents\ASIA-DMO_Test\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgusi\Documents\ASIA-DMO_Test\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfoInputs.cache
+C:\Users\kgusi\Documents\ASIA-DMO_Test\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfo.cs
+C:\Users\kgusi\Documents\ASIA-DMO_Test\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.CoreCompileInputs.cache
+C:\Users\kgusi\Documents\ASIA-DMO_Test\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.sourcelink.json
+C:\Users\kgusi\Documents\ASIA-DMO_Test\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\Users\kgusi\Documents\ASIA-DMO_Test\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\refint\DigitalWorldOnline.Commons.dll
+C:\Users\kgusi\Documents\ASIA-DMO_Test\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\Users\kgusi\Documents\ASIA-DMO_Test\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.genruntimeconfig.cache
+C:\Users\kgusi\Documents\ASIA-DMO_Test\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\ref\DigitalWorldOnline.Commons.dll
+C:\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.AssemblyReference.cache
+C:\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfoInputs.cache
+C:\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfo.cs
+C:\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.CoreCompileInputs.cache
+C:\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.sourcelink.json
+C:\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.deps.json
+C:\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.runtimeconfig.json
+C:\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\refint\DigitalWorldOnline.Commons.dll
+C:\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.genruntimeconfig.cache
+C:\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\ref\DigitalWorldOnline.Commons.dll
+C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.deps.json
+C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.runtimeconfig.json
+C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.AssemblyReference.cache
+C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfoInputs.cache
+C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfo.cs
+C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.CoreCompileInputs.cache
+C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.sourcelink.json
+C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.dll
+C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\refint\DigitalWorldOnline.Commons.dll
+C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.genruntimeconfig.cache
+C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\ref\DigitalWorldOnline.Commons.dll
+D:\REDMO_EMU_DEV-main\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.deps.json
+D:\REDMO_EMU_DEV-main\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.runtimeconfig.json
+D:\REDMO_EMU_DEV-main\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.dll
+D:\REDMO_EMU_DEV-main\src\Source\Domain\DigitalWorldOnline.Commons\bin\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+D:\REDMO_EMU_DEV-main\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.AssemblyReference.cache
+D:\REDMO_EMU_DEV-main\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.GeneratedMSBuildEditorConfig.editorconfig
+D:\REDMO_EMU_DEV-main\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfoInputs.cache
+D:\REDMO_EMU_DEV-main\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.AssemblyInfo.cs
+D:\REDMO_EMU_DEV-main\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.csproj.CoreCompileInputs.cache
+D:\REDMO_EMU_DEV-main\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.dll
+D:\REDMO_EMU_DEV-main\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\refint\DigitalWorldOnline.Commons.dll
+D:\REDMO_EMU_DEV-main\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.pdb
+D:\REDMO_EMU_DEV-main\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\DigitalWorldOnline.Commons.genruntimeconfig.cache
+D:\REDMO_EMU_DEV-main\src\Source\Domain\DigitalWorldOnline.Commons\obj\Debug\net7.0\ref\DigitalWorldOnline.Commons.dll

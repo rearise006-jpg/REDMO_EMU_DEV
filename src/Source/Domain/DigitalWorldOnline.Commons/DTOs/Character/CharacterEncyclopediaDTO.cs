@@ -1,0 +1,44 @@
+﻿using DigitalWorldOnline.Commons.DTOs.Assets;
+
+namespace DigitalWorldOnline.Commons.DTOs.Character
+{
+    public class CharacterEncyclopediaDTO
+    {
+        public long Id { get; set; }
+
+        public long CharacterId { get; set; }
+
+        public long DigimonEvolutionId { get; set; }
+
+        public int Level { get; set; }
+
+        public int Size { get; set; }
+
+        public int EnchantAT { get; set; }
+
+        public int EnchantBL { get; set; }
+
+        public int EnchantCT { get; set; }
+
+        public int EnchantEV { get; set; }
+
+        public int EnchantHP { get; set; }
+
+
+
+
+
+
+        public bool IsRewardAllowed { get; set; }
+
+        public bool IsRewardReceived { get; set; }
+
+        public DateTime CreateDate { get; set; }
+
+        public List<CharacterEncyclopediaEvolutionsDTO>? Evolutions { get; set; }
+
+        public CharacterDTO? Character { get; set; }
+
+        public EvolutionAssetDTO? EvolutionAsset { get; set; }
+    }
+}

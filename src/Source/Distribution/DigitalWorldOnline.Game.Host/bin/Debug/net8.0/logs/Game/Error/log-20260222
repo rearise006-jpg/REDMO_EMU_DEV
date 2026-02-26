@@ -1,0 +1,587 @@
+2026-02-22 18:07:47.557 +00:00 [Error] No processor for packet 3136 to player rearise.
+2026-02-22 18:13:21.538 +00:00 [Error] No processor for packet 3136 to player rearise.
+2026-02-22 18:13:21.540 +00:00 [Error] No processor for packet 1076 to player rearise.
+2026-02-22 19:21:15.963 +00:00 [Error] No processor for packet 3136 to player rearise.
+2026-02-22 19:21:15.965 +00:00 [Error] No processor for packet 1076 to player rearise.
+2026-02-22 19:59:41.268 +00:00 [Error] [StartAsync] :: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2026-02-22 19:59:41.299 +00:00 [Error] [StartAsync] ::    at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__208_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.Repositories.Server.ServerQueriesRepository.GetGameMapsConfigAsync(MapTypeEnum mapType) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\Repositories\Server\ServerQueriesRepository.cs:line 33
+   at DigitalWorldOnline.Application.Separar.Queries.GameMapsConfigQueryHandler.Handle(GameMapsConfigQuery request, CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Application\DigitalWorldOnline.Application\Separar\Queries\GameMapsConfigQueryHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.ScopedSender`1.Send[TResponse](IRequest`1 request, CancellationToken ct) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\ScopedSender.cs:line 13
+   at DigitalWorldOnline.GameHost.MapServer.SearchMaps(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 127
+   at DigitalWorldOnline.GameHost.MapServer.StartAsync(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 252
+2026-02-22 20:00:44.948 +00:00 [Error] [StartAsync] :: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2026-02-22 20:00:44.951 +00:00 [Error] [StartAsync] ::    at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__208_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.Repositories.Server.ServerQueriesRepository.GetGameMapsConfigAsync(MapTypeEnum mapType) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\Repositories\Server\ServerQueriesRepository.cs:line 33
+   at DigitalWorldOnline.Application.Separar.Queries.GameMapsConfigQueryHandler.Handle(GameMapsConfigQuery request, CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Application\DigitalWorldOnline.Application\Separar\Queries\GameMapsConfigQueryHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.ScopedSender`1.Send[TResponse](IRequest`1 request, CancellationToken ct) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\ScopedSender.cs:line 13
+   at DigitalWorldOnline.GameHost.MapServer.SearchMaps(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 127
+   at DigitalWorldOnline.GameHost.MapServer.StartAsync(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 252
+2026-02-22 20:01:01.478 +00:00 [Error] [StartAsync] :: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=15006; 
+2026-02-22 20:01:01.481 +00:00 [Error] [StartAsync] ::    at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ThrowExceptionAndWarning(Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at Microsoft.Data.SqlClient.TdsParser.ConsumePreLoginHandshake(SqlConnectionEncryptOption encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean& marsCapable, Boolean& fedAuthRequired, Boolean tlsFirst)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnectionString connectionOptions, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.WaitForPendingOpen()
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.Repositories.Server.ServerQueriesRepository.GetGameMapsConfigAsync(MapTypeEnum mapType) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\Repositories\Server\ServerQueriesRepository.cs:line 33
+   at DigitalWorldOnline.Application.Separar.Queries.GameMapsConfigQueryHandler.Handle(GameMapsConfigQuery request, CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Application\DigitalWorldOnline.Application\Separar\Queries\GameMapsConfigQueryHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.ScopedSender`1.Send[TResponse](IRequest`1 request, CancellationToken ct) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\ScopedSender.cs:line 13
+   at DigitalWorldOnline.GameHost.MapServer.SearchMaps(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 127
+   at DigitalWorldOnline.GameHost.MapServer.StartAsync(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 252
+2026-02-22 20:01:03.002 +00:00 [Error] [StartAsync] :: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=15006; 
+2026-02-22 20:01:03.004 +00:00 [Error] [StartAsync] ::    at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.Repositories.Server.ServerQueriesRepository.GetGameMapsConfigAsync(MapTypeEnum mapType) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\Repositories\Server\ServerQueriesRepository.cs:line 33
+   at DigitalWorldOnline.Application.Separar.Queries.GameMapsConfigQueryHandler.Handle(GameMapsConfigQuery request, CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Application\DigitalWorldOnline.Application\Separar\Queries\GameMapsConfigQueryHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.ScopedSender`1.Send[TResponse](IRequest`1 request, CancellationToken ct) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\ScopedSender.cs:line 13
+   at DigitalWorldOnline.GameHost.MapServer.SearchMaps(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 127
+   at DigitalWorldOnline.GameHost.MapServer.StartAsync(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 252
+2026-02-22 20:01:04.516 +00:00 [Error] [StartAsync] :: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=15006; 
+2026-02-22 20:01:04.518 +00:00 [Error] [StartAsync] ::    at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.Repositories.Server.ServerQueriesRepository.GetGameMapsConfigAsync(MapTypeEnum mapType) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\Repositories\Server\ServerQueriesRepository.cs:line 33
+   at DigitalWorldOnline.Application.Separar.Queries.GameMapsConfigQueryHandler.Handle(GameMapsConfigQuery request, CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Application\DigitalWorldOnline.Application\Separar\Queries\GameMapsConfigQueryHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.ScopedSender`1.Send[TResponse](IRequest`1 request, CancellationToken ct) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\ScopedSender.cs:line 13
+   at DigitalWorldOnline.GameHost.MapServer.SearchMaps(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 127
+   at DigitalWorldOnline.GameHost.MapServer.StartAsync(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 252
+2026-02-22 20:01:06.024 +00:00 [Error] [StartAsync] :: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=15006; 
+2026-02-22 20:01:06.026 +00:00 [Error] [StartAsync] ::    at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.Repositories.Server.ServerQueriesRepository.GetGameMapsConfigAsync(MapTypeEnum mapType) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\Repositories\Server\ServerQueriesRepository.cs:line 33
+   at DigitalWorldOnline.Application.Separar.Queries.GameMapsConfigQueryHandler.Handle(GameMapsConfigQuery request, CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Application\DigitalWorldOnline.Application\Separar\Queries\GameMapsConfigQueryHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.ScopedSender`1.Send[TResponse](IRequest`1 request, CancellationToken ct) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\ScopedSender.cs:line 13
+   at DigitalWorldOnline.GameHost.MapServer.SearchMaps(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 127
+   at DigitalWorldOnline.GameHost.MapServer.StartAsync(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 252
+2026-02-22 20:01:22.554 +00:00 [Error] [StartAsync] :: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=15005; 
+2026-02-22 20:01:22.557 +00:00 [Error] [StartAsync] ::    at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ThrowExceptionAndWarning(Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at Microsoft.Data.SqlClient.TdsParser.ConsumePreLoginHandshake(SqlConnectionEncryptOption encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean& marsCapable, Boolean& fedAuthRequired, Boolean tlsFirst)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnectionString connectionOptions, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.WaitForPendingOpen()
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.Repositories.Server.ServerQueriesRepository.GetGameMapsConfigAsync(MapTypeEnum mapType) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\Repositories\Server\ServerQueriesRepository.cs:line 33
+   at DigitalWorldOnline.Application.Separar.Queries.GameMapsConfigQueryHandler.Handle(GameMapsConfigQuery request, CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Application\DigitalWorldOnline.Application\Separar\Queries\GameMapsConfigQueryHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.ScopedSender`1.Send[TResponse](IRequest`1 request, CancellationToken ct) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\ScopedSender.cs:line 13
+   at DigitalWorldOnline.GameHost.MapServer.SearchMaps(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 127
+   at DigitalWorldOnline.GameHost.MapServer.StartAsync(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 252
+2026-02-22 20:01:39.086 +00:00 [Error] [StartAsync] :: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=15014; 
+2026-02-22 20:01:39.107 +00:00 [Error] [StartAsync] ::    at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ThrowExceptionAndWarning(Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at Microsoft.Data.SqlClient.TdsParser.ConsumePreLoginHandshake(SqlConnectionEncryptOption encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean& marsCapable, Boolean& fedAuthRequired, Boolean tlsFirst)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnectionString connectionOptions, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.WaitForPendingOpen()
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.Repositories.Server.ServerQueriesRepository.GetGameMapsConfigAsync(MapTypeEnum mapType) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\Repositories\Server\ServerQueriesRepository.cs:line 33
+   at DigitalWorldOnline.Application.Separar.Queries.GameMapsConfigQueryHandler.Handle(GameMapsConfigQuery request, CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Application\DigitalWorldOnline.Application\Separar\Queries\GameMapsConfigQueryHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.ScopedSender`1.Send[TResponse](IRequest`1 request, CancellationToken ct) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\ScopedSender.cs:line 13
+   at DigitalWorldOnline.GameHost.MapServer.SearchMaps(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 127
+   at DigitalWorldOnline.GameHost.MapServer.StartAsync(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 252
+2026-02-22 20:01:40.660 +00:00 [Error] [StartAsync] :: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=15014; 
+2026-02-22 20:01:40.668 +00:00 [Error] [StartAsync] ::    at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.Repositories.Server.ServerQueriesRepository.GetGameMapsConfigAsync(MapTypeEnum mapType) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\Repositories\Server\ServerQueriesRepository.cs:line 33
+   at DigitalWorldOnline.Application.Separar.Queries.GameMapsConfigQueryHandler.Handle(GameMapsConfigQuery request, CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Application\DigitalWorldOnline.Application\Separar\Queries\GameMapsConfigQueryHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.ScopedSender`1.Send[TResponse](IRequest`1 request, CancellationToken ct) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\ScopedSender.cs:line 13
+   at DigitalWorldOnline.GameHost.MapServer.SearchMaps(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 127
+   at DigitalWorldOnline.GameHost.MapServer.StartAsync(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 252
+2026-02-22 20:01:42.204 +00:00 [Error] [StartAsync] :: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=15014; 
+2026-02-22 20:01:42.238 +00:00 [Error] [StartAsync] ::    at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.Repositories.Server.ServerQueriesRepository.GetGameMapsConfigAsync(MapTypeEnum mapType) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\Repositories\Server\ServerQueriesRepository.cs:line 33
+   at DigitalWorldOnline.Application.Separar.Queries.GameMapsConfigQueryHandler.Handle(GameMapsConfigQuery request, CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Application\DigitalWorldOnline.Application\Separar\Queries\GameMapsConfigQueryHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.ScopedSender`1.Send[TResponse](IRequest`1 request, CancellationToken ct) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\ScopedSender.cs:line 13
+   at DigitalWorldOnline.GameHost.MapServer.SearchMaps(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 127
+   at DigitalWorldOnline.GameHost.MapServer.StartAsync(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 252
+2026-02-22 20:01:43.821 +00:00 [Error] [StartAsync] :: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=15014; 
+2026-02-22 20:01:43.928 +00:00 [Error] [StartAsync] ::    at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.Repositories.Server.ServerQueriesRepository.GetGameMapsConfigAsync(MapTypeEnum mapType) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\Repositories\Server\ServerQueriesRepository.cs:line 33
+   at DigitalWorldOnline.Application.Separar.Queries.GameMapsConfigQueryHandler.Handle(GameMapsConfigQuery request, CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Application\DigitalWorldOnline.Application\Separar\Queries\GameMapsConfigQueryHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.ScopedSender`1.Send[TResponse](IRequest`1 request, CancellationToken ct) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\ScopedSender.cs:line 13
+   at DigitalWorldOnline.GameHost.MapServer.SearchMaps(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 127
+   at DigitalWorldOnline.GameHost.MapServer.StartAsync(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 252
+2026-02-22 20:02:00.497 +00:00 [Error] [StartAsync] :: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=15005; 
+2026-02-22 20:02:00.555 +00:00 [Error] [StartAsync] ::    at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ThrowExceptionAndWarning(Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at Microsoft.Data.SqlClient.TdsParser.ConsumePreLoginHandshake(SqlConnectionEncryptOption encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean& marsCapable, Boolean& fedAuthRequired, Boolean tlsFirst)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnectionString connectionOptions, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.WaitForPendingOpen()
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.Repositories.Server.ServerQueriesRepository.GetGameMapsConfigAsync(MapTypeEnum mapType) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\Repositories\Server\ServerQueriesRepository.cs:line 33
+   at DigitalWorldOnline.Application.Separar.Queries.GameMapsConfigQueryHandler.Handle(GameMapsConfigQuery request, CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Application\DigitalWorldOnline.Application\Separar\Queries\GameMapsConfigQueryHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.ScopedSender`1.Send[TResponse](IRequest`1 request, CancellationToken ct) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\ScopedSender.cs:line 13
+   at DigitalWorldOnline.GameHost.MapServer.SearchMaps(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 127
+   at DigitalWorldOnline.GameHost.MapServer.StartAsync(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 252
+2026-02-22 20:02:17.091 +00:00 [Error] [StartAsync] :: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=15013; 
+2026-02-22 20:02:17.112 +00:00 [Error] [StartAsync] ::    at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ThrowExceptionAndWarning(Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at Microsoft.Data.SqlClient.TdsParser.ConsumePreLoginHandshake(SqlConnectionEncryptOption encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean& marsCapable, Boolean& fedAuthRequired, Boolean tlsFirst)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnectionString connectionOptions, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.WaitForPendingOpen()
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.Repositories.Server.ServerQueriesRepository.GetGameMapsConfigAsync(MapTypeEnum mapType) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\Repositories\Server\ServerQueriesRepository.cs:line 33
+   at DigitalWorldOnline.Application.Separar.Queries.GameMapsConfigQueryHandler.Handle(GameMapsConfigQuery request, CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Application\DigitalWorldOnline.Application\Separar\Queries\GameMapsConfigQueryHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.ScopedSender`1.Send[TResponse](IRequest`1 request, CancellationToken ct) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\ScopedSender.cs:line 13
+   at DigitalWorldOnline.GameHost.MapServer.SearchMaps(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 127
+   at DigitalWorldOnline.GameHost.MapServer.StartAsync(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 252
+2026-02-22 20:03:03.818 +00:00 [Error] [StartAsync] :: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2026-02-22 20:03:03.820 +00:00 [Error] [StartAsync] ::    at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__208_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.Repositories.Server.ServerQueriesRepository.GetGameMapsConfigAsync(MapTypeEnum mapType) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\Repositories\Server\ServerQueriesRepository.cs:line 33
+   at DigitalWorldOnline.Application.Separar.Queries.GameMapsConfigQueryHandler.Handle(GameMapsConfigQuery request, CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Application\DigitalWorldOnline.Application\Separar\Queries\GameMapsConfigQueryHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.ScopedSender`1.Send[TResponse](IRequest`1 request, CancellationToken ct) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\ScopedSender.cs:line 13
+   at DigitalWorldOnline.GameHost.MapServer.SearchMaps(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 127
+   at DigitalWorldOnline.GameHost.MapServer.StartAsync(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 252
+2026-02-22 20:08:27.498 +00:00 [Error] No processor for packet 3136 to player rearise.
+2026-02-22 20:08:27.501 +00:00 [Error] No processor for packet 1076 to player rearise.
+2026-02-22 20:42:24.058 +00:00 [Error] No processor for packet 3136 to player rearise.
+2026-02-22 20:42:24.060 +00:00 [Error] No processor for packet 1076 to player rearise.
+2026-02-22 21:00:05.307 +00:00 [Error] No processor for packet 3136 to player rearise.
+2026-02-22 21:01:58.956 +00:00 [Error] [StartAsync] :: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2026-02-22 21:01:58.986 +00:00 [Error] [StartAsync] ::    at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__208_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.Repositories.Server.ServerQueriesRepository.GetGameMapsConfigAsync(MapTypeEnum mapType) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\Repositories\Server\ServerQueriesRepository.cs:line 33
+   at DigitalWorldOnline.Application.Separar.Queries.GameMapsConfigQueryHandler.Handle(GameMapsConfigQuery request, CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Application\DigitalWorldOnline.Application\Separar\Queries\GameMapsConfigQueryHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.ScopedSender`1.Send[TResponse](IRequest`1 request, CancellationToken ct) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\ScopedSender.cs:line 13
+   at DigitalWorldOnline.GameHost.MapServer.SearchMaps(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 127
+   at DigitalWorldOnline.GameHost.MapServer.StartAsync(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 252
+2026-02-22 21:03:18.736 +00:00 [Error] [StartAsync] :: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2026-02-22 21:03:18.739 +00:00 [Error] [StartAsync] ::    at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__208_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.Repositories.Server.ServerQueriesRepository.GetGameMapsConfigAsync(MapTypeEnum mapType) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\Repositories\Server\ServerQueriesRepository.cs:line 33
+   at DigitalWorldOnline.Application.Separar.Queries.GameMapsConfigQueryHandler.Handle(GameMapsConfigQuery request, CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Application\DigitalWorldOnline.Application\Separar\Queries\GameMapsConfigQueryHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.ScopedSender`1.Send[TResponse](IRequest`1 request, CancellationToken ct) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\ScopedSender.cs:line 13
+   at DigitalWorldOnline.GameHost.MapServer.SearchMaps(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 127
+   at DigitalWorldOnline.GameHost.MapServer.StartAsync(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 252
+2026-02-22 21:04:15.742 +00:00 [Error] [StartAsync] :: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2026-02-22 21:04:15.744 +00:00 [Error] [StartAsync] ::    at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__208_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.Repositories.Server.ServerQueriesRepository.GetGameMapsConfigAsync(MapTypeEnum mapType) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\Repositories\Server\ServerQueriesRepository.cs:line 33
+   at DigitalWorldOnline.Application.Separar.Queries.GameMapsConfigQueryHandler.Handle(GameMapsConfigQuery request, CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Application\DigitalWorldOnline.Application\Separar\Queries\GameMapsConfigQueryHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.ScopedSender`1.Send[TResponse](IRequest`1 request, CancellationToken ct) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\ScopedSender.cs:line 13
+   at DigitalWorldOnline.GameHost.MapServer.SearchMaps(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 127
+   at DigitalWorldOnline.GameHost.MapServer.StartAsync(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 252
+2026-02-22 21:05:47.152 +00:00 [Error] [StartAsync] :: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2026-02-22 21:05:47.155 +00:00 [Error] [StartAsync] ::    at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__208_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.Repositories.Server.ServerQueriesRepository.GetGameMapsConfigAsync(MapTypeEnum mapType) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\Repositories\Server\ServerQueriesRepository.cs:line 33
+   at DigitalWorldOnline.Application.Separar.Queries.GameMapsConfigQueryHandler.Handle(GameMapsConfigQuery request, CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Application\DigitalWorldOnline.Application\Separar\Queries\GameMapsConfigQueryHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.ScopedSender`1.Send[TResponse](IRequest`1 request, CancellationToken ct) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\ScopedSender.cs:line 13
+   at DigitalWorldOnline.GameHost.MapServer.SearchMaps(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 127
+   at DigitalWorldOnline.GameHost.MapServer.StartAsync(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 252
+2026-02-22 21:06:19.084 +00:00 [Error] [StartAsync] :: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2026-02-22 21:06:19.090 +00:00 [Error] [StartAsync] ::    at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__208_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.Repositories.Server.ServerQueriesRepository.GetGameMapsConfigAsync(MapTypeEnum mapType) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\Repositories\Server\ServerQueriesRepository.cs:line 33
+   at DigitalWorldOnline.Application.Separar.Queries.GameMapsConfigQueryHandler.Handle(GameMapsConfigQuery request, CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Application\DigitalWorldOnline.Application\Separar\Queries\GameMapsConfigQueryHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at DigitalWorldOnline.Infrastructure.ScopedSender`1.Send[TResponse](IRequest`1 request, CancellationToken ct) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Infra\DigitalWorldOnline.Infrastructure\ScopedSender.cs:line 13
+   at DigitalWorldOnline.GameHost.MapServer.SearchMaps(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 127
+   at DigitalWorldOnline.GameHost.MapServer.StartAsync(CancellationToken cancellationToken) in C:\REDMO_DEV\REDMO EMULATOR\DigimonMastersSource\src\Source\Distribution\DigitalWorldOnline.Game.Host\MapServers\MapServerBaseOperation.cs:line 252
+2026-02-22 21:09:46.481 +00:00 [Error] No processor for packet 1088 to player rearise.
+2026-02-22 21:12:56.532 +00:00 [Error] No processor for packet 1076 to player rearise.
+2026-02-22 21:28:36.101 +00:00 [Error] No processor for packet 3136 to player rearise.
+2026-02-22 21:33:53.217 +00:00 [Error] No processor for packet 3136 to player rearise.
+2026-02-22 21:39:25.510 +00:00 [Error] No processor for packet 3136 to player rearise.
+2026-02-22 22:08:37.524 +00:00 [Error] No processor for packet 3136 to player rearise.
+2026-02-22 22:16:30.623 +00:00 [Error] No processor for packet 1088 to player rearise.
+2026-02-22 22:41:31.546 +00:00 [Error] No processor for packet 3136 to player Pain.
+2026-02-22 22:44:38.225 +00:00 [Error] No processor for packet 3136 to player Emos.
+2026-02-22 22:44:38.239 +00:00 [Error] No processor for packet 1076 to player Emos.
+2026-02-22 22:51:51.567 +00:00 [Error] No processor for packet 3136 to player Pain.
+2026-02-22 22:52:36.778 +00:00 [Error] No processor for packet 1076 to player Emos.
+2026-02-22 23:01:49.169 +00:00 [Error] No processor for packet 3136 to player Pain.

@@ -1,0 +1,29 @@
+2026-02-23 19:24:11.551 +00:00 [Warning] Waiting map 1303 CH 2 initialization.
+2026-02-23 21:21:24.547 +00:00 [Warning] Waiting map 1303 CH 1 initialization.
+2026-02-23 21:21:27.667 +00:00 [Warning] Waiting map 1303 CH 1 initialization.
+2026-02-23 21:33:02.733 +00:00 [Warning] Waiting map 1303 CH 0 initialization.
+2026-02-23 21:33:05.861 +00:00 [Warning] Waiting map 1303 CH 0 initialization.
+2026-02-23 21:34:02.974 +00:00 [Warning] [DigiEggGameStart] Player Emos (ID: 329) failed to initialize UI for session 439622202
+2026-02-23 21:42:19.736 +00:00 [Warning] Waiting map 1303 CH 1 initialization.
+2026-02-23 21:53:18.965 +00:00 [Warning] Waiting map 1303 CH 2 initialization.
+2026-02-23 21:53:53.806 +00:00 [Warning] [DigiEggGameStart] Player Emos (ID: 329) failed to initialize UI for session 889199162
+2026-02-23 22:04:07.952 +00:00 [Warning] Waiting map 1303 CH 0 initialization.
+2026-02-23 22:04:11.069 +00:00 [Warning] Waiting map 1303 CH 0 initialization.
+2026-02-23 22:04:28.594 +00:00 [Warning] [DigiEggGameInput] Player Emos clicked wrong position. Expected 0, got 26
+2026-02-23 22:04:29.021 +00:00 [Warning] [DigiEggGameStart] Player Emos failed to initialize UI
+2026-02-23 22:29:09.639 +00:00 [Warning] Waiting map 1303 CH 0 initialization.
+2026-02-23 22:29:23.698 +00:00 [Warning] [DigiEggGameInput] ✗ WRONG! Player Emos clicked 'N' but expected 'D' (position 6, expected 0)
+2026-02-23 22:29:24.112 +00:00 [Warning] [DigiEggGameStart] Player Emos failed to initialize UI
+2026-02-23 22:42:37.248 +00:00 [Warning] Waiting map 1303 CH 0 initialization.
+2026-02-23 22:42:40.421 +00:00 [Warning] Waiting map 1303 CH 0 initialization.
+2026-02-23 22:42:58.172 +00:00 [Warning] [DigiEggGameInput] ✗ WRONG! Player Emos clicked 'N' but expected 'D' (position 6, expected 0)
+2026-02-23 22:42:58.603 +00:00 [Warning] [DigiEggGameStart] ✗ Player Emos UI not ready
+2026-02-23 22:51:14.249 +00:00 [Warning] Waiting map 1303 CH 0 initialization.
+2026-02-23 22:51:17.462 +00:00 [Warning] Waiting map 1303 CH 0 initialization.
+2026-02-23 22:51:31.074 +00:00 [Warning] [DigiEggGameInput] Invalid button index 889192705 from player Emos
+2026-02-23 22:51:31.509 +00:00 [Warning] [DigiEggGameStart] ✗ Player Emos UI not ready
+2026-02-23 22:58:10.019 +00:00 [Warning] Waiting map 1303 CH 2 initialization.
+2026-02-23 23:00:32.022 +00:00 [Warning] [DigiEggGameInput] Invalid button index 439681025 from player Emos
+2026-02-23 23:06:32.803 +00:00 [Warning] Waiting map 1303 CH 1 initialization.
+2026-02-23 23:08:50.972 +00:00 [Warning] [DigiEggGameInput] ✗ WRONG! Clicked button 1 ('I') but expected 0 ('D')
+2026-02-23 23:09:30.903 +00:00 [Warning] Waiting map 1305 CH 0 initialization.
