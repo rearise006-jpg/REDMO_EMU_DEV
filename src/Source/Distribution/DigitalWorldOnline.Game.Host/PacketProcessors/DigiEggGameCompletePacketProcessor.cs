@@ -97,7 +97,7 @@ namespace DigitalWorldOnline.Game.PacketProcessors
                     $"{successBonus:F2}% ({hatchLevelIncrease} levels) from score {finalScore}");
 
                 // Apply bonus to incubator
-                bool bonusApplied = ApplyGameBonus(client, hatchLevelIncrease);
+                bool bonusApplied = ApplyGameBonus(client, hatchLevelIncrease, finalScore);
 
                 if (bonusApplied)
                 {
@@ -210,7 +210,7 @@ namespace DigitalWorldOnline.Game.PacketProcessors
         /// <summary>
         /// ✅ FIXED: Başarı oranını decimal olarak güncelle
         /// </summary>
-        private bool ApplyGameBonus(GameClient client, int hatchLevelIncrease)
+        private bool ApplyGameBonus(GameClient client, int hatchLevelIncrease, int finalScore)  // ✅ ADDED finalScore parameter
         {
             try
             {
@@ -225,18 +225,22 @@ namespace DigitalWorldOnline.Game.PacketProcessors
                 // ✅ FIXED: Başarı oranını decimal olarak güncelle
                 double successBonus = CalculateSuccessBonus(finalScore);
                 decimal bonusDecimal = (decimal)successBonus;
-
                 client.Tamer.Incubator.AddSuccessBonus(successBonus);
 
-                _logger.Debug($"[DigiEggGameComplete] Applied hatch bonus to {client.Tamer.Name}. " +
-                    $"Old Level: {oldLevel}, New Level: {newLevel}, " +
-                    $"Success Rate: {client.Tamer.Incubator.CurrentSuccessRate:F2}%");
+                // Incrementar mini-games played
+                client.Tamer.Incubator.MiniGamesPlayed++;
+
+                // Update last hatch time
+                client.Tamer.Incubator.LastHatchTime = DateTime.UtcNow;
+
+                _logger.Information($"[DigiEggGameBonus] Applied to {client.Tamer.Name}: " +
+                    $"Level +{hatchLevelIncrease}, Success: {successBonus:F2}%, Total MiniGames: {client.Tamer.Incubator.MiniGamesPlayed}");
 
                 return true;
             }
             catch (Exception ex)
             {
-                _logger.Error($"[DigiEggGameComplete] Error applying game bonus: {ex.Message}");
+                _logger.Error($"[DigiEggGameBonus] Error applying bonus: {ex.Message}");
                 return false;
             }
         }

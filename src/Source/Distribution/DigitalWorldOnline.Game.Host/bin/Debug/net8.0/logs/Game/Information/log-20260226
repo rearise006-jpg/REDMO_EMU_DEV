@@ -1,0 +1,23 @@
+2026-02-26 13:25:56.671 +00:00 [Information] Services Loaded !!
+2026-02-26 13:25:57.141 +00:00 [Information] Loading database assets !!
+2026-02-26 13:25:58.496 +00:00 [Information] Loaded 18388 items from XML
+2026-02-26 13:26:01.283 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-26 13:26:03.599 +00:00 [Information] Loading additional information !!
+2026-02-26 13:26:05.389 +00:00 [Information] Loading XML assets !!
+2026-02-26 13:26:05.540 +00:00 [Information] MapObject XML loaded !!
+2026-02-26 13:26:05.575 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-26 13:30:48.907 +00:00 [Information] Adding Tamer 327:hggv to map 2 Ch 1... (Default Map)
+2026-02-26 13:30:48.965 +00:00 [Information] [AddClient] Saved last open map
+2026-02-26 13:30:51.649 +00:00 [Information] [LazyLoad] :: MapId: 2, Name: D-terminal, Ch: 0
+2026-02-26 13:30:51.656 +00:00 [Information] [LazyLoad] :: MapId: 2, Name: D-terminal, Ch: 1
+2026-02-26 13:30:51.658 +00:00 [Information] [LazyLoad] :: MapId: 2, Name: D-terminal, Ch: 2
+2026-02-26 13:30:55.880 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 2, Channel: 1
+2026-02-26 13:41:51.326 +00:00 [Information] GM AccountID: 6 Tamer: hggv used Command !bits add 500000000
+2026-02-26 13:44:00.935 +00:00 [Information] Sent HatchMiniGameStart packet to player hggv
+2026-02-26 13:44:00.936 +00:00 [Information] Mini-game started for player hggv, egg ID: 8633
+2026-02-26 13:44:26.898 +00:00 [Information] [DigiEggGameInput] Player hggv clicked button: 889192961 (index: 889192960)
+2026-02-26 13:45:50.234 +00:00 [Information] [DigiEggGameComplete] Player hggv submitted minigame results. Score: 26, Time: 1716992s, Status: Cancelled
+2026-02-26 13:45:50.240 +00:00 [Information] [DigiEggGameComplete] Player hggv cancelled minigame - no bonus applied
+2026-02-26 13:47:42.347 +00:00 [Information] Received disconnection event for hggv 327 127.0.*********.
+2026-02-26 13:47:42.348 +00:00 [Information] Removing the tamer hggv 327. 127.0.*********.
+2026-02-26 13:47:42.371 +00:00 [Information] Updating character hggv 327 state upon disconnect...
