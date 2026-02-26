@@ -102,10 +102,8 @@ namespace DigitalWorldOnline.Commons.Models.Character
         /// </summary>
         public void AddSuccessBonus(double bonusPercentage)
         {
-            // Double → Decimal dönüşümü
+            // ✅ FIXED: Double → Decimal dönüşümü
             decimal bonus = (decimal)bonusPercentage;
-
-            // Başarı oranını güncelle (0-100 arasında)
             CurrentSuccessRate = Math.Min(CurrentSuccessRate + bonus, 100m);
         }
 
@@ -117,11 +115,11 @@ namespace DigitalWorldOnline.Commons.Models.Character
             // Hatch level'i artır
             HatchLevel = (byte)Math.Min(HatchLevel + levelIncrease, 100);
 
-            // Başarı oranını artır
+            // ✅ FIXED: Başarı oranını decimal olarak güncelle
             decimal bonus = (decimal)bonusPercentage;
             CurrentSuccessRate = Math.Min(CurrentSuccessRate + bonus, 100m);
 
-            // Güncelleme zamanını kaydet
+            // ✅ FIXED: Güncelleme zamanını kaydet
             LastHatchTime = DateTime.UtcNow;
         }
 
@@ -151,6 +149,20 @@ namespace DigitalWorldOnline.Commons.Models.Character
             if (CurrentSuccessRate >= 40m) return 5;
             if (CurrentSuccessRate >= 20m) return 0;
             return -5;
+        }
+
+        /// <summary>
+        /// ✅ ADDED: Final score calculation
+        /// </summary>
+        public double CalculateFinalScore()
+        {
+            // ✅ FIXED: Decimal → Double dönüşümü
+            double scoreFromRate = (double)CurrentSuccessRate * 1.5;
+            double scoreFromLevel = HatchLevel * 10.0;
+            double scoreFromMiniGames = MiniGamesPlayed * 5.0;
+
+            FinalScore = Math.Round(scoreFromRate + scoreFromLevel + scoreFromMiniGames, 2);
+            return FinalScore;
         }
     }
 }
