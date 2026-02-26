@@ -4,3 +4,8 @@
 2026-02-26 13:30:35.223 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65020.
 2026-02-26 13:30:42.310 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65020.
 2026-02-26 13:30:46.148 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65020.
+2026-02-26 14:20:35.464 +00:00 [Debug] Sending handshake for request source 127.0.0.1:59519.
+2026-02-26 14:20:35.837 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59519.
+2026-02-26 14:20:35.899 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59519.
+2026-02-26 14:20:50.522 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59519.
+2026-02-26 14:20:54.220 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59519.

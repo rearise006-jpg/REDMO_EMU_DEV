@@ -114,7 +114,7 @@ namespace DigitalWorldOnline.Game.PacketProcessors
                 _activeSessions[client.TamerId] = gameSession;
 
                 // Send game start packet with first bar timing
-                SendGameStart(client, gameSession);
+                SendGameStart(client, gameSession, stage: 0);
 
                 _logger.Information($"Mini-game started for player {client.Tamer.Name}, egg ID: {gameSession.EggId}");
 
@@ -272,13 +272,14 @@ namespace DigitalWorldOnline.Game.PacketProcessors
         /// <summary>
         /// Sends the game start packet with first bar timing
         /// </summary>
-        private void SendGameStart(GameClient client, DigiEggGameSession session)
+        private void SendGameStart(GameClient client, DigiEggGameSession session, byte stage = 0)
         {
             try
             {
-                client.Send(new HatchMiniGameStartPacket(session.BarTimings[0]).Serialize());
+                // ✅ FIXED: Added stage parameter (default 0 for normal difficulty)
+                client.Send(new HatchMiniGameStartPacket(session.BarTimings[0], stage).Serialize());
 
-                _logger.Information($"Sent HatchMiniGameStart packet to player {client.Tamer.Name}");
+                _logger.Information($"Sent HatchMiniGameStart packet to player {client.Tamer.Name} with stage {stage}");
             }
             catch (Exception ex)
             {

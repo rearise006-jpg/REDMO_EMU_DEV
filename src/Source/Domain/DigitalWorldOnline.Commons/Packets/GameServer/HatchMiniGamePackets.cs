@@ -17,11 +17,12 @@ namespace DigitalWorldOnline.Commons.Packets.GameServer
         /// Start the hatch minigame
         /// </summary>
         /// <param name="barTime">First bar charging time in milliseconds (typically 3500ms)</param>
-        public HatchMiniGameStartPacket(ushort barTime)
+        public HatchMiniGameStartPacket(ushort barTime, byte stage = 0)
         {
             Type(PacketNumber);
             WriteByte(1); // Action: Game Start
             WriteShort((short)barTime); // ✅ Changed from WriteUInt16 to WriteShort
+            WriteByte(stage);
         }
     }
 

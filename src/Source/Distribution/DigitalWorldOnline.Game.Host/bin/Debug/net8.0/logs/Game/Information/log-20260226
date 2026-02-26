@@ -21,3 +21,26 @@
 2026-02-26 13:47:42.347 +00:00 [Information] Received disconnection event for hggv 327 127.0.*********.
 2026-02-26 13:47:42.348 +00:00 [Information] Removing the tamer hggv 327. 127.0.*********.
 2026-02-26 13:47:42.371 +00:00 [Information] Updating character hggv 327 state upon disconnect...
+2026-02-26 14:19:13.982 +00:00 [Information] Services Loaded !!
+2026-02-26 14:19:14.439 +00:00 [Information] Loading database assets !!
+2026-02-26 14:19:15.675 +00:00 [Information] Loaded 18388 items from XML
+2026-02-26 14:19:18.303 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-26 14:19:20.691 +00:00 [Information] Loading additional information !!
+2026-02-26 14:19:22.488 +00:00 [Information] Loading XML assets !!
+2026-02-26 14:19:22.521 +00:00 [Information] MapObject XML loaded !!
+2026-02-26 14:19:22.539 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-26 14:20:56.347 +00:00 [Information] Adding Tamer 327:hggv to map 2 Ch 0... (Default Map)
+2026-02-26 14:20:56.425 +00:00 [Information] [AddClient] Saved last open map
+2026-02-26 14:21:03.620 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 2, Channel: 0
+2026-02-26 14:22:12.693 +00:00 [Information] Sent HatchMiniGameStart packet to player hggv with stage 0
+2026-02-26 14:22:12.696 +00:00 [Information] Mini-game started for player hggv, egg ID: 8633
+2026-02-26 14:22:29.592 +00:00 [Information] [DigiEggGameInput] Player hggv clicked button: 889192705 (index: 889192704)
+2026-02-26 14:22:55.976 +00:00 [Information] [DigiEggGameComplete] Player hggv submitted minigame results. Score: 26, Time: 68825856s, Status: Cancelled
+2026-02-26 14:22:55.978 +00:00 [Information] [DigiEggGameComplete] Player hggv cancelled minigame - no bonus applied
+2026-02-26 14:25:31.090 +00:00 [Information] [DigiEggGameComplete] Player hggv submitted minigame results. Score: 0, Time: 68825856s, Status: Cancelled
+2026-02-26 14:25:31.169 +00:00 [Information] [DigiEggGameComplete] Player hggv cancelled minigame - no bonus applied
+2026-02-26 14:26:04.468 +00:00 [Information] [DigiEggGameComplete] Player hggv submitted minigame results. Score: 0, Time: 68825856s, Status: Cancelled
+2026-02-26 14:26:04.557 +00:00 [Information] [DigiEggGameComplete] Player hggv cancelled minigame - no bonus applied
+2026-02-26 14:26:35.126 +00:00 [Information] Received disconnection event for hggv 327 127.0.*********.
+2026-02-26 14:26:35.128 +00:00 [Information] Removing the tamer hggv 327. 127.0.*********.
+2026-02-26 14:26:35.152 +00:00 [Information] Updating character hggv 327 state upon disconnect...
