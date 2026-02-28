@@ -46,5 +46,7 @@
         public int MiniGamesPlayed { get; set; } = 0;
 
         public double FinalScore { get; set; } = 0;
+
+        public DigiEggMiniGameSession? MiniGameSession { get; set; }
     }
 }

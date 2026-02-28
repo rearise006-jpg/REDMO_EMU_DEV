@@ -3,60 +3,72 @@
   "WorkspaceRootPath": "D:\\REDMO_EMU_DEV-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|d:\\redmo_emu_dev-main\\src\\source\\domain\\digitalworldonline.commons\\models\\character\\characterincubatormodelbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|solutionrelative:src\\source\\domain\\digitalworldonline.commons\\models\\character\\characterincubatormodelbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7E683CB-FC10-4192-B36A-1F5F30894262}|src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\DigitalWorldOnline.Game.csproj|d:\\redmo_emu_dev-main\\src\\source\\distribution\\digitalworldonline.game.host\\packetprocessors\\digiegggamecompletepacketprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7E683CB-FC10-4192-B36A-1F5F30894262}|src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\DigitalWorldOnline.Game.csproj|solutionrelative:src\\source\\distribution\\digitalworldonline.game.host\\packetprocessors\\digiegggamecompletepacketprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7E683CB-FC10-4192-B36A-1F5F30894262}|src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\DigitalWorldOnline.Game.csproj|d:\\redmo_emu_dev-main\\src\\source\\distribution\\digitalworldonline.game.host\\packetprocessors\\digieggminigamepacketprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7E683CB-FC10-4192-B36A-1F5F30894262}|src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\DigitalWorldOnline.Game.csproj|solutionrelative:src\\source\\distribution\\digitalworldonline.game.host\\packetprocessors\\digieggminigamepacketprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9FD08C7-54CF-468E-8D8E-360C7E30A6EB}|src\\Source\\Infra\\DigitalWorldOnline.Infrastructure\\DigitalWorldOnline.Infrastructure.csproj|d:\\redmo_emu_dev-main\\src\\source\\infra\\digitalworldonline.infrastructure\\databasecontext\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9FD08C7-54CF-468E-8D8E-360C7E30A6EB}|src\\Source\\Infra\\DigitalWorldOnline.Infrastructure\\DigitalWorldOnline.Infrastructure.csproj|solutionrelative:src\\source\\infra\\digitalworldonline.infrastructure\\databasecontext\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|d:\\redmo_emu_dev-main\\src\\source\\domain\\digitalworldonline.commons\\models\\character\\characterincubatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|solutionrelative:src\\source\\domain\\digitalworldonline.commons\\models\\character\\characterincubatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD97F5BA-6338-497B-96F6-2E566813FFB7}|src\\Source\\Distribution\\DigitalWorldOnline.Account.Host\\DigitalWorldOnline.Account.csproj|d:\\redmo_emu_dev-main\\src\\source\\distribution\\digitalworldonline.account.host\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DD97F5BA-6338-497B-96F6-2E566813FFB7}|src\\Source\\Distribution\\DigitalWorldOnline.Account.Host\\DigitalWorldOnline.Account.csproj|solutionrelative:src\\source\\distribution\\digitalworldonline.account.host\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7E683CB-FC10-4192-B36A-1F5F30894262}|src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\DigitalWorldOnline.Game.csproj|d:\\redmo_emu_dev-main\\src\\source\\distribution\\digitalworldonline.game.host\\packetprocessors\\digiegggamestartpacketprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7E683CB-FC10-4192-B36A-1F5F30894262}|src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\DigitalWorldOnline.Game.csproj|solutionrelative:src\\source\\distribution\\digitalworldonline.game.host\\packetprocessors\\digiegggamestartpacketprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7E683CB-FC10-4192-B36A-1F5F30894262}|src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\DigitalWorldOnline.Game.csproj|d:\\redmo_emu_dev-main\\src\\source\\distribution\\digitalworldonline.game.host\\packetprocessors\\digiegggametimeoutpacketprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E683CB-FC10-4192-B36A-1F5F30894262}|src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\DigitalWorldOnline.Game.csproj|solutionrelative:src\\source\\distribution\\digitalworldonline.game.host\\packetprocessors\\digiegggametimeoutpacketprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7E683CB-FC10-4192-B36A-1F5F30894262}|src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\DigitalWorldOnline.Game.csproj|d:\\redmo_emu_dev-main\\src\\source\\distribution\\digitalworldonline.game.host\\packetprocessors\\digiegggameinputpacketprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7E683CB-FC10-4192-B36A-1F5F30894262}|src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\DigitalWorldOnline.Game.csproj|solutionrelative:src\\source\\distribution\\digitalworldonline.game.host\\packetprocessors\\digiegggameinputpacketprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|d:\\redmo_emu_dev-main\\src\\source\\domain\\digitalworldonline.commons\\packets\\gameserver\\digiegggamecompletepacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|solutionrelative:src\\source\\domain\\digitalworldonline.commons\\packets\\gameserver\\digiegggamecompletepacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7E683CB-FC10-4192-B36A-1F5F30894262}|src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\DigitalWorldOnline.Game.csproj|d:\\redmo_emu_dev-main\\src\\source\\distribution\\digitalworldonline.game.host\\packetprocessors\\digiegggamestartpacketprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E683CB-FC10-4192-B36A-1F5F30894262}|src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\DigitalWorldOnline.Game.csproj|solutionrelative:src\\source\\distribution\\digitalworldonline.game.host\\packetprocessors\\digiegggamestartpacketprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|d:\\redmo_emu_dev-main\\src\\source\\domain\\digitalworldonline.commons\\packets\\gameserver\\digiegggamestartpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|solutionrelative:src\\source\\domain\\digitalworldonline.commons\\packets\\gameserver\\digiegggamestartpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|d:\\redmo_emu_dev-main\\src\\source\\domain\\digitalworldonline.commons\\packets\\gameserver\\hatchminigametimeoutpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|solutionrelative:src\\source\\domain\\digitalworldonline.commons\\packets\\gameserver\\hatchminigametimeoutpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|d:\\redmo_emu_dev-main\\src\\source\\domain\\digitalworldonline.commons\\packets\\gameserver\\digiegggameinputpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|solutionrelative:src\\source\\domain\\digitalworldonline.commons\\packets\\gameserver\\digiegggameinputpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|d:\\redmo_emu_dev-main\\src\\source\\domain\\digitalworldonline.commons\\packets\\gameserver\\hatchminigameclickpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|solutionrelative:src\\source\\domain\\digitalworldonline.commons\\packets\\gameserver\\hatchminigameclickpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|d:\\redmo_emu_dev-main\\src\\source\\domain\\digitalworldonline.commons\\packets\\gameserver\\hatchminigamestartpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|solutionrelative:src\\source\\domain\\digitalworldonline.commons\\packets\\gameserver\\hatchminigamestartpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E683CB-FC10-4192-B36A-1F5F30894262}|src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\DigitalWorldOnline.Game.csproj|d:\\redmo_emu_dev-main\\src\\source\\distribution\\digitalworldonline.game.host\\packetprocessors\\digiegggamecompletepacketprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E683CB-FC10-4192-B36A-1F5F30894262}|src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\DigitalWorldOnline.Game.csproj|solutionrelative:src\\source\\distribution\\digitalworldonline.game.host\\packetprocessors\\digiegggamecompletepacketprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|d:\\redmo_emu_dev-main\\src\\source\\domain\\digitalworldonline.commons\\models\\character\\characterincubatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|solutionrelative:src\\source\\domain\\digitalworldonline.commons\\models\\character\\characterincubatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|d:\\redmo_emu_dev-main\\src\\source\\domain\\digitalworldonline.commons\\models\\character\\digieggminigamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|solutionrelative:src\\source\\domain\\digitalworldonline.commons\\models\\character\\digieggminigamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FD08C7-54CF-468E-8D8E-360C7E30A6EB}|src\\Source\\Infra\\DigitalWorldOnline.Infrastructure\\DigitalWorldOnline.Infrastructure.csproj|d:\\redmo_emu_dev-main\\src\\source\\infra\\digitalworldonline.infrastructure\\databasecontext\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FD08C7-54CF-468E-8D8E-360C7E30A6EB}|src\\Source\\Infra\\DigitalWorldOnline.Infrastructure\\DigitalWorldOnline.Infrastructure.csproj|solutionrelative:src\\source\\infra\\digitalworldonline.infrastructure\\databasecontext\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E683CB-FC10-4192-B36A-1F5F30894262}|src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\DigitalWorldOnline.Game.csproj|d:\\redmo_emu_dev-main\\src\\source\\distribution\\digitalworldonline.game.host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E683CB-FC10-4192-B36A-1F5F30894262}|src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\DigitalWorldOnline.Game.csproj|solutionrelative:src\\source\\distribution\\digitalworldonline.game.host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E683CB-FC10-4192-B36A-1F5F30894262}|src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\DigitalWorldOnline.Game.csproj|d:\\redmo_emu_dev-main\\src\\source\\distribution\\digitalworldonline.game.host\\packetprocessors\\digiegggamelimitpacketprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E683CB-FC10-4192-B36A-1F5F30894262}|src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\DigitalWorldOnline.Game.csproj|solutionrelative:src\\source\\distribution\\digitalworldonline.game.host\\packetprocessors\\digiegggamelimitpacketprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|d:\\redmo_emu_dev-main\\src\\source\\domain\\digitalworldonline.commons\\packets\\gameserver\\hatchminigamelimitpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|solutionrelative:src\\source\\domain\\digitalworldonline.commons\\packets\\gameserver\\hatchminigamelimitpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|d:\\redmo_emu_dev-main\\src\\source\\domain\\digitalworldonline.commons\\packets\\gameserver\\hatchminigameendpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|solutionrelative:src\\source\\domain\\digitalworldonline.commons\\packets\\gameserver\\hatchminigameendpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7E683CB-FC10-4192-B36A-1F5F30894262}|src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\DigitalWorldOnline.Game.csproj|d:\\redmo_emu_dev-main\\src\\source\\distribution\\digitalworldonline.game.host\\gamepacketreaderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7E683CB-FC10-4192-B36A-1F5F30894262}|src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\DigitalWorldOnline.Game.csproj|solutionrelative:src\\source\\distribution\\digitalworldonline.game.host\\gamepacketreaderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|d:\\redmo_emu_dev-main\\src\\source\\domain\\digitalworldonline.commons\\packets\\gameserver\\hatchminigamepackets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|solutionrelative:src\\source\\domain\\digitalworldonline.commons\\packets\\gameserver\\hatchminigamepackets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|d:\\redmo_emu_dev-main\\src\\source\\domain\\digitalworldonline.commons\\models\\character\\characterincubatormodelbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|solutionrelative:src\\source\\domain\\digitalworldonline.commons\\models\\character\\characterincubatormodelbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|d:\\redmo_emu_dev-main\\src\\source\\domain\\digitalworldonline.commons\\enums\\clientenums\\hatchminigameenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B835F7D-C610-44D7-9EEC-F06E1CCA72E3}|src\\Source\\Domain\\DigitalWorldOnline.Commons\\DigitalWorldOnline.Commons.csproj|solutionrelative:src\\source\\domain\\digitalworldonline.commons\\enums\\clientenums\\hatchminigameenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD97F5BA-6338-497B-96F6-2E566813FFB7}|src\\Source\\Distribution\\DigitalWorldOnline.Account.Host\\DigitalWorldOnline.Account.csproj|d:\\redmo_emu_dev-main\\src\\source\\distribution\\digitalworldonline.account.host\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD97F5BA-6338-497B-96F6-2E566813FFB7}|src\\Source\\Distribution\\DigitalWorldOnline.Account.Host\\DigitalWorldOnline.Account.csproj|solutionrelative:src\\source\\distribution\\digitalworldonline.account.host\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,87 +78,197 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DatabaseContext.cs",
-              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Infra\\DigitalWorldOnline.Infrastructure\\DatabaseContext\\DatabaseContext.cs",
-              "RelativeDocumentMoniker": "src\\Source\\Infra\\DigitalWorldOnline.Infrastructure\\DatabaseContext\\DatabaseContext.cs",
-              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Infra\\DigitalWorldOnline.Infrastructure\\DatabaseContext\\DatabaseContext.cs",
-              "RelativeToolTip": "src\\Source\\Infra\\DigitalWorldOnline.Infrastructure\\DatabaseContext\\DatabaseContext.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAABwAAACJAAAAAAAAAA==",
+              "Title": "HatchMiniGameTimeOutPacket.cs",
+              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\HatchMiniGameTimeOutPacket.cs",
+              "RelativeDocumentMoniker": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\HatchMiniGameTimeOutPacket.cs",
+              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\HatchMiniGameTimeOutPacket.cs",
+              "RelativeToolTip": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\HatchMiniGameTimeOutPacket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T20:20:34.541Z",
+              "WhenOpened": "2026-02-28T18:43:21.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DigiEggGameCompletePacketProcessor.cs",
-              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameCompletePacketProcessor.cs",
-              "RelativeDocumentMoniker": "src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameCompletePacketProcessor.cs",
-              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameCompletePacketProcessor.cs",
-              "RelativeToolTip": "src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameCompletePacketProcessor.cs",
-              "ViewState": "AgIAANQAAAAAAAAAAAA9wOEAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T19:25:16.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DigiEggGameStartPacketProcessor.cs",
-              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameStartPacketProcessor.cs",
-              "RelativeDocumentMoniker": "src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameStartPacketProcessor.cs",
-              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameStartPacketProcessor.cs",
-              "RelativeToolTip": "src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameStartPacketProcessor.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAKoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T19:24:27.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "DigiEggGameInputPacketProcessor.cs",
               "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameInputPacketProcessor.cs",
               "RelativeDocumentMoniker": "src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameInputPacketProcessor.cs",
               "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameInputPacketProcessor.cs",
               "RelativeToolTip": "src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameInputPacketProcessor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAANIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwDsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T19:23:41.714Z"
+              "WhenOpened": "2026-02-28T18:48:55.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HatchMiniGameClickPacket.cs",
+              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\HatchMiniGameClickPacket.cs",
+              "RelativeDocumentMoniker": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\HatchMiniGameClickPacket.cs",
+              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\HatchMiniGameClickPacket.cs",
+              "RelativeToolTip": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\HatchMiniGameClickPacket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T18:41:58.966Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DigiEggMiniGamePacketProcessor.cs",
-              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggMiniGamePacketProcessor.cs",
-              "RelativeDocumentMoniker": "src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggMiniGamePacketProcessor.cs",
-              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggMiniGamePacketProcessor.cs",
-              "RelativeToolTip": "src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggMiniGamePacketProcessor.cs",
-              "ViewState": "AgIAAO0AAAAAAAAAAAAuwFQBAAABAAAAAAAAAA==",
+              "Title": "DigiEggGameStartPacketProcessor.cs",
+              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameStartPacketProcessor.cs",
+              "RelativeDocumentMoniker": "src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameStartPacketProcessor.cs",
+              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameStartPacketProcessor.cs",
+              "RelativeToolTip": "src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameStartPacketProcessor.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwC4AAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T18:39:28.903Z",
+              "WhenOpened": "2026-02-28T18:47:34.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CharacterIncubatorModelBehavior.cs",
-              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Models\\Character\\CharacterIncubatorModelBehavior.cs",
-              "RelativeDocumentMoniker": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Models\\Character\\CharacterIncubatorModelBehavior.cs",
-              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Models\\Character\\CharacterIncubatorModelBehavior.cs",
-              "RelativeToolTip": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Models\\Character\\CharacterIncubatorModelBehavior.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAAJsAAAABAAAAAAAAAA==",
+              "Title": "DigiEggGameTimeoutPacketProcessor.cs",
+              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameTimeoutPacketProcessor.cs",
+              "RelativeDocumentMoniker": "src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameTimeoutPacketProcessor.cs",
+              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameTimeoutPacketProcessor.cs",
+              "RelativeToolTip": "src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameTimeoutPacketProcessor.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwC4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T19:04:37.459Z",
+              "WhenOpened": "2026-02-28T18:50:23.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "HatchMiniGameStartPacket.cs",
+              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\HatchMiniGameStartPacket.cs",
+              "RelativeDocumentMoniker": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\HatchMiniGameStartPacket.cs",
+              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\HatchMiniGameStartPacket.cs",
+              "RelativeToolTip": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\HatchMiniGameStartPacket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T18:40:31.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DigiEggMiniGameSession.cs",
+              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Models\\Character\\DigiEggMiniGameSession.cs",
+              "RelativeDocumentMoniker": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Models\\Character\\DigiEggMiniGameSession.cs",
+              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Models\\Character\\DigiEggMiniGameSession.cs",
+              "RelativeToolTip": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Models\\Character\\DigiEggMiniGameSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T19:41:46.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DigiEggGameCompletePacketProcessor.cs",
+              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameCompletePacketProcessor.cs",
+              "RelativeDocumentMoniker": "src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameCompletePacketProcessor.cs",
+              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameCompletePacketProcessor.cs",
+              "RelativeToolTip": "src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameCompletePacketProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T18:51:55.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CharacterIncubatorModel.cs",
+              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Models\\Character\\CharacterIncubatorModel.cs",
+              "RelativeDocumentMoniker": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Models\\Character\\CharacterIncubatorModel.cs",
+              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Models\\Character\\CharacterIncubatorModel.cs",
+              "RelativeToolTip": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Models\\Character\\CharacterIncubatorModel.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T19:56:37.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DigiEggGameLimitPacketProcessor.cs",
+              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameLimitPacketProcessor.cs",
+              "RelativeDocumentMoniker": "src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameLimitPacketProcessor.cs",
+              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameLimitPacketProcessor.cs",
+              "RelativeToolTip": "src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\PacketProcessors\\DigiEggGameLimitPacketProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T18:53:37.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\Program.cs",
+              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\Program.cs",
+              "RelativeToolTip": "src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\Program.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAHkAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T18:54:17.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Infra\\DigitalWorldOnline.Infrastructure\\DatabaseContext\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "src\\Source\\Infra\\DigitalWorldOnline.Infrastructure\\DatabaseContext\\DatabaseContext.cs",
+              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Infra\\DigitalWorldOnline.Infrastructure\\DatabaseContext\\DatabaseContext.cs",
+              "RelativeToolTip": "src\\Source\\Infra\\DigitalWorldOnline.Infrastructure\\DatabaseContext\\DatabaseContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T20:20:34.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HatchMiniGameLimitPacket.cs",
+              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\HatchMiniGameLimitPacket.cs",
+              "RelativeDocumentMoniker": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\HatchMiniGameLimitPacket.cs",
+              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\HatchMiniGameLimitPacket.cs",
+              "RelativeToolTip": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\HatchMiniGameLimitPacket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T18:46:01.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HatchMiniGameEndPacket.cs",
+              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\HatchMiniGameEndPacket.cs",
+              "RelativeDocumentMoniker": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\HatchMiniGameEndPacket.cs",
+              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\HatchMiniGameEndPacket.cs",
+              "RelativeToolTip": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\HatchMiniGameEndPacket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T18:44:42.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CharacterIncubatorModelBehavior.cs",
+              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Models\\Character\\CharacterIncubatorModelBehavior.cs",
+              "RelativeDocumentMoniker": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Models\\Character\\CharacterIncubatorModelBehavior.cs",
+              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Models\\Character\\CharacterIncubatorModelBehavior.cs",
+              "RelativeToolTip": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Models\\Character\\CharacterIncubatorModelBehavior.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAqwJsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T19:04:37.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Distribution\\DigitalWorldOnline.Account.Host\\appsettings.Development.json",
               "RelativeDocumentMoniker": "src\\Source\\Distribution\\DigitalWorldOnline.Account.Host\\appsettings.Development.json",
@@ -158,55 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CharacterIncubatorModel.cs",
-              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Models\\Character\\CharacterIncubatorModel.cs",
-              "RelativeDocumentMoniker": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Models\\Character\\CharacterIncubatorModel.cs",
-              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Models\\Character\\CharacterIncubatorModel.cs",
-              "RelativeToolTip": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Models\\Character\\CharacterIncubatorModel.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T19:56:37.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DigiEggGameCompletePacket.cs",
-              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\DigiEggGameCompletePacket.cs",
-              "RelativeDocumentMoniker": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\DigiEggGameCompletePacket.cs",
-              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\DigiEggGameCompletePacket.cs",
-              "RelativeToolTip": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\DigiEggGameCompletePacket.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAcwFAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T19:22:17.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DigiEggGameStartPacket.cs",
-              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\DigiEggGameStartPacket.cs",
-              "RelativeDocumentMoniker": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\DigiEggGameStartPacket.cs",
-              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\DigiEggGameStartPacket.cs",
-              "RelativeToolTip": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\DigiEggGameStartPacket.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAcwDcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T19:21:25.388Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DigiEggGameInputPacket.cs",
-              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\DigiEggGameInputPacket.cs",
-              "RelativeDocumentMoniker": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\DigiEggGameInputPacket.cs",
-              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\DigiEggGameInputPacket.cs",
-              "RelativeToolTip": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\DigiEggGameInputPacket.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAcwDIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T19:20:24.133Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "GamePacketReaderExtensions.cs",
               "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\GamePacketReaderExtensions.cs",
               "RelativeDocumentMoniker": "src\\Source\\Distribution\\DigitalWorldOnline.Game.Host\\GamePacketReaderExtensions.cs",
@@ -215,30 +289,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T19:16:25.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HatchMiniGamePackets.cs",
-              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\HatchMiniGamePackets.cs",
-              "RelativeDocumentMoniker": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\HatchMiniGamePackets.cs",
-              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\HatchMiniGamePackets.cs",
-              "RelativeToolTip": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Packets\\GameServer\\HatchMiniGamePackets.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAAAH8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T18:37:19.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HatchMiniGameEnum.cs",
-              "DocumentMoniker": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Enums\\ClientEnums\\HatchMiniGameEnum.cs",
-              "RelativeDocumentMoniker": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Enums\\ClientEnums\\HatchMiniGameEnum.cs",
-              "ToolTip": "D:\\REDMO_EMU_DEV-main\\src\\Source\\Domain\\DigitalWorldOnline.Commons\\Enums\\ClientEnums\\HatchMiniGameEnum.cs",
-              "RelativeToolTip": "src\\Source\\Domain\\DigitalWorldOnline.Commons\\Enums\\ClientEnums\\HatchMiniGameEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T18:34:48.493Z"
             }
           ]
         }

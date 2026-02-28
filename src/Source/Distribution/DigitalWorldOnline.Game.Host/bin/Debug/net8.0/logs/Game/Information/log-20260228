@@ -1,0 +1,159 @@
+2026-02-28 19:18:47.693 +00:00 [Information] Services Loaded !!
+2026-02-28 19:18:48.182 +00:00 [Information] Loading database assets !!
+2026-02-28 19:18:49.499 +00:00 [Information] Loaded 18388 items from XML
+2026-02-28 19:18:52.229 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-28 19:18:54.780 +00:00 [Information] Loading additional information !!
+2026-02-28 19:18:56.677 +00:00 [Information] Loading XML assets !!
+2026-02-28 19:18:56.840 +00:00 [Information] MapObject XML loaded !!
+2026-02-28 19:18:56.867 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-28 19:21:08.438 +00:00 [Information] Adding Tamer 327:hggv to map 2 Ch 0... (Default Map)
+2026-02-28 19:21:08.493 +00:00 [Information] [AddClient] Saved last open map
+2026-02-28 19:21:09.685 +00:00 [Information] [LazyLoad] :: MapId: 2, Name: D-terminal, Ch: 0
+2026-02-28 19:21:09.688 +00:00 [Information] [LazyLoad] :: MapId: 2, Name: D-terminal, Ch: 1
+2026-02-28 19:21:09.691 +00:00 [Information] [LazyLoad] :: MapId: 2, Name: D-terminal, Ch: 2
+2026-02-28 19:21:11.998 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 2, Channel: 0
+2026-02-28 19:22:17.437 +00:00 [Information] [DigiEggGameStart] Player hggv requested mini-game start (stage=1, reserved=1717248).
+2026-02-28 19:22:29.736 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 19:22:40.273 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 19:23:02.313 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 19:23:12.089 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 19:23:24.281 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 19:23:32.968 +00:00 [Information] [DigiEggGameComplete] Player hggv completed mini-game. Score=890911488, Time=295604800639205402, Status=0
+2026-02-28 19:25:34.549 +00:00 [Information] [DigiEggGameStart] Player hggv requested mini-game start (stage=1, reserved=1717248).
+2026-02-28 19:25:46.799 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 19:26:06.040 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 19:26:22.938 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 19:26:38.580 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 19:26:54.290 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 19:27:09.979 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 19:27:25.683 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 19:27:25.775 +00:00 [Information] [DigiEggGameComplete] Player hggv completed mini-game. Score=890911489, Time=295604800639205402, Status=0
+2026-02-28 19:27:37.590 +00:00 [Information] [DigiEggGameComplete] Player hggv completed mini-game. Score=890911488, Time=295604800639205402, Status=0
+2026-02-28 19:28:28.740 +00:00 [Information] Received disconnection event for hggv 327 127.0.*********.
+2026-02-28 19:28:28.741 +00:00 [Information] Removing the tamer hggv 327. 127.0.*********.
+2026-02-28 19:28:28.764 +00:00 [Information] Updating character hggv 327 state upon disconnect...
+2026-02-28 20:09:59.415 +00:00 [Information] Services Loaded !!
+2026-02-28 20:09:59.886 +00:00 [Information] Loading database assets !!
+2026-02-28 20:10:01.542 +00:00 [Information] Loaded 18388 items from XML
+2026-02-28 20:10:04.723 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-28 20:10:07.679 +00:00 [Information] Loading additional information !!
+2026-02-28 20:10:09.801 +00:00 [Information] Loading XML assets !!
+2026-02-28 20:10:09.833 +00:00 [Information] MapObject XML loaded !!
+2026-02-28 20:10:09.851 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-28 20:11:39.637 +00:00 [Information] Adding Tamer 327:hggv to map 2 Ch 1... (Default Map)
+2026-02-28 20:11:39.680 +00:00 [Information] [AddClient] Saved last open map
+2026-02-28 20:11:46.908 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 2, Channel: 1
+2026-02-28 20:11:47.526 +00:00 [Information] Client Option | 0
+2026-02-28 20:12:51.340 +00:00 [Information] [DigiEggGameStart] Player hggv requested mini-game start (stage=1, reserved=1717248).
+2026-02-28 20:13:37.091 +00:00 [Information] [DigiEggGameComplete] Player hggv completed mini-game. ServerScore=0, ClientScore=890911488, Status(server)=1
+2026-02-28 20:14:11.301 +00:00 [Information] [DigiEggGameStart] Player hggv requested mini-game start (stage=1, reserved=1717248).
+2026-02-28 20:14:23.625 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 20:14:23.683 +00:00 [Information] [DigiEggGameTimeout] Advancing session for hggv (Expected was 0)
+2026-02-28 20:14:53.879 +00:00 [Information] [DigiEggGameComplete] Player hggv completed mini-game. ServerScore=0, ClientScore=890911488, Status(server)=1
+2026-02-28 20:15:19.191 +00:00 [Information] Received disconnection event for hggv 327 127.0.*********.
+2026-02-28 20:15:19.193 +00:00 [Information] Removing the tamer hggv 327. 127.0.*********.
+2026-02-28 20:15:19.214 +00:00 [Information] Updating character hggv 327 state upon disconnect...
+2026-02-28 20:28:09.119 +00:00 [Information] Services Loaded !!
+2026-02-28 20:28:09.686 +00:00 [Information] Loading database assets !!
+2026-02-28 20:28:11.439 +00:00 [Information] Loaded 18388 items from XML
+2026-02-28 20:28:14.636 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-28 20:28:18.261 +00:00 [Information] Loading additional information !!
+2026-02-28 20:28:21.305 +00:00 [Information] Loading XML assets !!
+2026-02-28 20:28:21.350 +00:00 [Information] MapObject XML loaded !!
+2026-02-28 20:28:21.379 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-28 20:30:04.257 +00:00 [Information] Adding Tamer 327:hggv to map 2 Ch 1... (Default Map)
+2026-02-28 20:30:04.310 +00:00 [Information] [AddClient] Saved last open map
+2026-02-28 20:30:04.312 +00:00 [Information] [LazyLoad] :: MapId: 2, Name: D-terminal, Ch: 0
+2026-02-28 20:30:04.314 +00:00 [Information] [LazyLoad] :: MapId: 2, Name: D-terminal, Ch: 1
+2026-02-28 20:30:04.317 +00:00 [Information] [LazyLoad] :: MapId: 2, Name: D-terminal, Ch: 2
+2026-02-28 20:30:07.813 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 2, Channel: 1
+2026-02-28 20:31:29.240 +00:00 [Information] [DigiEggGameStart] Player hggv requested mini-game start (stage=1, reserved=1717248).
+2026-02-28 20:32:03.156 +00:00 [Information] [DigiEggGameComplete] Player hggv completed mini-game. ServerScore=0, ClientScore=890911488, Status(server)=2
+2026-02-28 20:33:56.292 +00:00 [Information] [DigiEggGameStart] Player hggv requested mini-game start (stage=1, reserved=1717248).
+2026-02-28 20:34:08.587 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 20:34:08.648 +00:00 [Information] [DigiEggGameTimeout] Advancing session for hggv (Expected was 0)
+2026-02-28 20:34:54.048 +00:00 [Information] [DigiEggGameComplete] Player hggv completed mini-game. ServerScore=0, ClientScore=890911488, Status(server)=2
+2026-02-28 20:35:23.522 +00:00 [Information] Received disconnection event for hggv 327 127.0.*********.
+2026-02-28 20:35:23.524 +00:00 [Information] Removing the tamer hggv 327. 127.0.*********.
+2026-02-28 20:35:23.555 +00:00 [Information] Updating character hggv 327 state upon disconnect...
+2026-02-28 20:48:02.459 +00:00 [Information] Services Loaded !!
+2026-02-28 20:48:02.920 +00:00 [Information] Loading database assets !!
+2026-02-28 20:48:04.238 +00:00 [Information] Loaded 18388 items from XML
+2026-02-28 20:48:07.027 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-28 20:48:10.071 +00:00 [Information] Loading additional information !!
+2026-02-28 20:48:12.290 +00:00 [Information] Loading XML assets !!
+2026-02-28 20:48:12.329 +00:00 [Information] MapObject XML loaded !!
+2026-02-28 20:48:12.354 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-28 20:50:16.294 +00:00 [Information] Adding Tamer 327:hggv to map 2 Ch 1... (Default Map)
+2026-02-28 20:50:16.341 +00:00 [Information] [AddClient] Saved last open map
+2026-02-28 20:50:17.103 +00:00 [Information] [LazyLoad] :: MapId: 2, Name: D-terminal, Ch: 0
+2026-02-28 20:50:17.106 +00:00 [Information] [LazyLoad] :: MapId: 2, Name: D-terminal, Ch: 1
+2026-02-28 20:50:17.109 +00:00 [Information] [LazyLoad] :: MapId: 2, Name: D-terminal, Ch: 2
+2026-02-28 20:50:19.353 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 2, Channel: 1
+2026-02-28 20:51:44.961 +00:00 [Information] [DigiEggGameStart] Player hggv requested mini-game start (stage=1, reserved=1717248).
+2026-02-28 20:52:38.864 +00:00 [Information] [DigiEggGameComplete] Player hggv completed mini-game. ServerScore=0, ClientScore=890911488, Status(server)=2
+2026-02-28 20:53:16.317 +00:00 [Information] Received disconnection event for hggv 327 127.0.*********.
+2026-02-28 20:53:16.318 +00:00 [Information] Removing the tamer hggv 327. 127.0.*********.
+2026-02-28 20:53:16.340 +00:00 [Information] Updating character hggv 327 state upon disconnect...
+2026-02-28 21:22:52.456 +00:00 [Information] Services Loaded !!
+2026-02-28 21:22:52.904 +00:00 [Information] Loading database assets !!
+2026-02-28 21:22:54.187 +00:00 [Information] Loaded 18388 items from XML
+2026-02-28 21:22:56.820 +00:00 [Information] Monster skill and info loaded from XML successfully.
+2026-02-28 21:22:59.346 +00:00 [Information] Loading additional information !!
+2026-02-28 21:23:01.219 +00:00 [Information] Loading XML assets !!
+2026-02-28 21:23:01.252 +00:00 [Information] MapObject XML loaded !!
+2026-02-28 21:23:01.270 +00:00 [Information] InfiniteWar_RankRewardItems.xml XML loaded !!
+2026-02-28 21:25:33.536 +00:00 [Information] Adding Tamer 327:hggv to map 2 Ch 0... (Default Map)
+2026-02-28 21:25:33.578 +00:00 [Information] [AddClient] Saved last open map
+2026-02-28 21:25:35.151 +00:00 [Information] [LazyLoad] :: MapId: 2, Name: D-terminal, Ch: 0
+2026-02-28 21:25:35.158 +00:00 [Information] [LazyLoad] :: MapId: 2, Name: D-terminal, Ch: 1
+2026-02-28 21:25:35.160 +00:00 [Information] [LazyLoad] :: MapId: 2, Name: D-terminal, Ch: 2
+2026-02-28 21:25:36.582 +00:00 [Information] [EnsureConsignedShopsLoaded] Shops loaded for MapId: 2, Channel: 0
+2026-02-28 21:29:08.836 +00:00 [Information] [DigiEggGameStart] Player hggv requested mini-game start (stage=1, reserved=1717248).
+2026-02-28 21:29:12.854 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 21:29:12.967 +00:00 [Information] [DigiEggGameTimeout] Advancing session for hggv (Expected was 0)
+2026-02-28 21:29:15.406 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 21:29:15.513 +00:00 [Information] [DigiEggGameTimeout] Advancing session for hggv (Expected was 1)
+2026-02-28 21:29:18.020 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 21:29:18.119 +00:00 [Information] [DigiEggGameTimeout] Advancing session for hggv (Expected was 2)
+2026-02-28 21:29:20.614 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 21:29:20.738 +00:00 [Information] [DigiEggGameTimeout] Advancing session for hggv (Expected was 3)
+2026-02-28 21:29:23.245 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 21:29:23.353 +00:00 [Information] [DigiEggGameTimeout] Advancing session for hggv (Expected was 4)
+2026-02-28 21:29:25.822 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 21:29:25.947 +00:00 [Information] [DigiEggGameTimeout] Advancing session for hggv (Expected was 5)
+2026-02-28 21:29:29.980 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 21:29:30.106 +00:00 [Information] [DigiEggGameTimeout] Advancing session for hggv (Expected was 6)
+2026-02-28 21:33:05.250 +00:00 [Information] [DigiEggGameStart] Player hggv requested mini-game start (stage=1, reserved=1717248).
+2026-02-28 21:33:09.191 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 21:33:09.307 +00:00 [Information] [DigiEggGameTimeout] Advancing session for hggv (Expected was 0)
+2026-02-28 21:33:11.751 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 21:33:11.787 +00:00 [Information] [DigiEggGameTimeout] Advancing session for hggv (Expected was 1)
+2026-02-28 21:33:14.298 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 21:33:14.411 +00:00 [Information] [DigiEggGameTimeout] Advancing session for hggv (Expected was 2)
+2026-02-28 21:33:16.884 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 21:33:16.921 +00:00 [Information] [DigiEggGameTimeout] Advancing session for hggv (Expected was 3)
+2026-02-28 21:33:20.655 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 21:33:20.657 +00:00 [Information] [DigiEggGameTimeout] Advancing session for hggv (Expected was 4)
+2026-02-28 21:33:23.258 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 21:33:23.374 +00:00 [Information] [DigiEggGameTimeout] Advancing session for hggv (Expected was 5)
+2026-02-28 21:33:27.832 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 21:33:27.894 +00:00 [Information] [DigiEggGameTimeout] Advancing session for hggv (Expected was 6)
+2026-02-28 21:35:38.877 +00:00 [Information] [DigiEggGameStart] Player hggv requested mini-game start (stage=1, reserved=1717248).
+2026-02-28 21:35:42.960 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 21:35:43.024 +00:00 [Information] [DigiEggGameTimeout] Advancing session for hggv (Expected was 0)
+2026-02-28 21:35:45.574 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 21:35:45.684 +00:00 [Information] [DigiEggGameTimeout] Advancing session for hggv (Expected was 1)
+2026-02-28 21:35:48.144 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 21:35:48.260 +00:00 [Information] [DigiEggGameTimeout] Advancing session for hggv (Expected was 2)
+2026-02-28 21:35:52.069 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 21:35:52.185 +00:00 [Information] [DigiEggGameTimeout] Advancing session for hggv (Expected was 3)
+2026-02-28 21:35:57.254 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 21:35:57.368 +00:00 [Information] [DigiEggGameTimeout] Advancing session for hggv (Expected was 4)
+2026-02-28 21:35:59.814 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 21:35:59.815 +00:00 [Information] [DigiEggGameTimeout] Advancing session for hggv (Expected was 5)
+2026-02-28 21:36:02.436 +00:00 [Information] [DigiEggGameTimeout] Player hggv mini-game timeout.
+2026-02-28 21:36:02.551 +00:00 [Information] [DigiEggGameTimeout] Advancing session for hggv (Expected was 6)
+2026-02-28 21:37:22.309 +00:00 [Information] Received disconnection event for hggv 327 127.0.*********.
+2026-02-28 21:37:22.310 +00:00 [Information] Removing the tamer hggv 327. 127.0.*********.
+2026-02-28 21:37:22.332 +00:00 [Information] Updating character hggv 327 state upon disconnect...

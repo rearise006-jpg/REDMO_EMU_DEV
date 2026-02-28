@@ -1,0 +1,265 @@
+2026-02-28 19:21:06.707 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:21:06.712 +00:00 [Debug] Getting packet parameters...
+2026-02-28 19:21:06.713 +00:00 [Debug] Kind: 0
+2026-02-28 19:21:06.713 +00:00 [Debug] Sending answer 15971, 1772306466
+2026-02-28 19:21:06.718 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:21:12.614 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:21:12.629 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:21:12.631 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:21:12.644 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:21:12.645 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:21:26.826 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:21:40.222 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:21:53.654 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:21:55.965 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:22:10.405 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:22:17.436 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:22:29.735 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:22:32.953 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:22:32.956 +00:00 [Debug] [DigiEggGameInput] Player hggv clicked action=889192705 raw=26
+2026-02-28 19:22:40.272 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:22:44.777 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:22:44.777 +00:00 [Debug] [DigiEggGameInput] Player hggv clicked action=889192961 raw=26
+2026-02-28 19:22:51.805 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:22:51.805 +00:00 [Debug] [DigiEggGameInput] Player hggv clicked action=889192961 raw=26
+2026-02-28 19:22:55.022 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:22:55.022 +00:00 [Debug] [DigiEggGameInput] Player hggv clicked action=889192961 raw=26
+2026-02-28 19:23:02.313 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:23:04.795 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:23:04.795 +00:00 [Debug] [DigiEggGameInput] Player hggv clicked action=889193217 raw=26
+2026-02-28 19:23:12.089 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:23:17.029 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:23:17.029 +00:00 [Debug] [DigiEggGameInput] Player hggv clicked action=889193473 raw=26
+2026-02-28 19:23:24.281 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:23:32.965 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:23:47.440 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:23:48.454 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:24:04.173 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:24:17.555 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:24:31.011 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:24:44.418 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:24:57.777 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:25:13.837 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:25:27.823 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:25:34.548 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:25:46.799 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:25:58.816 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:25:58.816 +00:00 [Debug] [DigiEggGameInput] Player hggv clicked action=889192705 raw=26
+2026-02-28 19:26:06.040 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:26:12.677 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:26:15.656 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:26:15.656 +00:00 [Debug] [DigiEggGameInput] Player hggv clicked action=889192961 raw=26
+2026-02-28 19:26:22.927 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:26:38.158 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:26:38.580 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:26:54.290 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:27:08.390 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:27:09.979 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:27:25.148 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:27:25.683 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:27:25.774 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:27:37.590 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:27:51.941 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:27:51.978 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:27:52.209 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:28:06.534 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 19:28:22.229 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:57581.
+2026-02-28 20:11:38.441 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:11:38.445 +00:00 [Debug] Getting packet parameters...
+2026-02-28 20:11:38.446 +00:00 [Debug] Kind: 0
+2026-02-28 20:11:38.446 +00:00 [Debug] Sending answer 13755, 1772309498
+2026-02-28 20:11:38.452 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:11:47.506 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:11:47.522 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:11:47.523 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:11:47.525 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:11:47.537 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:11:47.539 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:12:01.876 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:12:15.305 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:12:18.597 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:12:32.109 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:12:45.496 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:12:51.339 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:13:00.871 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:13:00.872 +00:00 [Debug] [DigiEggGameInput] Player hggv clicked button: 26 (index: 5)
+2026-02-28 20:13:15.639 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:13:29.077 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:13:36.829 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:13:47.279 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:13:59.364 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:14:11.300 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:14:23.624 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:14:29.147 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:14:29.147 +00:00 [Debug] [DigiEggGameInput] Player hggv clicked button: 26 (index: 5)
+2026-02-28 20:14:42.847 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:14:53.877 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:15:09.583 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:51036.
+2026-02-28 20:30:02.996 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:30:03.000 +00:00 [Debug] Getting packet parameters...
+2026-02-28 20:30:03.001 +00:00 [Debug] Kind: 0
+2026-02-28 20:30:03.001 +00:00 [Debug] Sending answer 11787, 1772310603
+2026-02-28 20:30:03.007 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:30:08.418 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:30:08.433 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:30:08.443 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:30:08.449 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:30:08.450 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:30:23.118 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:30:37.742 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:30:47.548 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:31:01.171 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:31:14.682 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:31:17.253 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:31:29.238 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:31:38.691 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:31:38.693 +00:00 [Debug] [DigiEggGameInput] Player hggv clicked button: 26 (index: 5)
+2026-02-28 20:31:54.863 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:32:03.147 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:32:18.369 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:32:31.785 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:32:45.273 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:32:58.674 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:33:07.999 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:33:22.172 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:33:35.615 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:33:37.209 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:33:52.322 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:33:56.292 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:34:08.585 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:34:21.116 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:34:21.131 +00:00 [Debug] [DigiEggGameInput] Player hggv clicked button: 26 (index: 5)
+2026-02-28 20:34:35.882 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:34:49.302 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:34:54.043 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:35:04.635 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:35:08.516 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:35:22.808 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:59335.
+2026-02-28 20:50:15.033 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65125.
+2026-02-28 20:50:15.037 +00:00 [Debug] Getting packet parameters...
+2026-02-28 20:50:15.037 +00:00 [Debug] Kind: 0
+2026-02-28 20:50:15.038 +00:00 [Debug] Sending answer 11079, 1772311815
+2026-02-28 20:50:15.045 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65125.
+2026-02-28 20:50:19.970 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65125.
+2026-02-28 20:50:19.986 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65125.
+2026-02-28 20:50:19.987 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65125.
+2026-02-28 20:50:20.001 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65125.
+2026-02-28 20:50:20.002 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65125.
+2026-02-28 20:50:31.956 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65125.
+2026-02-28 20:50:32.163 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65125.
+2026-02-28 20:50:38.298 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65125.
+2026-02-28 20:50:38.437 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65125.
+2026-02-28 20:50:38.698 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65125.
+2026-02-28 20:50:55.320 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65125.
+2026-02-28 20:51:08.714 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65125.
+2026-02-28 20:51:16.775 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65125.
+2026-02-28 20:51:32.288 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65125.
+2026-02-28 20:51:44.960 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65125.
+2026-02-28 20:51:54.055 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65125.
+2026-02-28 20:51:54.063 +00:00 [Debug] [DigiEggGameInput] Player hggv clicked button: 26 (index: 5)
+2026-02-28 20:52:09.088 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65125.
+2026-02-28 20:52:22.516 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65125.
+2026-02-28 20:52:35.949 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65125.
+2026-02-28 20:52:38.853 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65125.
+2026-02-28 20:52:51.170 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65125.
+2026-02-28 20:53:06.240 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:65125.
+2026-02-28 21:25:32.314 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:25:32.318 +00:00 [Debug] Getting packet parameters...
+2026-02-28 21:25:32.319 +00:00 [Debug] Kind: 0
+2026-02-28 21:25:32.319 +00:00 [Debug] Sending answer 8970, 1772313932
+2026-02-28 21:25:32.325 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:25:37.196 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:25:37.212 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:25:37.213 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:25:37.227 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:25:37.228 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:25:37.238 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:25:52.434 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:26:05.897 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:26:19.334 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:26:32.898 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:26:46.312 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:26:59.746 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:27:13.266 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:27:26.683 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:27:31.613 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:27:47.017 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:28:00.404 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:28:13.840 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:28:27.240 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:28:40.632 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:28:54.107 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:29:07.470 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:29:08.835 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:29:12.853 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:29:15.406 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:29:18.019 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:29:20.614 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:29:23.244 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:29:25.822 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:29:27.303 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:29:27.333 +00:00 [Debug] [DigiEggGameInput] Player hggv clicked button: 26 (index: 5)
+2026-02-28 21:29:29.980 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:29:30.150 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:29:44.345 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:29:55.715 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:30:11.333 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:30:16.946 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:30:31.418 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:30:37.325 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:30:51.587 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:31:04.973 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:31:18.589 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:31:31.894 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:31:45.316 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:31:56.425 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:31:59.197 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:31:59.198 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:32:15.476 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:32:28.936 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:32:42.294 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:32:55.724 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:33:05.250 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:33:09.191 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:33:11.751 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:33:14.298 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:33:16.884 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:33:18.100 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:33:18.100 +00:00 [Debug] [DigiEggGameInput] Player hggv clicked button: 26 (index: 5)
+2026-02-28 21:33:20.655 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:33:23.258 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:33:25.214 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:33:25.214 +00:00 [Debug] [DigiEggGameInput] Player hggv clicked button: 26 (index: 5)
+2026-02-28 21:33:27.832 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:33:27.982 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:33:42.728 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:33:56.162 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:34:00.112 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:34:16.259 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:34:18.329 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:34:33.096 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:34:46.504 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:34:59.954 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:35:00.715 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:35:16.749 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:35:30.313 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:35:37.219 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:35:38.876 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:35:42.960 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:35:45.574 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:35:48.144 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:35:49.405 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:35:49.405 +00:00 [Debug] [DigiEggGameInput] Player hggv clicked button: 26 (index: 5)
+2026-02-28 21:35:52.069 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:35:54.602 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:35:54.602 +00:00 [Debug] [DigiEggGameInput] Player hggv clicked button: 26 (index: 5)
+2026-02-28 21:35:57.254 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:35:59.814 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:36:02.436 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:36:02.591 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:36:17.373 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:36:25.664 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:36:40.790 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:36:42.801 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:36:57.526 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.
+2026-02-28 21:37:10.879 +00:00 [Debug] Received 16384 bytes from 127.0.0.1:50250.

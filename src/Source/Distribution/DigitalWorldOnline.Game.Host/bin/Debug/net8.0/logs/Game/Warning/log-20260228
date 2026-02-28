@@ -1,0 +1,28 @@
+2026-02-28 19:21:10.952 +00:00 [Warning] Waiting map 2 CH 0 initialization.
+2026-02-28 20:11:42.150 +00:00 [Warning] Waiting map 2 CH 1 initialization.
+2026-02-28 20:11:45.865 +00:00 [Warning] Waiting map 2 CH 1 initialization.
+2026-02-28 20:13:00.873 +00:00 [Warning] [DigiEggGameInput] Click REJECTED for player hggv. ClickedIndex=5 Expected=0
+2026-02-28 20:13:36.848 +00:00 [Warning] [DigiEggGameComplete] Failed update incubator for player hggv.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DigitalWorldOnline.Game.PacketProcessors.DigiEggGameCompletePacketProcessor.Process(GameClient client, Byte[] packetData) in D:\REDMO_EMU_DEV-main\src\Source\Distribution\DigitalWorldOnline.Game.Host\PacketProcessors\DigiEggGameCompletePacketProcessor.cs:line 80
+2026-02-28 20:14:29.147 +00:00 [Warning] [DigiEggGameInput] Click REJECTED for player hggv. ClickedIndex=5 Expected=1
+2026-02-28 20:14:53.877 +00:00 [Warning] [DigiEggGameComplete] Failed update incubator for player hggv.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DigitalWorldOnline.Game.PacketProcessors.DigiEggGameCompletePacketProcessor.Process(GameClient client, Byte[] packetData) in D:\REDMO_EMU_DEV-main\src\Source\Distribution\DigitalWorldOnline.Game.Host\PacketProcessors\DigiEggGameCompletePacketProcessor.cs:line 80
+2026-02-28 20:30:06.769 +00:00 [Warning] Waiting map 2 CH 1 initialization.
+2026-02-28 20:31:38.693 +00:00 [Warning] [DigiEggGameInput] Click REJECTED for player hggv. ClickedIndex=5 Expected=0
+2026-02-28 20:34:21.131 +00:00 [Warning] [DigiEggGameInput] Click REJECTED for player hggv. ClickedIndex=5 Expected=1
+2026-02-28 20:50:18.812 +00:00 [Warning] Waiting map 2 CH 1 initialization.
+2026-02-28 20:51:54.063 +00:00 [Warning] [DigiEggGameInput] Click REJECTED for player hggv. ClickedIndex=5 Expected=0
+2026-02-28 21:25:36.044 +00:00 [Warning] Waiting map 2 CH 0 initialization.
+2026-02-28 21:29:27.333 +00:00 [Warning] [DigiEggGameInput] Click REJECTED for player hggv. ClickedIndex=5 Expected=6
+2026-02-28 21:29:30.152 +00:00 [Warning] [DigiEggGameComplete] No active mini-game session for hggv. Using client-provided score (890911489).
+2026-02-28 21:29:55.715 +00:00 [Warning] [DigiEggGameComplete] No active mini-game session for hggv. Using client-provided score (890911488).
+2026-02-28 21:33:18.100 +00:00 [Warning] [DigiEggGameInput] Click REJECTED for player hggv. ClickedIndex=5 Expected=4
+2026-02-28 21:33:25.214 +00:00 [Warning] [DigiEggGameInput] Click REJECTED for player hggv. ClickedIndex=5 Expected=6
+2026-02-28 21:33:27.982 +00:00 [Warning] [DigiEggGameComplete] No active mini-game session for hggv. Using client-provided score (890911489).
+2026-02-28 21:34:00.112 +00:00 [Warning] [DigiEggGameComplete] No active mini-game session for hggv. Using client-provided score (890911488).
+2026-02-28 21:35:49.405 +00:00 [Warning] [DigiEggGameInput] Click REJECTED for player hggv. ClickedIndex=5 Expected=3
+2026-02-28 21:35:54.602 +00:00 [Warning] [DigiEggGameInput] Click REJECTED for player hggv. ClickedIndex=5 Expected=4
+2026-02-28 21:36:02.591 +00:00 [Warning] [DigiEggGameComplete] No active mini-game session for hggv. Using client-provided score (890911489).
+2026-02-28 21:36:25.664 +00:00 [Warning] [DigiEggGameComplete] No active mini-game session for hggv. Using client-provided score (890911488).

@@ -115,10 +115,11 @@ namespace DigitalWorldOnline.Game
                     services.AddSingleton<BanForCheating>();
                     services.AddSingleton<IMemorySkillService, MemorySkillService>();
                     // Packet Processors - DigiEgg Mini-Game
-                    services.AddSingleton<IGamePacketProcessor, DigiEggMiniGamePacketProcessor>();
+                    services.AddSingleton<IGamePacketProcessor, DigiEggGameTimeoutPacketProcessor>();
                     services.AddSingleton<IGamePacketProcessor, DigiEggGameStartPacketProcessor>();
                     services.AddSingleton<IGamePacketProcessor, DigiEggGameInputPacketProcessor>(); // ✅ YENİ
                     services.AddSingleton<IGamePacketProcessor, DigiEggGameCompletePacketProcessor>();
+                    services.AddSingleton<IGamePacketProcessor, DigiEggGameLimitPacketProcessor>();
 
                     services.AddSingleton<ISender, ScopedSender<Mediator>>();
                     services.AddSingleton<IProcessor, GamePacketProcessor>();
