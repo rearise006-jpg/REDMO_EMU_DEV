@@ -133,22 +133,14 @@ namespace DigitalWorldOnline.Commons.Enums.PacketProcessor
         /// </summary>
         HatchRemoveEgg = 1039,
 
-        DigiEggMiniGame = 5005,
-
         /// <summary>
-        /// DigiEgg mini-game input/click events
+        /// Hatch Mini game
         /// </summary>
-        DigiEggGameInput = 5006,
-
-        /// <summary>
-        /// DigiEgg mini-game UI started - Client ready response
-        /// </summary>
-        DigiEggGameStart = 5007,
-
-        /// <summary>
-        /// DigiEgg mini-game completed - Final result submission
-        /// </summary>
-        DigiEggGameComplete = 5008,
+        MiniGameStart = 5005,
+        MiniGameClickBtn = 5006,
+        MiniGameTimeOut = 5007,
+        MiniGameEnd = 5008,
+        MiniGameLimit = 5009,
 
         /// <summary>
         /// Switches the current partner.
